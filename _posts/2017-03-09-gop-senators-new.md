@@ -1,0 +1,20 @@
+---
+layout: post
+title: "GOP senators’ new bill would let ISPs sell your Web browsing data &#124; Ars Technica"
+microblog: false
+date: 2017-03-09 12:29 -0500
+guid: http://endonend.micro.blog/2017/03/09/gop-senators-new.html
+---
+Can anyone explain to me how <a href="https://arstechnica.com/tech-policy/2017/03/gop-senators-new-bill-would-let-isps-sell-your-web-browsing-data/">disapproving these FCC regulations</a> will "protect consumers from overreaching Internet regulation" or how it "empowers consumers to make informed choices on if and how their data can be shared"?
+
+It seems like the FCC regulation does exactly that, requiring:
+
+<ul>
+<li>Opt-in consent of consumers before sharing information covered geo-location data, financial and health information, children’s information, Social Security numbers, Web browsing history, app usage history, and the content of communications. </li>
+<li>ISPs to take "reasonable" steps to protect customers' information from theft and data breaches.</li>
+<li>Another set of requirements related to data breach notifications was scheduled to take effect on June 2.</li>
+</ul>
+
+It's amazing to me that every effort to reduce regulation under the guise of benefiting consumers is <a href="https://arstechnica.com/tech-policy/2017/03/isps-cheer-pause-of-rule-that-guards-private-data-from-security-breaches/">protested by consumer advocacy groups, while industry lobbyists and advocates always celebrate the changes</a>...
+
+It's simply <a href="https://www.amazon.com/Profit-Over-People-Neoliberalism-Global-ebook/dp/B004J4X74Y/ref=sr_1_1?ie=UTF8&qid=1489080404&sr=8-1&keywords=profit+over+people">profit over people</a>. Profit drives virtually every decision for Republicans. It's what drives de-regulation and privatization. It's what drives the call to increase military spending, <a href="http://www.reuters.com/article/us-usa-pentagon-waste-specialreport-idUSBRE9AH0LQ20131118">despite reports of massive waste</a>. All grifters and con-men, just like their leader.
