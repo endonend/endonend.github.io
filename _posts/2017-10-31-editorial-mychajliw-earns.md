@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Editorial: Mychajliw earns qualified endorsement to serve as a check on county executive - The Buffalo News"
+microblog: false
+date: 2017-10-31 05:29 -0500
+guid: http://endonend.micro.blog/2017/10/31/editorial-mychajliw-earns.html
+---
+The Buffalo News endorsement for Erie County comptroller gives us a perfect example of being able to fail up as a white man:
+
+<blockquote>Stefan Mychajliw hasn’t been a particularly good comptroller for Erie County. Even by his own reckoning, the former television reporter came on too strong at times. He also ignored an obvious and troubling personal conflict of interest, vastly overstated the financial reporting error of a publicly funded organization and generally seemed as though he was in over his head.</blockquote>
+
+Versus his opponent, a qualified woman of color:
+
+<blockquote>
+  It’s a close call, because his Democratic opponent is well qualified for the position of comptroller. Vanessa Glushefski is a certified public accountant and a lawyer. She has a professional demeanor, which suggests that she could quickly assume the responsibilities of the office.
+</blockquote>
+
+Source: <em><a href="http://buffalonews.com/2017/10/27/editorial-mychajliw-earns-qualified-endorsement-to-serve-as-a-check-on-county-executive/">Editorial: Mychajliw earns qualified endorsement to serve as a check on county executive - The Buffalo News</a></em>
