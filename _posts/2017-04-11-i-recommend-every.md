@@ -1,0 +1,7 @@
+---
+layout: post
+microblog: true
+date: 2017-04-11 16:06 -0500
+guid: http://endonend.micro.blog/2017/04/11/i-recommend-every.html
+---
+I recommend "Every Day is Opposite Day" on Medium: [ift.tt/2nqGhOB](http://ift.tt/2nqGhOB)
