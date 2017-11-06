@@ -1,0 +1,7 @@
+---
+layout: post
+microblog: true
+date: 2017-03-23 18:15 -0500
+guid: http://endonend.micro.blog/2017/03/23/i-recommend-the.html
+---
+I recommend "The Long Road Ahead For My Brown Boy In America" on Medium: [ift.tt/2n0hD32](http://ift.tt/2n0hD32)
