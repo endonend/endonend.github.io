@@ -1,0 +1,10 @@
+---
+layout: post
+title: "NYTimes: Living by the Girl Scout Law, Even Without a Home"
+microblog: false
+date: 2017-04-17 13:40 -0500
+guid: http://endonend.micro.blog/2017/04/17/nytimes-living-by.html
+---
+What a great story.
+
+[www.nytimes.com/2017/04/1...](https://www.nytimes.com/2017/04/16/nyregion/living-by-the-girl-scout-law-even-without-a-home.html)
