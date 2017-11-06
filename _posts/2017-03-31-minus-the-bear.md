@@ -1,0 +1,9 @@
+---
+layout: post
+microblog: true
+date: 2017-03-30 22:32 -0500
+guid: http://endonend.micro.blog/2017/03/31/minus-the-bear.html
+---
+<div><img width="480" height="480" alt="" src="http://endonend.micro.blog/uploads/2017/e73fb6a445.jpg" title="" class="alignnone size-large">
+<div>Minus the Bear via Instagram [ift.tt/2ohiOQ4](http://ift.tt/2ohiOQ4)</div>
+</div>
