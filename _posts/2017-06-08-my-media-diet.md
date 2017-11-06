@@ -1,0 +1,49 @@
+---
+layout: post
+title: "My Media Diet (June 9th edition)"
+microblog: false
+date: 2017-06-08 11:32 -0500
+guid: http://endonend.micro.blog/2017/06/08/my-media-diet.html
+---
+I love Jason Kottke's <a href="http://kottke.org/tag/media%20diet">media diet posts</a>, so I am going to bring the idea to my site. Some of my favorites from the last week or two:
+
+<ul>
+<li><strong><a href="http://www.hbo.com/the-leftovers">The Leftovers</a> (HBO)</strong>
+The series finale just aired and I was lucky to time my binge to match up with the finale day. This series was so, so good. Highly recommended.</p></li>
+<li><p><strong>Amber Coffman "City of No Reply"</strong></p></li>
+</ul>
+
+<iframe src="//tools.applemusic.com/embed/v1/album/1233889782?country=us" height="500px" width="100%" frameborder="0"></iframe>
+
+<ul>
+<li><strong>"Chase Me" Danger Mouse (feat Run the Jewels and Big Boi)</strong></li>
+</ul>
+
+<iframe src='//tools.applemusic.com/embed/v1/song/1236206984?country=us' height='110px' width='100%' frameborder=0></iframe>
+
+<ul>
+<li><strong>Cayetana "New Kind of Normal"</strong></li>
+</ul>
+
+<iframe src="//tools.applemusic.com/embed/v1/album/1196572198?country=us" height="500px" width="100%" frameborder="0"></iframe>
+
+<ul>
+<li><strong>girlpool "Powerplant"</strong></li>
+</ul>
+
+<iframe src="//tools.applemusic.com/embed/v1/album/1209998502?country=us" height="500px" width="100%" frameborder="0"></iframe>
+
+<ul>
+<li><a href="https://aeon.co/ideas/conspicuous-consumption-is-over-its-all-about-intangibles-now">Conspicuous consumption is over. It’s all about intangibles now</a></li>
+</ul>
+
+<p>TL:DR -- the 1% are spending more on education, health, and retirement and less on luxury goods, while the rest of us are spending more on traditional luxury goods. Guess which helps quality of life and future generations?
+
+<ul>
+<li><p><a href="https://getcrookedmedia.com/with-friends-like-these-aeee91fa31da">With Friends Like These podcast</a>
+Hosted by Ana Marie Cox, this podcast gets better each episode. Just great, uncomfortable conversations about "what divides us and what doesn’t"</p></li>
+<li><p><a href="http://kottke.org/17/06/systematic-racism-in-america-explained-in-just-three-minutes">Systemic racism in America explained in just three minutes</a>
+Couldn't make a better video or write better commentary. Please check this out.</p></li>
+<li><p><a href="https://theintercept.com/2017/06/05/top-secret-nsa-report-details-russian-hacking-effort-days-before-2016-election/">TOP-SECRET NSA REPORT DETAILS RUSSIAN HACKING EFFORT DAYS BEFORE 2016 ELECTION</a>
+Will the GOP take this seriously or will it be another issue they turn their head on, in order to attempt to pass their regressive legislation?</p></li>
+</ul>
