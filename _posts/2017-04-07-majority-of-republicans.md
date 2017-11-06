@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Majority Of Republicans Said &#039;No&#039; When Obama Wanted To Launch A Strike On Syria - The Huffington Post"
+microblog: false
+date: 2017-04-07 01:51 -0500
+guid: http://endonend.micro.blog/2017/04/07/majority-of-republicans.html
+---
+<a href="https://apple.news/ATztVGdBwQTqOyk8c47FIVw">https://apple.news/ATztVGdBwQTqOyk8c47FIVw</a>
