@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Campy Creatures"
+microblog: false
+date: 2017-02-07 14:04 -0500
+guid: http://endonend.micro.blog/2017/02/07/campy-creatures.html
+---
+I just backed this amazing looking card game from <a href="http://keymastergames.com/">Keymaster Games</a>, called <a href="https://www.kickstarter.com/projects/keymastergames/campy-creatures">Campy Creatures</a>. The game is visually appealing for sure, but it also looks super fun to play. What sold me is their assurance it would be family friendly, despite the 14+ age rating on the box.
+
+I backed their first Kickstarter for a card game called Control. It was <em>the</em> best run campaign I've been a part of on Kickstarter. I can't recommend this one fast enough.
+
+<blockquote>
+  Choose your creature, outwit your opponents, capture the Mortals. It's a ghoulish game of bluffing and deduction for 2–5 players.
+</blockquote>
+
+<iframe width="480" height="270" src="https://www.kickstarter.com/projects/keymastergames/campy-creatures/widget/video.html" frameborder="0" scrolling="no"> </iframe>
