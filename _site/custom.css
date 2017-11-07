@@ -1,11 +1,11 @@
 @media only screen and (max-width: 320px) {
-	img {
+	.e-content img {
 			width: 250px;
 	}
 }
 
 @media only screen and (max-width: 480px) {
-	img {
+	.e-content img {
 			width: 310px;
 	}
 }
