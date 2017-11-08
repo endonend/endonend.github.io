@@ -9,3 +9,12 @@
 			width: 310px;
 	}
 }
+@media only screen and (max-width: 1025px) {
+	.e-content img {
+			width: 500px;
+	}
+}
+@media only screen and (max-width: 780px) {
+.sidebar-nav { display: inline-flex; }
+.sidebar-nav-item { padding-right: 15px; }
+}
