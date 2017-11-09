@@ -1,16 +1,3 @@
-# Dependencies
-# - markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-# - permalink:        pretty
-# - relative_permalinks: true
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
 
 title: "Jason Dettbarn"
 tagline: ""
