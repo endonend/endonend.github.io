@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2017/11/10/032657.html",
+	      	
+			"content_html": "<p><a href=\"http://www.macdrifter.com/2017/11/fuck-twitter.html\">Fuck Twitter</a> from Gabe Weatherhead:</p>\n\n<blockquote>\n  <p>Without any humor or reluctance, I can say that Twitter is not healthy for me.</p>\n</blockquote>\n\n<p>I’ve been thinking the same. I’ve even moved back to RSS for reading news &amp; sharing/posting via my blog.</p>\n",
+			"date_published": "2017-11-09T22:26:00-05:00",
+			"url": "http://micro.endonend.org/2017/11/09/032657.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2017/11/10/going-to-give.html",
 	      	
 			"content_html": "<p>Going to give the <a href=\"http://micro.douglane.com/2017/11/09/microblog-photo-challenge.html\">Micro.blog Photo Challenge</a> a shot.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<div><img src=\"http://endonend.micro.blog/uploads/2017/cfc6603779.jpg\" style=\"max-width:600px;\" /><br /><div>Logan noir Via Instagram: [ift.tt/2yjCqIr](http://ift.tt/2yjCqIr)</div></div>\n",
 			"date_published": "2017-10-31T18:02:00-05:00",
 			"url": "http://micro.endonend.org/2017/10/31/230238.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/10/31/134625.html",
-	      	
-			"content_html": "<div><img src=\"http://endonend.micro.blog/uploads/2017/4ce8ddbc6a.jpg\" style=\"max-width:600px;\" /><br /><div>Chet is all business today. #sharkpug Via Instagram: [ift.tt/2zTGETq](http://ift.tt/2zTGETq)</div></div>\n",
-			"date_published": "2017-10-31T08:46:00-05:00",
-			"url": "http://micro.endonend.org/2017/10/31/134625.html"
 		}
 		
 	]
