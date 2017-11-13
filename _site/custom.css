@@ -1,20 +1,20 @@
-@media only screen and (max-width: 320px) {
-	.e-content img {
-			width: 250px;
-	}
-}
-
-@media only screen and (max-width: 480px) {
-	.e-content img {
-			width: 340px;
-	}
-}
 @media only screen and (max-width: 1025px) {
 	.e-content img {
-			width: 500px;
+			height: 90%;
+			width: 90%;
 	}
 }
 @media only screen and (max-width: 780px) {
 .sidebar-nav { display: inline-flex; }
 .sidebar-nav-item { padding-right: 15px; }
+}
+@media only screen and (max-width: 480px) {
+	.e-content img {
+			width: 340px;
+	}
+}
+@media only screen and (max-width: 320px) {
+	.e-content img {
+			width: 250px;
+	}
 }
