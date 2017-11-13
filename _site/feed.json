@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2017/11/13/i-may-be.html",
+	      	
+			"content_html": "<p>I may be biased because it’s my first new release vinyl purchase in a long time (and first pre-order ever), but the new Quicksand sounds a lot better on vinyl. </p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/2424051cfb.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-13T18:20:00-05:00",
+			"url": "http://micro.endonend.org/2017/11/13/i-may-be.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2017/11/13/220034.html",
 	      	
 			"content_html": "<p>Micro.blog Photo Challenge from <a href=\"https://micro.blog/douglane\">@douglane</a> — Day 3: “On the move” </p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/ac877ba36c.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>YouTube’s big problem has always been its algorithm, not kids programming - Polygon\n<a href=\"https://apple.news/AymcchlavTv-wWArocLyOmw\">apple.news/Aymcchlav…</a></p>\n\n",
 			"date_published": "2017-11-07T23:03:00-05:00",
 			"url": "http://micro.endonend.org/2017/11/07/youtubes-big-problem.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/07/day-of-bw.html",
-	      	
-			"content_html": "<p>Day 3 of 7: B&amp;W life challenge</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/be42199d5f.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-07T08:59:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/07/day-of-bw.html"
 		}
 		
 	]
