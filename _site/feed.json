@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2017/11/14/really-enjoying-this.html",
+	      	
+			"content_html": "<p>Really enjoying this podcast:\n<a href=\"https://overcast.fm/itunes1272852250/hurry-slowly\">Hurry Slowly — Overcast</a></p>\n",
+			"date_published": "2017-11-14T18:14:00-05:00",
+			"url": "http://micro.endonend.org/2017/11/14/really-enjoying-this.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2017/11/14/love-this-song.html",
+	      	
+			"content_html": "<p>Love this song: \n<a href=\"https://overcast.fm/+BbKPs7N78\">Maggie Rogers - Alaska — Song Exploder — Overcast</a></p>\n",
+			"date_published": "2017-11-14T18:10:00-05:00",
+			"url": "http://micro.endonend.org/2017/11/14/love-this-song.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2017/11/14/microblog-photo-challenge.html",
 	      	
 			"content_html": "<p>Micro.blog Photo Challenge from <a href=\"https://micro.blog/douglane\">@douglane</a> — Day 4: “Up close” </p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/142cb09b73.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -69,22 +85,6 @@
 			"content_html": "<p><a href=\"http://www.macdrifter.com/2017/11/fuck-twitter.html\">Fuck Twitter</a> from Gabe Weatherhead:</p>\n\n<blockquote>\n  <p>Without any humor or reluctance, I can say that Twitter is not healthy for me.</p>\n</blockquote>\n\n<p>I’ve been thinking the same. I’ve even moved back to RSS for reading news &amp; sharing/posting via my blog.</p>\n",
 			"date_published": "2017-11-09T22:26:00-05:00",
 			"url": "http://micro.endonend.org/2017/11/09/032657.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/10/going-to-give.html",
-	      	
-			"content_html": "<p>Going to give the <a href=\"http://micro.douglane.com/2017/11/09/microblog-photo-challenge.html\">Micro.blog Photo Challenge</a> a shot.</p>\n",
-			"date_published": "2017-11-09T21:06:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/09/going-to-give.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/10/002147.html",
-	      	
-			"content_html": "<p><img src=\"http://micro.endonend.org/uploads/2017/3f7a10c41a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-09T19:21:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/09/002147.html"
 		}
 		
 	]
