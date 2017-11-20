@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2017/11/20/this-week-going.html",
+	      	
+			"content_html": "<p>This week going to give Firefox and Feedbin a full-time whirl. Both getting good marks on day one. Glad to see Firefox re-vitalized!</p>\n",
+			"date_published": "2017-11-19T22:50:00-05:00",
+			"url": "http://micro.endonend.org/2017/11/19/this-week-going.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2017/11/19/hollywoodthemed-me-and.html",
 	      	
 			"content_html": "<p>Hollywood-themed “Me and My Guy” Girl Scouts dance today with my daughters. So fun! </p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/261ea0af98.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Micro.blog Photo Challenge from <a href=\"https://micro.blog/douglane\">@douglane</a> — Day 3: “On the move” </p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/ac877ba36c.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-13T17:00:00-05:00",
 			"url": "http://micro.endonend.org/2017/11/13/220034.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/13/microblog-photo-challenge.html",
-	      	
-			"content_html": "<p>Micro.blog Photo Challenge from <a href=\"https://micro.blog/douglane\">@douglane</a> — Day 2: “Tasty” aka grocery shopping day</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/ea00a658c8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-12T19:10:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/12/microblog-photo-challenge.html"
 		}
 		
 	]
