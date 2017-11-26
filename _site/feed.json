@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2017/11/26/finally-dipped-my.html",
+	      	
+			"content_html": "<p>Finally dipped my toes in home automation and voice. Ordered an Echo Dot and Hue starter lightbulb set. </p>\n",
+			"date_published": "2017-11-25T21:09:00-05:00",
+			"url": "http://micro.endonend.org/2017/11/25/finally-dipped-my.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2017/11/25/happy-th-to.html",
 	      	
 			"content_html": "<p>Happy 40th to my favorite!</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/b965b320d8.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Micro.blog Photo Challenge from <a href=\"https://micro.blog/douglane\">@douglane</a> — Day 5: “Liquid” </p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/f6d89678c6.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-15T13:59:00-05:00",
 			"url": "http://micro.endonend.org/2017/11/15/microblog-photo-challenge.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/14/really-enjoying-this.html",
-	      	
-			"content_html": "<p>Really enjoying this podcast:\n<a href=\"https://overcast.fm/itunes1272852250/hurry-slowly\">Hurry Slowly — Overcast</a></p>\n",
-			"date_published": "2017-11-14T18:14:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/14/really-enjoying-this.html"
 		}
 		
 	]
