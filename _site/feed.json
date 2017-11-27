@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2017/11/27/a-great-reminder.html",
+	      	
+			"content_html": "<p>A great reminder of why everyone should blog or journal:</p>\n\n<blockquote>\n  <p>After struggling to come up with a new book idea for so long, I could start to see all the connections between posts, the patterns, the idea planets I keep orbiting. Because it’s all in one place, hyperlinked together, I can see my own obsessions in a way that is much harder elsewhere.</p>\n</blockquote>\n\n<p><a href=\"https://austinkleon.com/2017/11/20/a-few-notes-on-daily-blogging/\">A few notes on daily blogging</a></p>\n",
+			"date_published": "2017-11-27T12:33:00-05:00",
+			"url": "http://micro.endonend.org/2017/11/27/a-great-reminder.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2017/11/27/a-great-analysis.html",
 	      	
 			"content_html": "<p>A great analysis of a page from Maus and a look into the comics/graphic novel genre as a whole: <a href=\"https://kottke.org/17/11/how-to-design-a-comic-book-page\">How to Design a Comic Book Page</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Micro.blog Photo Challenge from <a href=\"https://micro.blog/douglane\">@douglane</a> — Day 7: “Shadow” </p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/36671c45c7.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-17T20:11:00-05:00",
 			"url": "http://micro.endonend.org/2017/11/17/microblog-photo-challenge.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/16/microblog-photo-challenge.html",
-	      	
-			"content_html": "<p>Micro.blog Photo Challenge from <a href=\"https://micro.blog/douglane\">@douglane</a> — Day 6: “Seasonal” decay </p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/de9baf5f4c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-16T11:31:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/16/microblog-photo-challenge.html"
 		}
 		
 	]
