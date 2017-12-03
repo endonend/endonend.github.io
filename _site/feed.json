@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2017/12/03/gop-senator-says.html",
+	      	
+			"content_html": "<p>GOP Senator says it’s hard to fund $14 billion children’s health care program — then advocates for $1 trillion tax cut - Vox <a href=\"https://www.vox.com/2017/12/3/16730496/orrin-hatch-chip-tax-bill\">www.vox.com/2017/12/3…</a></p>\n",
+			"date_published": "2017-12-03T14:39:00-05:00",
+			"url": "http://micro.endonend.org/2017/12/03/gop-senator-says.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2017/11/29/definitely-got-me.html",
 	      	
 			"content_html": "<p>Definitely got me considering other perspectives: <a href=\"https://stratechery.com/2017/pro-neutrality-anti-title-ii/\">Pro-Neutrality, Anti-Title II – Stratechery by Ben Thompson</a></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Happy 40th to my favorite!</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/b965b320d8.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-11-25T09:36:00-05:00",
 			"url": "http://micro.endonend.org/2017/11/25/happy-th-to.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/23/someone-is-enjoying.html",
-	      	
-			"content_html": "<p>Someone is enjoying the Dog Super Bowl</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/414f52c754.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-23T12:15:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/23/someone-is-enjoying.html"
 		}
 		
 	]
