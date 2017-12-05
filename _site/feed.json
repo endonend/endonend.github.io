@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2017/12/05/ben-thompson-is.html",
+	      	
+			"content_html": "<p>Ben Thompson Is Wrong About the Deregulation of ISPs — Pixel Envy\n<a href=\"https://pxlnv.com/blog/thompson-title-ii/\">pxlnv.com/blog/thom…</a></p>\n",
+			"date_published": "2017-12-05T06:59:00-05:00",
+			"url": "http://micro.endonend.org/2017/12/05/ben-thompson-is.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2017/12/05/senate-gop-accidentally.html",
 	      	
 			"content_html": "<p>Senate GOP Accidentally Killed All Corporate Tax Deductions <a href=\"http://nymag.com/daily/intelligencer/2017/12/senate-gop-accidentally-killed-all-corporate-tax-deductions.html\">nymag.com/daily/int…</a></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>A great analysis of a page from Maus and a look into the comics/graphic novel genre as a whole: <a href=\"https://kottke.org/17/11/how-to-design-a-comic-book-page\">How to Design a Comic Book Page</a></p>\n",
 			"date_published": "2017-11-27T12:23:00-05:00",
 			"url": "http://micro.endonend.org/2017/11/27/a-great-analysis.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/26/finally-dipped-my.html",
-	      	
-			"content_html": "<p>Finally dipped my toes in home automation and voice. Ordered an Echo Dot and Hue starter lightbulb set. </p>\n",
-			"date_published": "2017-11-25T21:09:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/25/finally-dipped-my.html"
 		}
 		
 	]
