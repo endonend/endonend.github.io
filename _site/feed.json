@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2017/12/05/best-tv-shows.html",
+	      	
+			"title": "Best TV Shows of 2017",
+			
+			"content_html": "<p><a href=\"https://www.theringer.com/tv/2017/12/5/16737116/the-best-tv-shows-of-2017\">The Best TV Shows of 2017 - The Ringer</a></p>\n\n<p>100% agree with The Leftovers and Halt and Catch Fire. Amazing final seasons to two of my all-time favorite shows. </p>\n\n<p>Other 2017 seasons I enjoyed: The Sinner, The Handmaid’s Tale, Legion, Master of None, Preacher, Mindhunter (except the last episode), and Patriot. </p>\n",
+			"date_published": "2017-12-05T09:45:00-05:00",
+			"url": "http://micro.endonend.org/2017/12/05/best-tv-shows.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2017/12/05/ben-thompson-is.html",
 	      	
 			"content_html": "<p>Ben Thompson Is Wrong About the Deregulation of ISPs — Pixel Envy\n<a href=\"https://pxlnv.com/blog/thompson-title-ii/\">pxlnv.com/blog/thom…</a></p>\n",
@@ -77,14 +87,6 @@
 			"content_html": "<p>A great reminder of why everyone should blog or journal:</p>\n\n<blockquote>\n  <p>After struggling to come up with a new book idea for so long, I could start to see all the connections between posts, the patterns, the idea planets I keep orbiting. Because it’s all in one place, hyperlinked together, I can see my own obsessions in a way that is much harder elsewhere.</p>\n</blockquote>\n\n<p><a href=\"https://austinkleon.com/2017/11/20/a-few-notes-on-daily-blogging/\">A few notes on daily blogging</a></p>\n",
 			"date_published": "2017-11-27T12:33:00-05:00",
 			"url": "http://micro.endonend.org/2017/11/27/a-great-reminder.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/27/a-great-analysis.html",
-	      	
-			"content_html": "<p>A great analysis of a page from Maus and a look into the comics/graphic novel genre as a whole: <a href=\"https://kottke.org/17/11/how-to-design-a-comic-book-page\">How to Design a Comic Book Page</a></p>\n",
-			"date_published": "2017-11-27T12:23:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/27/a-great-analysis.html"
 		}
 		
 	]
