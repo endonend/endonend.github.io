@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2017/12/05/senate-gop-accidentally.html",
+	      	
+			"content_html": "<p>Senate GOP Accidentally Killed All Corporate Tax Deductions <a href=\"http://nymag.com/daily/intelligencer/2017/12/senate-gop-accidentally-killed-all-corporate-tax-deductions.html\">nymag.com/daily/int…</a></p>\n",
+			"date_published": "2017-12-04T21:13:00-05:00",
+			"url": "http://micro.endonend.org/2017/12/04/senate-gop-accidentally.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2017/12/03/gop-senator-says.html",
 	      	
 			"content_html": "<p>GOP Senator says it’s hard to fund $14 billion children’s health care program — then advocates for $1 trillion tax cut - Vox <a href=\"https://www.vox.com/2017/12/3/16730496/orrin-hatch-chip-tax-bill\">www.vox.com/2017/12/3…</a></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Finally dipped my toes in home automation and voice. Ordered an Echo Dot and Hue starter lightbulb set. </p>\n",
 			"date_published": "2017-11-25T21:09:00-05:00",
 			"url": "http://micro.endonend.org/2017/11/25/finally-dipped-my.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/25/happy-th-to.html",
-	      	
-			"content_html": "<p>Happy 40th to my favorite!</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/b965b320d8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-25T09:36:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/25/happy-th-to.html"
 		}
 		
 	]
