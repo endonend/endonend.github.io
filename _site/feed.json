@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2017/12/12/awesome-pic-of.html",
+	      	
+			"content_html": "<p>Awesome pic of Zoey by @mdettbarn #hockeygirl</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/d6c3a082a8.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-11T20:48:00-05:00",
+			"url": "http://micro.endonend.org/2017/12/11/awesome-pic-of.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2017/12/09/pregame-stretch-ouch.html",
+	      	
+			"content_html": "<p>Pre-game stretch #ouch</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/debf424185.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-09T15:07:00-05:00",
+			"url": "http://micro.endonend.org/2017/12/09/pregame-stretch-ouch.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2017/12/05/kendrick-lamar-to.html",
 	      	
 			"content_html": "<p><a href=\"https://pitchfork.com/news/kendrick-lamar-to-release-damn-collectors-edition-with-tracklist-reversed/\">Kendrick Lamar to Release DAMN. Collector’s Edition With Tracklist Reversed</a></p>\n\n<p>The best way to listen to <strong>the</strong> album of 2017. Grab on Apple Music: <a href=\"https://itunes.apple.com/us/playlist/damn-re-tracked/pl.u-KajVCZ8VqMW\">itunes.apple.com/us/playli…</a></p>\n",
@@ -69,24 +85,6 @@
 			"content_html": "<p>Can’t wait -&gt; <a href=\"https://kottke.org/17/11/trailers-for-black-mirror-season-four\">Trailers for Black Mirror season four</a></p>\n",
 			"date_published": "2017-11-27T20:21:00-05:00",
 			"url": "http://micro.endonend.org/2017/11/27/cant-wait-trailers.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/27/how-trump-will.html",
-	      	
-			"title": "How Trump Will Turn America’s Open Internet Into an Ugly Version of China’s",
-			
-			"content_html": "<p>We don’t need hypotheticals to know what killing net neutrality can do:</p>\n\n<blockquote>\n  <p>Do you like Pearl Jam? Without net neutrality rules, AT&amp;T censored their livestream after Eddie Vedder criticized then-president George W. Bush. AT&amp;T also blocked the usage of Apple’s video chat service, FaceTime, in their network, so that customers would have to pay for more expensive data plans. Verizon blocked messages sent by abortion rights group NARAL, saying that their content was too controversial.</p>\n</blockquote>\n\n<p>For extremes, look to other countries:</p>\n\n<blockquote>\n  <p>Has there been a more concerted effort to make America’s internet look like <a href=\"https://www.thedailybeast.com/chinas-great-firewall-now-deletes-messages-in-real-time\">China’s</a>? (Or <a href=\"https://www.amnesty.org/en/latest/news/2017/06/dozens-of-news-sites-blocked-as-egypt-ramps-up-digital-censorship/\">Egypt’s</a>? Or <a href=\"https://www.cnbc.com/2017/07/31/russia-follows-china-in-vpn-clampdown-raising-censorship-concerns.html\">Russia’s</a>?)</p>\n</blockquote>\n\n<p>Source: <a href=\"https://www.thedailybeast.com/how-trump-will-turn-americas-open-internet-into-an-ugly-version-of-chinas?via=twitter_page\">How Trump Will Turn America’s Open Internet Into an Ugly Version of China’s</a></p>\n\n",
-			"date_published": "2017-11-27T16:41:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/27/how-trump-will.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2017/11/27/the-end-of.html",
-	      	
-			"content_html": "<p><a href=\"https://www.vanityfair.com/news/2017/11/the-end-of-the-social-era-twitter-facebook-snapchat\">The End of the Social Era Can’t Come Soon Enough</a></p>\n\n<blockquote>\n  <p>Will a future generation look back in 10, 20, or maybe 100 years from now and wonder, mystifyingly, why a generation of humans believed in these platforms despite mounting evidence that they were tearing society apart—being used as terrorist recruitment tools, facilitating bullying, driving up anxiety, and undermining our elections—despite the obvious benefits and facilitations they provide?</p>\n</blockquote>\n",
-			"date_published": "2017-11-27T13:18:00-05:00",
-			"url": "http://micro.endonend.org/2017/11/27/the-end-of.html"
 		}
 		
 	]
