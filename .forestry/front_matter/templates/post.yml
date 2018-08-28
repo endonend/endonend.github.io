@@ -1,0 +1,15 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: Title
+  label: Title
+  name: title
+  config:
+    required: true
+- type: textarea
+  default: Post Body
+  label: Post Body
+  name: post_body
