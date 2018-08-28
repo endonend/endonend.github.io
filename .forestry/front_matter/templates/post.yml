@@ -13,3 +13,5 @@ fields:
   default: Post Body
   label: Post Body
   name: post_body
+pages:
+- _posts/test-2.md
