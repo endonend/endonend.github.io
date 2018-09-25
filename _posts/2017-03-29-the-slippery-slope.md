@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-03-28 21:45 -0500
+audio: 
+date: 2017-03-28 22:45:06 -0400
 guid: http://endonend.micro.blog/2017/03/29/the-slippery-slope.html
 ---
 The Slippery Slope of Internet Privacy — MacSparky
