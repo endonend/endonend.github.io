@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-01-21 15:02 -0500
+audio: 
+date: 2017-01-21 16:02:56 -0400
 guid: http://endonend.micro.blog/2017/01/21/its-a-protest.html
 ---
 It's a protest music kind of day.
