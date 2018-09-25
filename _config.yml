@@ -1,32 +1,39 @@
-# Dependencies
-# - markdown:         redcarpet
-highlighter:      rouge
+highlighter: "rouge"
+# - markdown: "kramdown"
 
-# Permalinks
-# - permalink:        pretty
-# - relative_permalinks: true
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
 
-# Custom vars
-version:          2.1.0
+plugins:
+  - jekyll-sitemap
 
-github:
-  repo:           https://github.com/poole/hyde
-
-title: "Jason Dettbarn"
+title: "End on End"
 tagline: ""
 description: "Follow <a href=\"https://micro.blog/endonend\">@endonend on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/endonend\">@endonend on Micro.blog</a>."
 baseurl: ""
-url: "http://micro.endonend.org"
+url: "https://www.endonend.org"
 markdown: "kramdown"
 username: "endonend"
+microblog_user: "endonend"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
-author: "Jason Dettbarn"
-name: "Jason Dettbarn"
+author: "End on End"
+name: "End on End"
 gravatar_hash: "24d2b5e528301b53a5c6720613570978"
 avatar: "https://micro.blog/endonend/avatar.jpg"
-full_name: "Jason Dettbarn"
+full_name: "End on End"
 bio: ""
 twitter_username: "endonend"
 github_username: "endonend"
@@ -35,3 +42,12 @@ paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "1644"
+gems: ["jekyll-paginate"]
+itunes_description: "Buffalo, NY // UX Designer/Business Analyst  // Partner + Rails developer with Relic Scout  //  Interests: comics, music, Nintendo Switch, hockey, buddhism, Apple, cooking, and photography. He/him.
+
+"
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Jason Dettbarn"
+itunes_email: ""
+podcast: false
