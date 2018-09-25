@@ -2,7 +2,8 @@
 layout: post
 title: "My Micro Blog Setup"
 microblog: false
-date: 2017-04-29 20:30 -0500
+audio: 
+date: 2017-04-29 21:30:10 -0400
 guid: http://endonend.micro.blog/2017/04/30/my-micro-blog.html
 ---
 Now that <a href="https://micro.blog/about">Manton Reece has Micro.blog up and running</a> for Kickstarter backers, it’s time to fine tune my setup to take advantage of the site. I am looking forward to learning more from the micro.blog community (which looks great so far) and Manton’s upcoming book on microblogging.
