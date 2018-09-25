@@ -1,0 +1,10 @@
+---
+layout: post
+microblog: true
+audio: 
+date: 2011-02-09 16:06:56 -0400
+guid: http://endonend.micro.blog/2011/02/09/stellas-smile.html
+---
+Stella's smile
+
+<img src="http://endonend.micro.blog/uploads/2018/6f5eb23bfb.jpg" width="600" height="600" />
