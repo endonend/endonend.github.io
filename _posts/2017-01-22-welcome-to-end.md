@@ -2,7 +2,8 @@
 layout: post
 title: "Welcome to End On End, micro edition"
 microblog: false
-date: 2017-01-21 22:02 -0500
+audio: 
+date: 2017-01-21 23:02:18 -0400
 guid: http://endonend.micro.blog/2017/01/22/welcome-to-end.html
 ---
 Last year I moved my blog to Medium after years of WordPress usage. I really like the writing experience and community aspects of Medium. Over the last few months, however, I missed the feeling of just sharing regular old links/photos/etc on a blog. Medium just feels substantial -- not a place for more traditional micro blog type content. So that brings me here to this new site.
