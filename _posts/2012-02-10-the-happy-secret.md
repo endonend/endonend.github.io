@@ -1,0 +1,42 @@
+---
+layout: post
+title: "The Happy Secret to Better Work"
+microblog: false
+audio: 
+date: 2012-02-10 19:17:32 -0400
+guid: http://endonend.micro.blog/2012/02/10/the-happy-secret.html
+---
+If you have 12 free minutes today, I highly recommend watching this <a href="http://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work.html">TED talk by Shawn Achor</a>.
+
+A key quote from the talk (and there are a ton of good ones):
+
+<blockquote>if I know everything about your external world, I can only predict 10 percent of your long-term happiness. <strong>90 percent of your long-term happiness is predicted not by the external world, but by the way your brain processes the world</strong>. And if we change it, if we change our formula for happiness and success, what we can do is change the way that we can then affect reality.<br><br></p></blockquote>
+
+<a href="http://www.psychologytoday.com/blog/the-happiness-advantage/201108/5-ways-turn-happiness-advantage">Shawn suggests</a> that spending as little as 20 minutes a day on the following activities, for 21 consecutive days, can help you build the habits that can basically re-wire your brain and body to be more positive, happy, and productive.
+
+<blockquote><ol>  
+<li>
+<strong>Write down three new things you are grateful for each day</strong>. Research shows this will significantly improve your optimism even 6 months later, and raises your success rates significantly.
+</li>
+<br>  
+<li>
+<strong>Write for 2 minutes a day describing one positive experience you had over the past 24 hours</strong>. This is a strategy to help transform you from a task-based thinker, to a meaning based thinker who scans the world for meaning instead of endless to-dos. This dramatically increases work happiness.
+</li>
+<br>  
+<li>
+<p><strong>Exercise for 10 minutes a day</strong>. This trains your brain to believe your behavior matters, which causes a cascade of success throughout the rest of the day.
+</li>
+<br>  
+<li>
+<p><strong>Meditate for 2 minutes</strong>, focusing on your breath going in and out. This will help you undo the negative effects of multitasking. Research shows you get multiple tasks done faster if you do them one at a time. It also decreases stress and raises happiness.
+</li>
+<br>  
+<li>
+<p><strong>Write one, quick email first thing in the morning thanking or praising someone in your support network</strong>. This significantly increases your feeling of social support, which in my study at Harvard was the largest predictor of happiness for the students.
+</li>
+</ol>
+</blockquote>
+
+<p>This is my next project for personal growth. Who's going to join me?
+
+via: <a href="http://simplicityisbliss.com/post/17365926484/ted-the-happy-secret-of-better-work">Simplicity Is Bliss</a>
