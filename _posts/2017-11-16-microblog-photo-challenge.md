@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-11-16 11:31 -0500
+audio: 
+date: 2017-11-16 12:31:37 -0400
 guid: http://endonend.micro.blog/2017/11/16/microblog-photo-challenge.html
 ---
 Micro.blog Photo Challenge from [@douglane](https://micro.blog/douglane) — Day 6: “Seasonal” decay 
