@@ -1,88 +1,209 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Jason Dettbarn",
-	"home_page_url": "http://micro.endonend.org/",
-	"feed_url": "http://micro.endonend.org/feed.json",
+	"title": "End on End",
+	"icon": "https://micro.blog/endonend/avatar.jpg",
+	"home_page_url": "https://www.endonend.org/",
+	"feed_url": "https://www.endonend.org/feed.json",
 	"items": [
 		
 		{
-			"id": "http://endonend.micro.blog/2018/01/01/hockey-albrightknox-summer.html",
+			"id": "http://endonend.micro.blog/2018/09/26/j-cole-was.html",
 	      	
-			"content_html": "<p>Hockey, Albright-Knox, summer boat ride with the Mrs, me as Logan, twins and I at the White House, protest sign, New Pornographers, Missy’s 40th, and twins first day of school. Wishing everyone a happy 2018. 🎉</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2018/30ac0d5502.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-31T21:50:00-05:00",
-			"url": "http://micro.endonend.org/2017/12/31/hockey-albrightknox-summer.html"
+			"content_html": "<p>J. Cole was so good. Put on an awesome show!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/22ba4c3203.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-25T23:19:06-04:00",
+			"url": "https://www.endonend.org/2018/09/25/j-cole-was.html"
 		},
 		
 		{
-			"id": "http://endonend.micro.blog/2017/12/31/more-albrightknox.html",
+			"id": "http://endonend.micro.blog/2018/09/25/j-cole-album.html",
 	      	
-			"content_html": "<p>More Albright-Knox</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/80031b667b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-31T15:48:00-05:00",
-			"url": "http://micro.endonend.org/2017/12/31/more-albrightknox.html"
+			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=q_ohmJtsUYs\">J. Cole - Album Of The Year - Freestyle - YouTube</a> →</p>\n\n<p>Seeing J. Cole tonight! So excited.</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/q_ohmJtsUYs\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n",
+			"date_published": "2018-09-25T10:05:27-04:00",
+			"url": "https://www.endonend.org/2018/09/25/j-cole-album.html"
 		},
 		
 		{
-			"id": "http://endonend.micro.blog/2017/12/31/awesome-murakami-exhibit.html",
+			"id": "http://endonend.micro.blog/2018/09/23/lol-what-year.html",
 	      	
-			"content_html": "<p>Awesome Murakami exhibit at Albright-Knox</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/80cc914a12.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-31T15:46:00-05:00",
-			"url": "http://micro.endonend.org/2017/12/31/awesome-murakami-exhibit.html"
+			"content_html": "<p>Lol. What 17 year old has an underage drinking party on their calendar, much less one from 36 years ago. \n<img src=\"http://www.endonend.org/uploads/2018/68699962cb.jpg\" alt=\"7F1FB714-FC59-4B37-AC85-22FDC8377739.jpg\" /></p>\n",
+			"date_published": "2018-09-23T16:46:08-04:00",
+			"url": "https://www.endonend.org/2018/09/23/lol-what-year.html"
 		},
 		
 		{
-			"id": "http://endonend.micro.blog/2017/12/30/jesus-piece.html",
+			"id": "http://endonend.micro.blog/2018/09/22/watching-maniac-netflix.html",
 	      	
-			"content_html": "<p>Jesus Piece</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/26e4b2cbbd.jpg\" width=\"600\" height=\"598\" /></p>\n",
-			"date_published": "2017-12-29T21:02:00-05:00",
-			"url": "http://micro.endonend.org/2017/12/29/jesus-piece.html"
+			"content_html": "<p>Watching: <a href=\"https://www.imdb.com/title/tt5580146/?ref_=nv_sr_1\">Maniac (Netflix)</a> 📺</p>\n",
+			"date_published": "2018-09-22T11:57:11-04:00",
+			"url": "https://www.endonend.org/2018/09/22/watching-maniac-netflix.html"
 		},
 		
 		{
-			"id": "http://endonend.micro.blog/2017/12/26/growing-up-so.html",
+			"id": "http://endonend.micro.blog/2018/09/22/bully-at-mohawk.html",
 	      	
-			"content_html": "<p>Growing up so fast.</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/9c706498a3.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-26T09:11:00-05:00",
-			"url": "http://micro.endonend.org/2017/12/26/growing-up-so.html"
+			"content_html": "<p>Bully at Mohawk Place. So good!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/169d211b77.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/3cdf85c446.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/abf2a341cd.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/0e6a9040aa.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/2a634ed4c9.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/886c65bfac.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/4d875c9bdd.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-21T23:36:51-04:00",
+			"url": "https://www.endonend.org/2018/09/21/bully-at-mohawk.html"
 		},
 		
 		{
-			"id": "http://endonend.micro.blog/2017/12/24/buddha-in-the.html",
+			"id": "http://endonend.micro.blog/2018/09/21/bully-full-performance.html",
 	      	
-			"content_html": "<p>Buddha in the snow.</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/6411b41c0c.jpg\" width=\"480\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-23T20:23:00-05:00",
-			"url": "http://micro.endonend.org/2017/12/23/buddha-in-the.html"
+			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=3f6TAMcPX30\">Bully - Full Performance (Live on KEXP) - YouTube</a> →</p>\n\n<p>Seeing Bully tonight – so excited!</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3f6TAMcPX30\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n",
+			"date_published": "2018-09-21T09:51:50-04:00",
+			"url": "https://www.endonend.org/2018/09/21/bully-full-performance.html"
 		},
 		
 		{
-			"id": "http://endonend.micro.blog/2017/12/18/someone-was-made.html",
+			"id": "http://endonend.micro.blog/2018/09/21/has-anyone-ever.html",
 	      	
-			"content_html": "<p>Someone was made festive while they were sleeping.</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/71e82052c6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-17T20:10:00-05:00",
-			"url": "http://micro.endonend.org/2017/12/17/someone-was-made.html"
+			"content_html": "<p>Has anyone ever done a hard reset of Apple Music? (Delete all and start over?) Between iCloud Music Library files not matching current Apple Music entries (so sometimes I add an album twice) and my old way of collecting everything because I could, my library is overwhelming.</p>\n",
+			"date_published": "2018-09-21T08:54:50-04:00",
+			"url": "https://www.endonend.org/2018/09/21/has-anyone-ever.html"
 		},
 		
 		{
-			"id": "http://endonend.micro.blog/2017/12/12/awesome-pic-of.html",
+			"id": "http://endonend.micro.blog/2018/09/21/brie-larson-was.html",
 	      	
-			"content_html": "<p>Awesome pic of Zoey by @mdettbarn #hockeygirl</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/d6c3a082a8.jpg\" width=\"480\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-11T20:48:00-05:00",
-			"url": "http://micro.endonend.org/2017/12/11/awesome-pic-of.html"
+			"content_html": "<p><a href=\"https://www.vice.com/en_us/article/gynvnw/brie-larson-was-told-to-smile-so-she-put-smiles-onto-marvel-dudes\">Brie Larson Was Told to Smile in ‘Captain Marvel,’ So She Put Smiles onto Marvel Dudes</a> →</p>\n\n<p>Perfect response.</p>\n",
+			"date_published": "2018-09-20T21:17:47-04:00",
+			"url": "https://www.endonend.org/2018/09/20/brie-larson-was.html"
 		},
 		
 		{
-			"id": "http://endonend.micro.blog/2017/12/09/pregame-stretch-ouch.html",
+			"id": "http://endonend.micro.blog/2018/09/20/the-siri-shortcuts.html",
 	      	
-			"content_html": "<p>Pre-game stretch #ouch</p>\n\n<p><img src=\"http://micro.endonend.org/uploads/2017/debf424185.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-09T15:07:00-05:00",
-			"url": "http://micro.endonend.org/2017/12/09/pregame-stretch-ouch.html"
+			"content_html": "<p>The <a href=\"https://www.endonend.org/2018/09/18/still-have-things.html\">Siri Shortcuts implementation</a> has me looking at Things again… Shortcuts could be used to make custom Perspectives, which was a big draw for OmniFocus 3. Not as robust, but I don’t get too crazy with criteria.</p>\n",
+			"date_published": "2018-09-20T13:39:25-04:00",
+			"url": "https://www.endonend.org/2018/09/20/the-siri-shortcuts.html"
 		},
 		
 		{
-			"id": "http://endonend.micro.blog/2017/12/05/kendrick-lamar-to.html",
+			"id": "http://endonend.micro.blog/2018/09/20/heres-a-simple.html",
 	      	
-			"content_html": "<p><a href=\"https://pitchfork.com/news/kendrick-lamar-to-release-damn-collectors-edition-with-tracklist-reversed/\">Kendrick Lamar to Release DAMN. Collector’s Edition With Tracklist Reversed</a></p>\n\n<p>The best way to listen to <strong>the</strong> album of 2017. Grab on Apple Music: <a href=\"https://itunes.apple.com/us/playlist/damn-re-tracked/pl.u-KajVCZ8VqMW\">itunes.apple.com/us/playli…</a></p>\n",
-			"date_published": "2017-12-05T10:18:00-05:00",
-			"url": "http://micro.endonend.org/2017/12/05/kendrick-lamar-to.html"
+			"content_html": "<p>Here’s a simple Siri Shortcut to <a href=\"https://www.icloud.com/shortcuts/ad9b1b7ebb9648feb0f56e80309d394d\">subscribe to the current site in Feedbin</a></p>\n",
+			"date_published": "2018-09-19T21:07:13-04:00",
+			"url": "https://www.endonend.org/2018/09/19/heres-a-simple.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/19/made-a-playlist.html",
+	      	
+			"content_html": "<p>Made a playlist of some of my favorite indie/alt-rock songs from the 90s. If you are on Apple music, <a href=\"https://itunes.apple.com/us/playlist/my-90s-in-rock/pl.u-Gv0BCZNdeqB\">enjoy</a>. Almost 9 hours of music!</p>\n",
+			"date_published": "2018-09-19T15:43:16-04:00",
+			"url": "https://www.endonend.org/2018/09/19/made-a-playlist.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/19/space-alert-an.html",
+	      	
+			"content_html": "<p><a href=\"https://uarrr.org/2018/09/19/space-alert-an-apple-shortcuts-text-adventure/\">SPACE ALERT™ – An Apple Shortcuts Text Adventure – UARRR.org</a> →</p>\n\n<p>This is pretty amazing and a super creative use of Shortcuts. Hope there’s more like this coming!</p>\n\n<p>Hat tip: <a href=\"https://micro.blog/ismh\">@ismh</a></p>\n",
+			"date_published": "2018-09-19T12:24:58-04:00",
+			"url": "https://www.endonend.org/2018/09/19/space-alert-an.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/19/minutes-proving-de.html",
+	      	
+			"content_html": "<p><a href=\"https://music.avclub.com/60-minutes-proving-de-la-soul-is-one-of-hip-hop-s-great-1829062110\">60 minutes proving De La Soul is one of hip-hop’s greats—but its legacy is in danger</a> →</p>\n\n<p>Truth.</p>\n",
+			"date_published": "2018-09-19T08:00:22-04:00",
+			"url": "https://www.endonend.org/2018/09/19/minutes-proving-de.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/18/the-captain-marvel.html",
+	      	
+			"content_html": "<p>The Captain Marvel movie can’t come soon enough.</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/faccc091a5.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-18T15:54:11-04:00",
+			"url": "https://www.endonend.org/2018/09/18/the-captain-marvel.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/18/captain-marvels-helmetmohawk.html",
+	      	
+			"content_html": "<p><a href=\"https://www.polygon.com/2018/9/18/17873482/captain-marvel-trailer-costume-mohawk-kelly-sue-deconnick\">Captain Marvel’s helmet/mohawk movie costume is the result of a bet - Polygon</a> →</p>\n\n<p>Love DeConnick’s run and McKelvie’s design.</p>\n",
+			"date_published": "2018-09-18T15:34:49-04:00",
+			"url": "https://www.endonend.org/2018/09/18/captain-marvels-helmetmohawk.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/18/morning-walk-before.html",
+	      	
+			"content_html": "<p>Morning walk before a six consecutive hour meeting.</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/8b2a72c80f.jpg\" width=\"480\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-18T14:05:04-04:00",
+			"url": "https://www.endonend.org/2018/09/18/morning-walk-before.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/18/still-have-things.html",
+	      	
+			"content_html": "<p>Still have Things installed on my iPhone and really impressed with the <a href=\"https://culturedcode.com/things/blog/2018/09/things-3-7-brings-siri-shortcuts-and-more/\">build-your-own implementation of creating Siri Shortcuts</a>.</p>\n",
+			"date_published": "2018-09-18T13:40:34-04:00",
+			"url": "https://www.endonend.org/2018/09/18/still-have-things.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/18/marvel-studios-captain.html",
+	      	
+			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=Z1BCujX3pw8\">Marvel Studios’ Captain Marvel - Official Trailer - YouTube</a> →</p>\n\n<p>YES.</p>\n",
+			"date_published": "2018-09-18T10:57:35-04:00",
+			"url": "https://www.endonend.org/2018/09/18/marvel-studios-captain.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/17/created-my-first.html",
+	      	
+			"content_html": "<p>Created my first Shortcut! Made a menu &amp; dialer workflow that calls the correct phone conference line based on who is hosting: trigger workflow, pick meeting organizer from menu, dial the number with appropriate conference ID. No more dialing wrong ID or having to look up ID. 🤓</p>\n",
+			"date_published": "2018-09-17T14:43:37-04:00",
+			"url": "https://www.endonend.org/2018/09/17/created-my-first.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/17/its-time.html",
+	      	
+			"content_html": "<p>It’s time! \n<img src=\"http://www.endonend.org/uploads/2018/57e42b309e.jpg\" alt=\"AB29C0EB-63A1-4171-BB5B-E0942A59F136.jpg\" /></p>\n",
+			"date_published": "2018-09-17T13:11:17-04:00",
+			"url": "https://www.endonend.org/2018/09/17/its-time.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/17/thinking-about-attention.html",
+	      	
+			"content_html": "<p><a href=\"http://www.cgpgrey.com/blog/cyclops\">Thinking about Attention — CGP Grey</a> →</p>\n\n<p>Found myself nodding in agreement throughout the 11+ minute video. Worth a watch!</p>\n",
+			"date_published": "2018-09-17T12:26:45-04:00",
+			"url": "https://www.endonend.org/2018/09/17/thinking-about-attention.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/16/lucy-and-her.html",
+	      	
+			"content_html": "<p>Lucy and her fellow Girl Scout Cadettes rode 24 miles on their bikes to raise awareness for their leader’s fight with mitochondrial disease. They wrote letters to politicians, contacted the media, and had local businesses sponsor their ride. So proud of these ladies.</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/9c359b8a0a.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-16T18:39:35-04:00",
+			"url": "https://www.endonend.org/2018/09/16/lucy-and-her.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/16/watching-ready-player.html",
+	      	
+			"content_html": "<p>Watching: <a href=\"https://m.imdb.com/title/tt1677720/?ref_=m_ttfcd_tt\">Ready Player One (2018) - IMDb</a> 🎥</p>\n",
+			"date_published": "2018-09-15T22:59:06-04:00",
+			"url": "https://www.endonend.org/2018/09/15/watching-ready-player.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/16/got-the-day.html",
+	      	
+			"content_html": "<p>Got the 30-day blogging pin!  ✍🏼 \nThanks to <a href=\"https://micro.blog/manton\">@manton</a> and everyone on Micro.blog for making blogging enjoyable again.</p>\n",
+			"date_published": "2018-09-15T20:10:53-04:00",
+			"url": "https://www.endonend.org/2018/09/15/got-the-day.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/09/15/took-a-day.html",
+	      	
+			"content_html": "<p>Took a 10-day break from running due to knee issues but got back on the treadmill today. Wasn’t too bad – glad I kept doing low impact cardio in the meantime.</p>\n",
+			"date_published": "2018-09-15T17:59:43-04:00",
+			"url": "https://www.endonend.org/2018/09/15/took-a-day.html"
 		}
 		
 	]
