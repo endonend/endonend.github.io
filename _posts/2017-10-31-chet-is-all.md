@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-31 08:46 -0500
+audio: 
+date: 2017-10-31 09:46:10 -0400
 guid: http://endonend.micro.blog/2017/10/31/chet-is-all.html
 ---
 Chet is all business today. #sharkpug
