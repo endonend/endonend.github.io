@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-11-12 19:10 -0500
+audio: 
+date: 2017-11-12 20:10:29 -0400
 guid: http://endonend.micro.blog/2017/11/13/microblog-photo-challenge.html
 ---
 Micro.blog Photo Challenge from [@douglane](https://micro.blog/douglane) — Day 2: “Tasty” aka grocery shopping day
