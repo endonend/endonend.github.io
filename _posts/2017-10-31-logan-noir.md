@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-10-31 17:50 -0500
+audio: 
+date: 2017-10-31 18:50:01 -0400
 guid: http://endonend.micro.blog/2017/10/31/logan-noir.html
 ---
 Logan noir
