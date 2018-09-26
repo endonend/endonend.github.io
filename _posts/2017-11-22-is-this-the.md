@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-11-22 09:31 -0500
+audio: 
+date: 2017-11-22 10:31:42 -0400
 guid: http://endonend.micro.blog/2017/11/22/is-this-the.html
 ---
 Is this the world we want to live in?
