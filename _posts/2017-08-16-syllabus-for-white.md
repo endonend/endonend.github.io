@@ -2,7 +2,8 @@
 layout: post
 title: "Syllabus for White People to Educate Themselves"
 microblog: false
-date: 2017-08-15 22:25 -0500
+audio: 
+date: 2017-08-15 23:25:25 -0400
 guid: http://endonend.micro.blog/2017/08/16/syllabus-for-white.html
 ---
 <blockquote>A “difference of opinion” is how you like your coffee, or debates over trade and economic policy. Opinions that dehumanize others, that incite violence against them, cannot be treated as merely “opinions.” They must be called what they are: bigotry.</blockquote>
