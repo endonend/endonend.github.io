@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-11-12 16:45 -0500
+audio: 
+date: 2017-11-12 17:45:44 -0400
 guid: http://endonend.micro.blog/2017/11/12/zoey-doing-her.html
 ---
 Zoey doing her best Burns-y impersonation
