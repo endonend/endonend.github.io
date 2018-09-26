@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-31 15:48 -0500
+audio: 
+date: 2017-12-31 16:48:25 -0400
 guid: http://endonend.micro.blog/2017/12/31/more-albrightknox.html
 ---
 More Albright-Knox
