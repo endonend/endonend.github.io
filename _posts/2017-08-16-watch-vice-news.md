@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-08-15 22:07 -0500
+audio: 
+date: 2017-08-15 23:07:43 -0400
 guid: http://endonend.micro.blog/2017/08/16/watch-vice-news.html
 ---
 Watch VICE News Tonight’s full episode “Charlottesville: Race and Terror”
