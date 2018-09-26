@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-11-14 18:14 -0500
+audio: 
+date: 2017-11-14 19:14:11 -0400
 guid: http://endonend.micro.blog/2017/11/14/really-enjoying-this.html
 ---
 Really enjoying this podcast:
