@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-11-07 23:03 -0500
+audio: 
+date: 2017-11-08 00:03:04 -0400
 guid: http://endonend.micro.blog/2017/11/08/youtubes-big-problem.html
 ---
 YouTube’s big problem has always been its algorithm, not kids programming - Polygon
