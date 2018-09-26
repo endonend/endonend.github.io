@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-17 20:10 -0500
+audio: 
+date: 2017-12-17 21:10:07 -0400
 guid: http://endonend.micro.blog/2017/12/18/someone-was-made.html
 ---
 Someone was made festive while they were sleeping.
