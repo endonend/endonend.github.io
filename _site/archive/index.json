@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/04/a-few-weeks.html",
+	      	
+			"content_text": "A few weeks ago I asked if anyone ever deleted...",
+			"date_published": "2018-10-04T09:36:54-04:00",
+			"url": "https://www.endonend.org/2018/10/04/a-few-weeks.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/03/dont-miss-this.html",
+	      	
+			"content_text": "Don’t Miss This: “Redlands” by Jordie Bellaire and Vanesa Del...",
+			"date_published": "2018-10-03T15:37:32-04:00",
+			"url": "https://www.endonend.org/2018/10/03/dont-miss-this.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/03/i-know-brett.html",
+	      	
+			"content_text": "I Know Brett Kavanaugh, but I Wouldn’t Confirm Him -...",
+			"date_published": "2018-10-02T20:46:49-04:00",
+			"url": "https://www.endonend.org/2018/10/02/i-know-brett.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/03/if-the-point.html",
 	      	
 			"content_text": "If the Point of Capitalism is to Escape Capitalism, Then...",
