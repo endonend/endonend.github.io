@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/04/a-few-weeks.html",
+	      	
+			"content_html": "<p>A few weeks ago I asked if anyone ever <a href=\"https://www.endonend.org/2018/09/21/has-anyone-ever.html\">deleted their entire Apple Music collection and started over</a>. Well, I just did. Re-booting and adding back with purpose and mindful of the all-you-can-eat world we live in now. Before: 44,000+ songs. Current: 1,486 and a focus on quality.</p>\n",
+			"date_published": "2018-10-04T09:36:54-04:00",
+			"url": "https://www.endonend.org/2018/10/04/a-few-weeks.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/03/dont-miss-this.html",
+	      	
+			"content_html": "<p><a href=\"http://www.multiversitycomics.com/news-columns/dont-miss-this-redlands-by-jordie-bellaire-and-vanesa-del-rey/\">Don’t Miss This: “Redlands” by Jordie Bellaire and Vanesa Del Rey – Multiversity Comics</a> →</p>\n\n<p>So good!</p>\n",
+			"date_published": "2018-10-03T15:37:32-04:00",
+			"url": "https://www.endonend.org/2018/10/03/dont-miss-this.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/03/i-know-brett.html",
+	      	
+			"content_html": "<p><a href=\"https://www.theatlantic.com/ideas/archive/2018/10/why-i-wouldnt-confirm-brett-kavanaugh/571936/\">I Know Brett Kavanaugh, but I Wouldn’t Confirm Him - The Atlantic</a> →</p>\n",
+			"date_published": "2018-10-02T20:46:49-04:00",
+			"url": "https://www.endonend.org/2018/10/02/i-know-brett.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/03/if-the-point.html",
 	      	
 			"content_html": "<p><a href=\"https://eand.co/if-the-point-of-capitalism-is-to-escape-capitalism-then-whats-the-point-of-capitalism-bedd1b2447d\">If the Point of Capitalism is to Escape Capitalism, Then What’s the Point of Capitalism?</a> →</p>\n\n<blockquote>\n  <p>The capitalist, ironically enough, is trying to earn his freedom from capitalism — just like everyone else. The only difference is that he’s a step closer</p>\n</blockquote>\n",
@@ -180,30 +204,6 @@
 			"content_html": "<p>It’s time! \n<img src=\"http://www.endonend.org/uploads/2018/57e42b309e.jpg\" alt=\"AB29C0EB-63A1-4171-BB5B-E0942A59F136.jpg\" /></p>\n",
 			"date_published": "2018-09-17T13:11:17-04:00",
 			"url": "https://www.endonend.org/2018/09/17/its-time.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/17/thinking-about-attention.html",
-	      	
-			"content_html": "<p><a href=\"http://www.cgpgrey.com/blog/cyclops\">Thinking about Attention — CGP Grey</a> →</p>\n\n<p>Found myself nodding in agreement throughout the 11+ minute video. Worth a watch!</p>\n",
-			"date_published": "2018-09-17T12:26:45-04:00",
-			"url": "https://www.endonend.org/2018/09/17/thinking-about-attention.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/16/lucy-and-her.html",
-	      	
-			"content_html": "<p>Lucy and her fellow Girl Scout Cadettes rode 24 miles on their bikes to raise awareness for their leader’s fight with mitochondrial disease. They wrote letters to politicians, contacted the media, and had local businesses sponsor their ride. So proud of these ladies.</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/9c359b8a0a.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-09-16T18:39:35-04:00",
-			"url": "https://www.endonend.org/2018/09/16/lucy-and-her.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/16/watching-ready-player.html",
-	      	
-			"content_html": "<p>Watching: <a href=\"https://m.imdb.com/title/tt1677720/?ref_=m_ttfcd_tt\">Ready Player One (2018) - IMDb</a> 🎥</p>\n",
-			"date_published": "2018-09-15T22:59:06-04:00",
-			"url": "https://www.endonend.org/2018/09/15/watching-ready-player.html"
 		}
 		
 	]
