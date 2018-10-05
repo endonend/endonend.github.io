@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/05/in-praise-of.html",
+	      	
+			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/29/opinion/sunday/in-praise-of-mediocrity.html\">In Praise of Mediocrity - The New York Times</a> →</p>\n\n<p>Tim Wu on having hobbies:</p>\n\n<blockquote>\n  <p>Lost here is the gentle pursuit of a modest competence, the doing of something just because you enjoy it, not because you are good at it.</p>\n</blockquote>\n",
+			"date_published": "2018-10-04T21:42:07-04:00",
+			"url": "https://www.endonend.org/2018/10/04/in-praise-of.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/04/a-few-weeks.html",
 	      	
 			"content_html": "<p>A few weeks ago I asked if anyone ever <a href=\"https://www.endonend.org/2018/09/21/has-anyone-ever.html\">deleted their entire Apple Music collection and started over</a>. Well, I just did. Re-booting and adding back with purpose and mindful of the all-you-can-eat world we live in now. Before: 44,000+ songs. Current: 1,486 and a focus on quality.</p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Created my first Shortcut! Made a menu &amp; dialer workflow that calls the correct phone conference line based on who is hosting: trigger workflow, pick meeting organizer from menu, dial the number with appropriate conference ID. No more dialing wrong ID or having to look up ID. 🤓</p>\n",
 			"date_published": "2018-09-17T14:43:37-04:00",
 			"url": "https://www.endonend.org/2018/09/17/created-my-first.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/17/its-time.html",
-	      	
-			"content_html": "<p>It’s time! \n<img src=\"http://www.endonend.org/uploads/2018/57e42b309e.jpg\" alt=\"AB29C0EB-63A1-4171-BB5B-E0942A59F136.jpg\" /></p>\n",
-			"date_published": "2018-09-17T13:11:17-04:00",
-			"url": "https://www.endonend.org/2018/09/17/its-time.html"
 		}
 		
 	]
