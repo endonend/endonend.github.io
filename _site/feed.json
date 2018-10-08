@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/08/thats-a-win.html",
+	      	
+			"content_html": "<p>That’s a win!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/121903e78b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-07T20:32:37-04:00",
+			"url": "https://www.endonend.org/2018/10/07/thats-a-win.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/07/almost-game-time.html",
+	      	
+			"content_html": "<p>Almost game time!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/d18f907300.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-07T12:00:45-04:00",
+			"url": "https://www.endonend.org/2018/10/07/almost-game-time.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/05/in-praise-of.html",
 	      	
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/29/opinion/sunday/in-praise-of-mediocrity.html\">In Praise of Mediocrity - The New York Times</a> →</p>\n\n<p>Tim Wu on having hobbies:</p>\n\n<blockquote>\n  <p>Lost here is the gentle pursuit of a modest competence, the doing of something just because you enjoy it, not because you are good at it.</p>\n</blockquote>\n",
@@ -188,22 +204,6 @@
 			"content_html": "<p>Still have Things installed on my iPhone and really impressed with the <a href=\"https://culturedcode.com/things/blog/2018/09/things-3-7-brings-siri-shortcuts-and-more/\">build-your-own implementation of creating Siri Shortcuts</a>.</p>\n",
 			"date_published": "2018-09-18T13:40:34-04:00",
 			"url": "https://www.endonend.org/2018/09/18/still-have-things.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/18/marvel-studios-captain.html",
-	      	
-			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=Z1BCujX3pw8\">Marvel Studios’ Captain Marvel - Official Trailer - YouTube</a> →</p>\n\n<p>YES.</p>\n",
-			"date_published": "2018-09-18T10:57:35-04:00",
-			"url": "https://www.endonend.org/2018/09/18/marvel-studios-captain.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/17/created-my-first.html",
-	      	
-			"content_html": "<p>Created my first Shortcut! Made a menu &amp; dialer workflow that calls the correct phone conference line based on who is hosting: trigger workflow, pick meeting organizer from menu, dial the number with appropriate conference ID. No more dialing wrong ID or having to look up ID. 🤓</p>\n",
-			"date_published": "2018-09-17T14:43:37-04:00",
-			"url": "https://www.endonend.org/2018/09/17/created-my-first.html"
 		}
 		
 	]
