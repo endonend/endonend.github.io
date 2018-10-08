@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/08/thats-a-win.html",
+	      	
+			"content_text": "That’s a win!\n\n\n",
+			"date_published": "2018-10-07T20:32:37-04:00",
+			"url": "https://www.endonend.org/2018/10/07/thats-a-win.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/07/almost-game-time.html",
+	      	
+			"content_text": "Almost game time!\n\n\n",
+			"date_published": "2018-10-07T12:00:45-04:00",
+			"url": "https://www.endonend.org/2018/10/07/almost-game-time.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/05/in-praise-of.html",
 	      	
 			"content_text": "In Praise of Mediocrity - The New York Times →...",
