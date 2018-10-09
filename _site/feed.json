@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/09/saba-npr-music.html",
+	      	
+			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=LTzmjU8aOR4&amp;feature=youtu.be\">Saba: NPR Music Tiny Desk Concert - YouTube</a> →</p>\n\n<p>Saba’s <em>Care for Me</em> is one of my fave’s from this year.</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LTzmjU8aOR4\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n",
+			"date_published": "2018-10-09T13:51:22-04:00",
+			"url": "https://www.endonend.org/2018/10/09/saba-npr-music.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/08/thats-a-win.html",
 	      	
 			"content_html": "<p>That’s a win!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/121903e78b.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Morning walk before a six consecutive hour meeting.</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/8b2a72c80f.jpg\" width=\"480\" height=\"600\" /></p>\n",
 			"date_published": "2018-09-18T14:05:04-04:00",
 			"url": "https://www.endonend.org/2018/09/18/morning-walk-before.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/18/still-have-things.html",
-	      	
-			"content_html": "<p>Still have Things installed on my iPhone and really impressed with the <a href=\"https://culturedcode.com/things/blog/2018/09/things-3-7-brings-siri-shortcuts-and-more/\">build-your-own implementation of creating Siri Shortcuts</a>.</p>\n",
-			"date_published": "2018-09-18T13:40:34-04:00",
-			"url": "https://www.endonend.org/2018/09/18/still-have-things.html"
 		}
 		
 	]
