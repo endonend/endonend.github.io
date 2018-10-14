@@ -7,6 +7,32 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/14/some-couch-time.html",
+	      	
+			"content_text": "\n\nSome couch time with Laverne.\n\n",
+			"date_published": "2018-10-13T21:01:54-04:00",
+			"url": "https://www.endonend.org/2018/10/13/some-couch-time.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/13/what-i-can.html",
+	      	
+			"title": "What I Can Control",
+			
+			"content_text": "swissmiss – What I Can Control → Absolutely love this…...",
+			"date_published": "2018-10-13T10:16:30-04:00",
+			"url": "https://www.endonend.org/2018/10/13/what-i-can.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/11/posted-a-rough.html",
+	      	
+			"content_text": "Posted a rough draft of a new song. I am...",
+			"date_published": "2018-10-10T22:24:51-04:00",
+			"url": "https://www.endonend.org/2018/10/10/posted-a-rough.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/09/saba-npr-music.html",
 	      	
 			"content_text": "Saba: NPR Music Tiny Desk Concert - YouTube → Saba’s...",
