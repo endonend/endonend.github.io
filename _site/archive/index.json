@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/15/ok-a-second.html",
+	      	
+			"content_text": "Ok, a second watching of Annihilation left a better taste...",
+			"date_published": "2018-10-15T14:41:05-04:00",
+			"url": "https://www.endonend.org/2018/10/15/ok-a-second.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/14/watched-the-man.html",
+	      	
+			"content_text": "Watched: The Man in the High Castle 📺 Finished season...",
+			"date_published": "2018-10-14T00:13:34-04:00",
+			"url": "https://www.endonend.org/2018/10/14/watched-the-man.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/14/watched-annihilation-directed.html",
+	      	
+			"content_text": "Watched: ‎Annihilation (2018) directed by Alex Garland - Letterboxd 🎥...",
+			"date_published": "2018-10-13T23:54:55-04:00",
+			"url": "https://www.endonend.org/2018/10/13/watched-annihilation-directed.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/14/some-couch-time.html",
 	      	
 			"content_text": "\n\nSome couch time with Laverne.\n\n",
