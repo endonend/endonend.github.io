@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/16/its-a-tragically.html",
+	      	
+			"content_html": "<p>It’s a Tragically Hip kind of day.</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/698445e96f.jpg\" width=\"519\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-16T11:23:19-04:00",
+			"url": "https://www.endonend.org/2018/10/16/its-a-tragically.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/15/ok-a-second.html",
 	      	
 			"content_html": "<p>Ok, a second watching of Annihilation left a better taste in my mouth. As a movie, it is visually amazing and certainly creepy. As an adaptation of a book I <strong>really</strong> enjoyed, it took that second viewing to appreciate what it has to offer.</p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>The <a href=\"https://www.endonend.org/2018/09/18/still-have-things.html\">Siri Shortcuts implementation</a> has me looking at Things again… Shortcuts could be used to make custom Perspectives, which was a big draw for OmniFocus 3. Not as robust, but I don’t get too crazy with criteria.</p>\n",
 			"date_published": "2018-09-20T13:39:25-04:00",
 			"url": "https://www.endonend.org/2018/09/20/the-siri-shortcuts.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/20/heres-a-simple.html",
-	      	
-			"content_html": "<p>Here’s a simple Siri Shortcut to <a href=\"https://www.icloud.com/shortcuts/ad9b1b7ebb9648feb0f56e80309d394d\">subscribe to the current site in Feedbin</a></p>\n",
-			"date_published": "2018-09-19T21:07:13-04:00",
-			"url": "https://www.endonend.org/2018/09/19/heres-a-simple.html"
 		}
 		
 	]
