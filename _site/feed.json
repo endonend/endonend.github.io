@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/21/cousins-weekend.html",
+	      	
+			"content_html": "<p>Cousins weekend!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/ebb8447e8a.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/d94931f006.jpg\" width=\"600\" height=\"599\" /><img src=\"http://www.endonend.org/uploads/2018/360e3cbb07.jpg\" width=\"600\" height=\"599\" /><img src=\"http://www.endonend.org/uploads/2018/d3fdaf024d.jpg\" width=\"600\" height=\"599\" /><img src=\"http://www.endonend.org/uploads/2018/972b1de9d7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-20T21:50:15-04:00",
+			"url": "https://www.endonend.org/2018/10/20/cousins-weekend.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/16/its-a-tragically.html",
 	      	
 			"content_html": "<p>It’s a Tragically Hip kind of day.</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/698445e96f.jpg\" width=\"519\" height=\"600\" /></p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p><a href=\"https://www.vice.com/en_us/article/gynvnw/brie-larson-was-told-to-smile-so-she-put-smiles-onto-marvel-dudes\">Brie Larson Was Told to Smile in ‘Captain Marvel,’ So She Put Smiles onto Marvel Dudes</a> →</p>\n\n<p>Perfect response.</p>\n",
 			"date_published": "2018-09-20T21:17:47-04:00",
 			"url": "https://www.endonend.org/2018/09/20/brie-larson-was.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/20/the-siri-shortcuts.html",
-	      	
-			"content_html": "<p>The <a href=\"https://www.endonend.org/2018/09/18/still-have-things.html\">Siri Shortcuts implementation</a> has me looking at Things again… Shortcuts could be used to make custom Perspectives, which was a big draw for OmniFocus 3. Not as robust, but I don’t get too crazy with criteria.</p>\n",
-			"date_published": "2018-09-20T13:39:25-04:00",
-			"url": "https://www.endonend.org/2018/09/20/the-siri-shortcuts.html"
 		}
 		
 	]
