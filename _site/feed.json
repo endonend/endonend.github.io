@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/25/comic-collectors-while.html",
+	      	
+			"content_html": "<p>Comic collectors! While we re-factor the Relic Scout app to include more buying tools, the main focus of the site will be content to help collectors (of all types) build a quality collection on a budget. Please subscribe and pass the word! <a href=\"https://www.relicscout.com/\">www.relicscout.com</a></p>\n",
+			"date_published": "2018-10-25T09:26:58-04:00",
+			"url": "https://www.endonend.org/2018/10/25/comic-collectors-while.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/25/finished-marvels-luke.html",
+	      	
+			"content_html": "<p>Finished: <a href=\"http://ishowsapp.com/share/show/304219\">Marvel’s Luke Cage</a>📺 – Hoping for a Heroes for Hire team-up!</p>\n",
+			"date_published": "2018-10-24T21:14:55-04:00",
+			"url": "https://www.endonend.org/2018/10/24/finished-marvels-luke.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/21/cousins-weekend.html",
 	      	
 			"content_html": "<p>Cousins weekend!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/ebb8447e8a.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/d94931f006.jpg\" width=\"600\" height=\"599\" /><img src=\"http://www.endonend.org/uploads/2018/360e3cbb07.jpg\" width=\"600\" height=\"599\" /><img src=\"http://www.endonend.org/uploads/2018/d3fdaf024d.jpg\" width=\"600\" height=\"599\" /><img src=\"http://www.endonend.org/uploads/2018/972b1de9d7.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -190,22 +206,6 @@
 			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=3f6TAMcPX30\">Bully - Full Performance (Live on KEXP) - YouTube</a> →</p>\n\n<p>Seeing Bully tonight – so excited!</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3f6TAMcPX30\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n",
 			"date_published": "2018-09-21T09:51:50-04:00",
 			"url": "https://www.endonend.org/2018/09/21/bully-full-performance.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/21/has-anyone-ever.html",
-	      	
-			"content_html": "<p>Has anyone ever done a hard reset of Apple Music? (Delete all and start over?) Between iCloud Music Library files not matching current Apple Music entries (so sometimes I add an album twice) and my old way of collecting everything because I could, my library is overwhelming.</p>\n",
-			"date_published": "2018-09-21T08:54:50-04:00",
-			"url": "https://www.endonend.org/2018/09/21/has-anyone-ever.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/21/brie-larson-was.html",
-	      	
-			"content_html": "<p><a href=\"https://www.vice.com/en_us/article/gynvnw/brie-larson-was-told-to-smile-so-she-put-smiles-onto-marvel-dudes\">Brie Larson Was Told to Smile in ‘Captain Marvel,’ So She Put Smiles onto Marvel Dudes</a> →</p>\n\n<p>Perfect response.</p>\n",
-			"date_published": "2018-09-20T21:17:47-04:00",
-			"url": "https://www.endonend.org/2018/09/20/brie-larson-was.html"
 		}
 		
 	]
