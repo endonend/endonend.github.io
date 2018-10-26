@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/26/three-perspectives.html",
+	      	
+			"content_html": "<p>Three perspectives</p>\n\n<p><img src=\"https://www.endonend.org/uploads/2018/80305ab0c9.jpg\" width=\"600\" height=\"449\" /><img src=\"https://www.endonend.org/uploads/2018/3376927220.jpg\" width=\"600\" height=\"449\" /><img src=\"https://www.endonend.org/uploads/2018/fa16b875cd.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2018-10-25T20:24:26-04:00",
+			"url": "https://www.endonend.org/2018/10/25/three-perspectives.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/25/comic-collectors-while.html",
 	      	
 			"content_html": "<p>Comic collectors! While we re-factor the Relic Scout app to include more buying tools, the main focus of the site will be content to help collectors (of all types) build a quality collection on a budget. Please subscribe and pass the word! <a href=\"https://www.relicscout.com/\">www.relicscout.com</a></p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>Bully at Mohawk Place. So good!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/169d211b77.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/3cdf85c446.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/abf2a341cd.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/0e6a9040aa.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/2a634ed4c9.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/886c65bfac.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.endonend.org/uploads/2018/4d875c9bdd.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-09-21T23:36:51-04:00",
 			"url": "https://www.endonend.org/2018/09/21/bully-at-mohawk.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/21/bully-full-performance.html",
-	      	
-			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=3f6TAMcPX30\">Bully - Full Performance (Live on KEXP) - YouTube</a> →</p>\n\n<p>Seeing Bully tonight – so excited!</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3f6TAMcPX30\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n",
-			"date_published": "2018-09-21T09:51:50-04:00",
-			"url": "https://www.endonend.org/2018/09/21/bully-full-performance.html"
 		}
 		
 	]
