@@ -7,10 +7,32 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/30/my-latest-comic.html",
+	      	
+			"content_text": "My latest comic issue recommendation over at Relic Scout: Speculator’s...",
+			"date_published": "2018-10-30T15:13:25-04:00",
+			"url": "https://www.endonend.org/2018/10/30/my-latest-comic.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/30/a-joyous-cover.html",
+	      	
+			"content_text": "A Joyous Cover of Love Will Tear Us Apart Again?...",
+			"date_published": "2018-10-29T20:50:23-04:00",
+			"url": "https://www.endonend.org/2018/10/29/a-joyous-cover.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/29/143004.html",
+	      	
+			"content_text": "So glad I looked through the JetPens planner section for...",
+			"date_published": "2018-10-29T10:30:04-04:00",
+			"url": "https://www.endonend.org/2018/10/29/143004.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/27/yuno-full-performance.html",
 	      	
-			"title": "Yuno - Full Performance (Live on KEXP) - YouTube",
-			
 			"content_text": "Yuno (Live on KEXP) - YouTube → One of my...",
 			"date_published": "2018-10-27T10:56:22-04:00",
 			"url": "https://www.endonend.org/2018/10/27/yuno-full-performance.html"
