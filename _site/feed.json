@@ -7,10 +7,32 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/30/my-latest-comic.html",
+	      	
+			"content_html": "<p>My latest comic issue recommendation over at Relic Scout: <a href=\"https://www.relicscout.com/2018/10/30/speculators-corner-volume-2-issue-3-young-avengers-presents-6/\">Speculator’s Corner: Volume 2, Issue 3 (Young Avengers Presents #6) - Relic Scout</a></p>\n",
+			"date_published": "2018-10-30T15:13:25-04:00",
+			"url": "https://www.endonend.org/2018/10/30/my-latest-comic.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/30/a-joyous-cover.html",
+	      	
+			"content_html": "<p><a href=\"https://kottke.org/18/10/a-joyous-cover-of-love-will-tear-us-apart-again\">A Joyous Cover of Love Will Tear Us Apart Again? - kottke.org</a> →\nSo good!</p>\n",
+			"date_published": "2018-10-29T20:50:23-04:00",
+			"url": "https://www.endonend.org/2018/10/29/a-joyous-cover.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/29/143004.html",
+	      	
+			"content_html": "<p>So glad I looked through the JetPens planner section for the 100th time! I found this, which is exactly the view I like and only one I really use in my planner: <a href=\"https://www.jetpens.com/Hobonichi-Accessory-Weekly-Calendar-2019/pd/25376\">Hobonichi Accessory - Weekly Calendar 2019 - JetPens.com</a></p>\n",
+			"date_published": "2018-10-29T10:30:04-04:00",
+			"url": "https://www.endonend.org/2018/10/29/143004.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/27/yuno-full-performance.html",
 	      	
-			"title": "Yuno - Full Performance (Live on KEXP) - YouTube",
-			
 			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=55A5dYet8Zo&amp;t=480s\">Yuno (Live on KEXP) - YouTube</a> →</p>\n\n<p>One of my favorite albums of 2018. A perfect blend of indie, hip hop, R&amp;B, and even reggae.</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/55A5dYet8Zo\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n",
 			"date_published": "2018-10-27T10:56:22-04:00",
 			"url": "https://www.endonend.org/2018/10/27/yuno-full-performance.html"
@@ -184,30 +206,6 @@
 			"content_html": "<p>Exciting start to the hockey season! Zoey’s team got off to a 2-0 lead and the other team battled back to tie it up and then take the lead with a couple minutes left. Zoey’s team battled hard and scored the tying goal with 48 seconds left. A super fun game to watch.</p>\n",
 			"date_published": "2018-09-28T21:20:02-04:00",
 			"url": "https://www.endonend.org/2018/09/28/exciting-start-to.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/26/j-cole-was.html",
-	      	
-			"content_html": "<p>J. Cole was so good. Put on an awesome show!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/22ba4c3203.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-09-25T23:19:06-04:00",
-			"url": "https://www.endonend.org/2018/09/25/j-cole-was.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/25/j-cole-album.html",
-	      	
-			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=q_ohmJtsUYs\">J. Cole - Album Of The Year - Freestyle - YouTube</a> →</p>\n\n<p>Seeing J. Cole tonight! So excited.</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/q_ohmJtsUYs\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n",
-			"date_published": "2018-09-25T10:05:27-04:00",
-			"url": "https://www.endonend.org/2018/09/25/j-cole-album.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/09/23/lol-what-year.html",
-	      	
-			"content_html": "<p>Lol. What 17 year old has an underage drinking party on their calendar, much less one from 36 years ago. \n<img src=\"http://www.endonend.org/uploads/2018/68699962cb.jpg\" alt=\"7F1FB714-FC59-4B37-AC85-22FDC8377739.jpg\" /></p>\n",
-			"date_published": "2018-09-23T16:46:08-04:00",
-			"url": "https://www.endonend.org/2018/09/23/lol-what-year.html"
 		}
 		
 	]
