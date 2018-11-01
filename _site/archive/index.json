@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/10/31/this-kid-who.html",
+	      	
+			"content_text": "This kid. Who wants to be a cactus with a...",
+			"date_published": "2018-10-31T17:07:32-04:00",
+			"url": "https://www.endonend.org/2018/10/31/this-kid-who.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/10/30/laverne-got-a.html",
+	      	
+			"content_text": "Laverne got a young new companion today: Cocoa. Super fluffy...",
+			"date_published": "2018-10-30T19:12:58-04:00",
+			"url": "https://www.endonend.org/2018/10/30/laverne-got-a.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/30/my-latest-comic.html",
 	      	
 			"content_text": "My latest comic issue recommendation over at Relic Scout: Speculator’s...",
