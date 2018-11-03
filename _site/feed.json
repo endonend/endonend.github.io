@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/11/03/stella-and-her.html",
+	      	
+			"content_html": "<p>Stella and her friends finished up their mural at Buffalo Arts Studio. So cool!</p>\n\n<p><img src=\"https://www.endonend.org/uploads/2018/338abd48f8.jpg\" width=\"600\" height=\"313\" /></p>\n",
+			"date_published": "2018-11-03T17:56:46-04:00",
+			"url": "https://www.endonend.org/2018/11/03/stella-and-her.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/11/03/friday-night-lights.html",
 	      	
 			"content_html": "<p>Friday night lights. Sort of…</p>\n\n<p><img src=\"https://www.endonend.org/uploads/2018/92e5581f5b.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>That’s a win!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/121903e78b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-10-07T20:32:37-04:00",
 			"url": "https://www.endonend.org/2018/10/07/thats-a-win.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/10/07/almost-game-time.html",
-	      	
-			"content_html": "<p>Almost game time!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/d18f907300.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-10-07T12:00:45-04:00",
-			"url": "https://www.endonend.org/2018/10/07/almost-game-time.html"
 		}
 		
 	]
