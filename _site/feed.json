@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/11/03/friday-night-lights.html",
+	      	
+			"content_html": "<p>Friday night lights. Sort of…</p>\n\n<p><img src=\"https://www.endonend.org/uploads/2018/92e5581f5b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-02T20:42:44-04:00",
+			"url": "https://www.endonend.org/2018/11/02/friday-night-lights.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/11/01/over-at-relic.html",
+	      	
+			"content_html": "<p>Over at Relic Scout, I shared my <a href=\"https://www.relicscout.com/2018/11/01/my-comic-pull-list-november-2018/\">pull list and most anticipated comic books for November</a>.</p>\n",
+			"date_published": "2018-11-01T19:45:18-04:00",
+			"url": "https://www.endonend.org/2018/11/01/over-at-relic.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/11/01/nfl-teams-arent.html",
+	      	
+			"content_html": "<p>NFL teams aren’t even trying that hard to justify keeping Kap off a team. Here’s my hometown Bills. I get Anderson as a mentor - he’s in his 14th season. Barkley is horrible. If you are tanking sure, but don’t claim you are trying to win.</p>\n\n<p><img src=\"https://www.endonend.org/uploads/2018/7e01f2bf81.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-01T10:24:49-04:00",
+			"url": "https://www.endonend.org/2018/11/01/nfl-teams-arent.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/11/01/finished-marvels-daredevil.html",
+	      	
+			"content_html": "<p>Finished: <a href=\"http://ishowsapp.com/share/show/281662\">Marvel’s Daredevil</a> 📺</p>\n\n<p>So good. Loved Fisk (again), Bullseye, and Nadeem. Hopefully they will be back for another season.</p>\n",
+			"date_published": "2018-10-31T21:46:20-04:00",
+			"url": "https://www.endonend.org/2018/10/31/finished-marvels-daredevil.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/10/31/this-kid-who.html",
 	      	
 			"content_html": "<p>This kid. Who wants to be a cactus with a mustache?😂</p>\n\n<p><img src=\"https://www.endonend.org/uploads/2018/8ae39354e2.jpg\" width=\"480\" height=\"600\" /></p>\n",
@@ -174,38 +206,6 @@
 			"content_html": "<p>Almost game time!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/d18f907300.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-10-07T12:00:45-04:00",
 			"url": "https://www.endonend.org/2018/10/07/almost-game-time.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/10/05/in-praise-of.html",
-	      	
-			"content_html": "<p><a href=\"https://www.nytimes.com/2018/09/29/opinion/sunday/in-praise-of-mediocrity.html\">In Praise of Mediocrity - The New York Times</a> →</p>\n\n<p>Tim Wu on having hobbies:</p>\n\n<blockquote>\n  <p>Lost here is the gentle pursuit of a modest competence, the doing of something just because you enjoy it, not because you are good at it.</p>\n</blockquote>\n",
-			"date_published": "2018-10-04T21:42:07-04:00",
-			"url": "https://www.endonend.org/2018/10/04/in-praise-of.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/10/04/a-few-weeks.html",
-	      	
-			"content_html": "<p>A few weeks ago I asked if anyone ever <a href=\"https://www.endonend.org/2018/09/21/has-anyone-ever.html\">deleted their entire Apple Music collection and started over</a>. Well, I just did. Re-booting and adding back with purpose and mindful of the all-you-can-eat world we live in now. Before: 44,000+ songs. Current: 1,486 and a focus on quality.</p>\n",
-			"date_published": "2018-10-04T09:36:54-04:00",
-			"url": "https://www.endonend.org/2018/10/04/a-few-weeks.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/10/03/dont-miss-this.html",
-	      	
-			"content_html": "<p><a href=\"http://www.multiversitycomics.com/news-columns/dont-miss-this-redlands-by-jordie-bellaire-and-vanesa-del-rey/\">Don’t Miss This: “Redlands” by Jordie Bellaire and Vanesa Del Rey – Multiversity Comics</a> →</p>\n\n<p>So good!</p>\n",
-			"date_published": "2018-10-03T15:37:32-04:00",
-			"url": "https://www.endonend.org/2018/10/03/dont-miss-this.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/10/03/i-know-brett.html",
-	      	
-			"content_html": "<p><a href=\"https://www.theatlantic.com/ideas/archive/2018/10/why-i-wouldnt-confirm-brett-kavanaugh/571936/\">I Know Brett Kavanaugh, but I Wouldn’t Confirm Him - The Atlantic</a> →</p>\n",
-			"date_published": "2018-10-02T20:46:49-04:00",
-			"url": "https://www.endonend.org/2018/10/02/i-know-brett.html"
 		}
 		
 	]
