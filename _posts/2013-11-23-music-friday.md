@@ -3,7 +3,7 @@ layout: post
 title: "Music Friday"
 microblog: false
 audio: 
-date: 2013-11-22 23:03:00 -0400
+date: 2013-11-22 22:03:00 -0500
 guid: http://endonend.micro.blog/2013/11/23/music-friday.html
 ---
 Here are some of the bands catching my ear lately:
