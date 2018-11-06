@@ -3,7 +3,7 @@ layout: post
 title: "How to Find Your Life Purpose: An Unconventional Approach"
 microblog: false
 audio: 
-date: 2014-08-20 21:57:33 -0400
+date: 2014-08-20 20:57:33 -0500
 guid: http://endonend.micro.blog/2014/08/21/how-to-find.html
 ---
 Leo Babuata of Zen Habits <a href="http://zenhabits.net/life-purpose/">on the benefit of going outside your personal bubble</a> to find your purpose:
