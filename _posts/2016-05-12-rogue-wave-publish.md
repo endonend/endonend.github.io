@@ -3,7 +3,7 @@ layout: post
 title: "Rogue Wave - Publish My Love - Live in Buffalo"
 microblog: false
 audio: 
-date: 2016-05-12 09:10:46 -0400
+date: 2016-05-12 08:10:46 -0500
 guid: http://endonend.micro.blog/2016/05/12/rogue-wave-publish.html
 ---
 We saw Rogue Wave last night in Buffalo, NY. After the band completed their set, they gathered the crowd and played an acoustic sing-a-long version of Publish My Love. An amazing experience!
