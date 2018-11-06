@@ -3,7 +3,7 @@ layout: post
 title: "Bad news, priorities and living in the moment"
 microblog: false
 audio: 
-date: 2011-09-21 23:54:56 -0400
+date: 2011-09-21 22:54:56 -0500
 guid: http://endonend.micro.blog/2011/09/22/bad-news-priorities.html
 ---
 Ever have one of those days where everything goes wrong or it’s bad news after bad news? All of us have. It’s just the way things happen sometimes. And most of the time, the things that happen to get you down turn out to be not as bad as they seemed at the time. Your emotions tend to do a good job of taking over and covering up the details.
