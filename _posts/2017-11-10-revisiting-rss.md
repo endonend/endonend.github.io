@@ -3,7 +3,7 @@ layout: post
 title: "Re-visiting RSS"
 microblog: false
 audio: 
-date: 2017-11-10 15:13:22 -0400
+date: 2017-11-10 14:13:22 -0500
 guid: http://endonend.micro.blog/2017/11/10/revisiting-rss.html
 ---
 Reading [The Case for RSS on MacSparky](https://www.macsparky.com/blog/2017/11/the-case-for-rss) today, I can't help but agree.
