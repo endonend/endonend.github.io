@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-03 21:22:03 -0400
+date: 2017-10-03 20:22:03 -0500
 guid: http://endonend.micro.blog/2017/10/04/why-we-never.html
 ---
 Why We Never Talk About Black-on-Black Crime: An Answer to White America’s Most Pressing Question
