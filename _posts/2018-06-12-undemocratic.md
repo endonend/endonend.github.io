@@ -3,7 +3,7 @@ layout: post
 title: "Undemocratic"
 microblog: false
 audio: 
-date: 2018-06-12 09:33:21 -0400
+date: 2018-06-12 08:33:21 -0500
 guid: http://endonend.micro.blog/2018/06/12/undemocratic.html
 ---
 Voter fraud is <a href="https://www.vox.com/policy-and-politics/2018/6/11/17448742/ohio-voter-purge-supreme-court-ruling">rare to nonexistent</a>, yet there are ongoing attempts by a certain party to limit the pool of voters in America. To make it harder to vote. All of these rules disproportionally impact the poor and people of color. They count on you viewing the rules through your lens of privilege to get their agenda through the system.
