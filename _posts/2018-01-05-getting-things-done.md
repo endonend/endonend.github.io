@@ -3,7 +3,7 @@ layout: post
 title: "Getting things done"
 microblog: false
 audio: 
-date: 2018-01-05 10:59:50 -0400
+date: 2018-01-05 09:59:50 -0500
 guid: http://endonend.micro.blog/2018/01/05/getting-things-done.html
 ---
 Austin Kleon with great advice for a new year:
