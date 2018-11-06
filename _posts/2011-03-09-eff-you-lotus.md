@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2011-03-09 14:30:46 -0400
+date: 2011-03-09 13:30:46 -0500
 guid: http://endonend.micro.blog/2011/03/09/eff-you-lotus.html
 ---
 Eff you Lotus Notes and your 10 minute shutdown every day
