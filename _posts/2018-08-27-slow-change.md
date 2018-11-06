@@ -3,7 +3,7 @@ layout: post
 title: "Slow Change"
 microblog: false
 audio: 
-date: 2018-08-26 21:16:12 -0400
+date: 2018-08-26 20:16:12 -0500
 guid: http://endonend.micro.blog/2018/08/27/slow-change.html
 ---
 <a href="https://blog.ayjay.org/how-change-happens/">how change happens – Snakes and Ladders</a>:
