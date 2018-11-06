@@ -3,7 +3,7 @@ layout: post
 title: "Rules to Live By"
 microblog: false
 audio: 
-date: 2013-01-03 14:26:58 -0400
+date: 2013-01-03 13:26:58 -0500
 guid: http://endonend.micro.blog/2013/01/03/rules-to-live.html
 ---
 A few weeks ago I posted <a title="Life Lessons" href="http://endonend.org/2012/12/life-lessons/">10 awesome life lessons from Jack Dorsey</a> (CEO of Square and Chairman of Twitter)... and today there's a few more great ones courtesy of a <a href="http://zenhabits.net/12rules/">guest post over on Leo Babauta's Zen Habits</a>.
