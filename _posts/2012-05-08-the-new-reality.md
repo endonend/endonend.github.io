@@ -3,7 +3,7 @@ layout: post
 title: "The New Reality"
 microblog: false
 audio: 
-date: 2012-05-08 10:47:04 -0400
+date: 2012-05-08 09:47:04 -0500
 guid: http://endonend.micro.blog/2012/05/08/the-new-reality.html
 ---
 <p id="yui_3_17_2_1_1407674114902_386056">As part of last week's job report, the <a href="http://www.nytimes.com/2012/05/05/business/economy/us-added-only-115000-jobs-in-april-rate-is-8-1.html?_r=2&amp;hp">NY Times gave us a little insight</a> into why corporations and the elite don't really mind our current economy and why things aren't going to drastically change (for the rest of us) any time soon:</p>
