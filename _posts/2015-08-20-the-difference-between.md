@@ -3,7 +3,7 @@ layout: post
 title: "The difference between time and attention – Signal v. Noise"
 microblog: false
 audio: 
-date: 2015-08-20 10:16:21 -0400
+date: 2015-08-20 09:16:21 -0500
 guid: http://endonend.micro.blog/2015/08/20/the-difference-between.html
 ---
 Jason Fried shared some great insight on <a href="https://signalvnoise.com/posts/3919-the-difference-between-time-and-attention">time and attention</a> today:
