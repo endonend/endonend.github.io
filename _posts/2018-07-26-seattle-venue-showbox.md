@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-26 13:54:49 -0400
+date: 2018-07-26 12:54:49 -0500
 guid: http://endonend.micro.blog/2018/07/26/seattle-venue-showbox.html
 ---
 <a href="http://www.brooklynvegan.com/seattle-venue-showbox-may-be-torn-down-for-apartments/">Seattle venue Showbox may be torn down for apartments</a> &rarr;
