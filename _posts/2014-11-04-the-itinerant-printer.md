@@ -3,7 +3,7 @@ layout: post
 title: "The Itinerant Printer"
 microblog: false
 audio: 
-date: 2014-11-04 16:21:04 -0400
+date: 2014-11-04 15:21:04 -0500
 guid: http://endonend.micro.blog/2014/11/04/the-itinerant-printer.html
 ---
 Over the past few weeks I had the pleasure of helping Chris Fritton, a good friend of over 30 years(!), on his next project: <a href="http://itinerantprinter.com">The Itinerant Printer</a>. Over the last bunch of years Chris has helped build <a href="http://wnybookarts.org">WNYBAC</a> into a local treasure, as well as create/run/one-man-show the <a href="http://www.buffalosmallpress.org">Buffalo Small Press Book Fair</a>.
