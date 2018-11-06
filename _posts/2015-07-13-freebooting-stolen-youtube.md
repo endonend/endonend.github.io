@@ -3,7 +3,7 @@ layout: post
 title: "Freebooting: Stolen YouTube videos going viral on Facebook"
 microblog: false
 audio: 
-date: 2015-07-13 12:49:09 -0400
+date: 2015-07-13 11:49:09 -0500
 guid: http://endonend.micro.blog/2015/07/13/freebooting-stolen-youtube.html
 ---
 <a href="http://www.slate.com/articles/technology/technology/2015/07/freebooting_stolen_youtube_videos_going_viral_on_facebook.single.html">Via Slate.com</a>:
