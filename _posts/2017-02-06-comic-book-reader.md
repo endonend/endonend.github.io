@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-02-05 22:35:31 -0400
+date: 2017-02-05 21:35:31 -0500
 guid: http://endonend.micro.blog/2017/02/06/comic-book-reader.html
 ---
 Comic Book Reader Fatigue Is Real, But Reversible - CBR&nbsp;
