@@ -3,7 +3,7 @@ layout: post
 title: "June Love List Update"
 microblog: false
 audio: 
-date: 2012-07-09 15:03:37 -0400
+date: 2012-07-09 14:03:37 -0500
 guid: http://endonend.micro.blog/2012/07/09/june-love-list.html
 ---
 Hello, July. Nice to see you again. Time for a <a href="/end-on-end/2011/12/my-2012-love-list">Love List</a> update!
