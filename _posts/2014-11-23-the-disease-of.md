@@ -3,7 +3,7 @@ layout: post
 title: "The Disease of Busyness"
 microblog: false
 audio: 
-date: 2014-11-22 23:04:14 -0400
+date: 2014-11-22 22:04:14 -0500
 guid: http://endonend.micro.blog/2014/11/23/the-disease-of.html
 ---
 I found a great post on busyness over at OnBeing.org by Omid Safi titled <a href="http://www.onbeing.org/blog/the-thief-of-intimacy-busyness/7031">The Thief of Intimacy, Busyness</a>. Safi argues that we lose intimacy by being so busy:
