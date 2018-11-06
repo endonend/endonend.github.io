@@ -3,7 +3,7 @@ layout: post
 title: "Be More Productive. Shorten the Workweek. - NYTimes"
 microblog: false
 audio: 
-date: 2012-08-20 17:25:52 -0400
+date: 2012-08-20 16:25:52 -0500
 guid: http://endonend.micro.blog/2012/08/20/be-more-productive.html
 ---
 <blockquote>When there’s less time to work, you waste less time. When you have a compressed workweek, you tend to focus on what’s important. Constraining time encourages quality time.
