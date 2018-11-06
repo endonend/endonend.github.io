@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-13 09:57:24 -0400
+date: 2018-09-13 08:57:24 -0500
 guid: http://endonend.micro.blog/2018/09/13/ive-been-working.html
 ---
 I've been working on [this song](https://soundcloud.com/user-454803970/maybe-you-dont-version-2) for the last couple months. I recently made some improvements over [version one](https://www.endonend.org/2018/06/22/rough-draft-of.html) and posted them to Soundcloud.  Inspired by my love of 90's indie rock. (Embed available on my [blog](http://www.endonend.org/2018/09/13/ive-been-working.html).)
