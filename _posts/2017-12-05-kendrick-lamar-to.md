@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-05 11:18:46 -0400
+date: 2017-12-05 10:18:46 -0500
 guid: http://endonend.micro.blog/2017/12/05/kendrick-lamar-to.html
 ---
 [Kendrick Lamar to Release DAMN. Collector’s Edition With Tracklist Reversed](https://pitchfork.com/news/kendrick-lamar-to-release-damn-collectors-edition-with-tracklist-reversed/)
