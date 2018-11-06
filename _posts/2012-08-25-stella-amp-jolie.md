@@ -3,7 +3,7 @@ layout: post
 title: "Stella &amp; Jolie"
 microblog: false
 audio: 
-date: 2012-08-24 23:05:44 -0400
+date: 2012-08-24 22:05:44 -0500
 guid: http://endonend.micro.blog/2012/08/25/stella-amp-jolie.html
 ---
 <p id="yui_3_17_2_1_1407674114902_651009">Stella is <strong>so</strong> great with animals. She absolutely adores our cat Jolie. She was literally hugging the goats at the county fair. She even loves bugs!&nbsp;</p>
