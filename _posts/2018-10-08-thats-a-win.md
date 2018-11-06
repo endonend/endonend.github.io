@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-07 20:32:37 -0400
+date: 2018-10-07 19:32:37 -0500
 guid: http://endonend.micro.blog/2018/10/08/thats-a-win.html
 ---
 That’s a win!
