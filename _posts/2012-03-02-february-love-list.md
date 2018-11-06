@@ -3,7 +3,7 @@ layout: post
 title: "February Love List Update"
 microblog: false
 audio: 
-date: 2012-03-02 18:11:41 -0400
+date: 2012-03-02 17:11:41 -0500
 guid: http://endonend.micro.blog/2012/03/02/february-love-list.html
 ---
 February is in the books. Can't believe it's March already. I am so excited for Spring and warmer weather!
