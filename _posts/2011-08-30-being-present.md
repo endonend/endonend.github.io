@@ -3,7 +3,7 @@ layout: post
 title: "Being Present"
 microblog: false
 audio: 
-date: 2011-08-29 23:32:39 -0400
+date: 2011-08-29 22:32:39 -0500
 guid: http://endonend.micro.blog/2011/08/30/being-present.html
 ---
 On Saturday, Melisa attended my cousin Karen’s baby shower, so I decided to take the girls to the Buffalo Zoo for the day. It was a beautiful day and we’re members, so I figured it would be fun to do something we all like and spend as much time outdoors as possible.
