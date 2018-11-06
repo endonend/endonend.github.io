@@ -3,7 +3,7 @@ layout: post
 title: "An Amazing 10 Days for America"
 microblog: false
 audio: 
-date: 2016-03-04 13:01:59 -0400
+date: 2016-03-04 12:01:59 -0500
 guid: http://endonend.micro.blog/2016/03/04/an-amazing-days.html
 ---
 Early February was an amazing time -- absolutely amazing -- to watch the performances from two highly talented African Americans, on the highest profile stages in American culture, that so perfectly captured Black Culture and Black America in 2016. Even better that they took place in the midst of one of the most insane Presidential election cycles America has ever seen.
