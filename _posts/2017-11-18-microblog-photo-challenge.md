@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-17 21:11:55 -0400
+date: 2017-11-17 20:11:55 -0500
 guid: http://endonend.micro.blog/2017/11/18/microblog-photo-challenge.html
 ---
 Micro.blog Photo Challenge from [@douglane](https://micro.blog/douglane) — Day 7: “Shadow” 
