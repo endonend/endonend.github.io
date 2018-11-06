@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-21 23:36:51 -0400
+date: 2018-09-21 22:36:51 -0500
 guid: http://endonend.micro.blog/2018/09/22/bully-at-mohawk.html
 ---
 Bully at Mohawk Place. So good!
