@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2011-10-30 00:01:58 -0400
+date: 2011-10-29 23:01:58 -0500
 guid: http://endonend.micro.blog/2011/10/30/take-care-of.html
 ---
 <blockquote>
