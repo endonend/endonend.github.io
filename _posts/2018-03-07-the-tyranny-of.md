@@ -3,7 +3,7 @@ layout: post
 title: "The Tyranny of Convenience"
 microblog: false
 audio: 
-date: 2018-03-06 21:32:18 -0400
+date: 2018-03-06 20:32:18 -0500
 guid: http://endonend.micro.blog/2018/03/07/the-tyranny-of.html
 ---
 Tim Wu writes on <a href="https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html?emc=edit_th_180218&amp;nl=todaysheadlines&amp;nlid=42109107">The Tyranny of Convenience</a> in the New York Times:
