@@ -3,7 +3,7 @@ layout: post
 title: "Instagram, Business Models, and Expectations"
 microblog: false
 audio: 
-date: 2012-04-29 20:00:00 -0400
+date: 2012-04-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2012/04/30/instagram-business-models.html
 ---
 <a href="http://instagram.com/">Instagram</a> has been in the news a lot lately, as the service just launched an Android app. However, this video has left <a href="http://shawnblanc.net/2012/04/instagrams-business-model/">many</a> <a href="http://512pixels.net/instagram-dont-break-my-heart/">people</a> <a href="http://brooksreview.net/2012/04/instagram-revenue/">concerned</a> about Instagram's future:
