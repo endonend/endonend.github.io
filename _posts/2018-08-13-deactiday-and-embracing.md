@@ -3,7 +3,7 @@ layout: post
 title: "#DeactiDay and embracing IndieWeb"
 microblog: false
 audio: 
-date: 2018-08-13 13:54:41 -0400
+date: 2018-08-13 12:54:41 -0500
 guid: http://endonend.micro.blog/2018/08/13/deactiday-and-embracing.html
 ---
 A couple of weeks ago I deactivated my Facebook account, citing Facebook’s long standing history with privacy violations, ineptitude with fighting hate speech/Russian trolling/etc, and their overall business model in my “why are you leaving?” survey response. Besides dealing with my mom, who thought I unfriended and blocked her, I haven’t had another thought about the site since — it’s refreshing.
