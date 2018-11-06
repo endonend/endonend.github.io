@@ -3,7 +3,7 @@ layout: post
 title: "The Service Industry Generation"
 microblog: false
 audio: 
-date: 2012-03-16 16:21:57 -0400
+date: 2012-03-16 15:21:57 -0500
 guid: http://endonend.micro.blog/2012/03/16/the-service-industry.html
 ---
 From <a href="https://www.good.is/articles/minimum-rage">GOOD Magazine</a>:
