@@ -3,7 +3,7 @@ layout: post
 title: "Expectations"
 microblog: false
 audio: 
-date: 2012-03-29 22:25:02 -0400
+date: 2012-03-29 21:25:02 -0500
 guid: http://endonend.micro.blog/2012/03/30/expectations.html
 ---
 <blockquote id="yui_3_17_2_1_1407674114902_266533">When we are unsatisfied with how things are, including ourselves, we make changes, but then what? We are still unsatisfied, because the root cause of this problem isn’t the things around us (or how we look, etc.), but our expectations. We expect things to be different. -- <a href="http://mnmlist.com/ok/">Leo Babauta - "being OK with things as they are"</a>
