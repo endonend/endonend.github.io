@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-07 12:00:45 -0400
+date: 2018-10-07 11:00:45 -0500
 guid: http://endonend.micro.blog/2018/10/07/almost-game-time.html
 ---
 Almost game time!
