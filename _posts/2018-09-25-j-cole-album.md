@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-25 10:05:27 -0400
+date: 2018-09-25 09:05:27 -0500
 guid: http://endonend.micro.blog/2018/09/25/j-cole-album.html
 ---
 [J. Cole - Album Of The Year - Freestyle - YouTube](https://www.youtube.com/watch?v=q_ohmJtsUYs) &rarr;
