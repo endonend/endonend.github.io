@@ -3,7 +3,7 @@ layout: post
 title: "Planting Seeds"
 microblog: false
 audio: 
-date: 2011-11-29 20:00:00 -0400
+date: 2011-11-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2011/11/30/planting-seeds.html
 ---
 One of the things I started doing right around the time I launched this blog (early September) was running and focusing on my health. I've run 11 times since then and I generally aim for 3 times per week, although a few weeks have been tough.&nbsp;You can follow my progress on <a href="http://runkeeper.com/user/jdettbarn/activity/54975050">Runkeeper</a>,&nbsp;as I'm working my way up to 3.1 miles to run a 5k.
