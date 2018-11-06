@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-15 20:10:53 -0400
+date: 2018-09-15 19:10:53 -0500
 guid: http://endonend.micro.blog/2018/09/16/got-the-day.html
 ---
 Got the 30-day blogging pin!  ✍🏼 
