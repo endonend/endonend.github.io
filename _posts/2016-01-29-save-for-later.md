@@ -3,7 +3,7 @@ layout: post
 title: "Save for Later — Medium"
 microblog: false
 audio: 
-date: 2016-01-29 14:11:42 -0400
+date: 2016-01-29 13:11:42 -0500
 guid: http://endonend.micro.blog/2016/01/29/save-for-later.html
 ---
 <a href="https://medium.com/@dianakimball/save-for-later-b2fa64782078">Diana Kimball</a> has a pretty in-depth look at bookmarking and the act of saving things for later:
