@@ -3,7 +3,7 @@ layout: post
 title: "Permission to Let Go - The Minimalists"
 microblog: false
 audio: 
-date: 2015-06-15 11:03:02 -0400
+date: 2015-06-15 10:03:02 -0500
 guid: http://endonend.micro.blog/2015/06/15/permission-to-let.html
 ---
 Great, quotable post over at <a href="http://www.theminimalists.com/permission/">The Minimalists</a>:
