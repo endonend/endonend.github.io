@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-27 09:56:35 -0400
+date: 2018-08-27 08:56:35 -0500
 guid: http://endonend.micro.blog/2018/08/27/the-other-side.html
 ---
 <p><a href="https://www.newyorker.com/books/page-turner/the-other-side-of-broken-windows">The Other Side of “Broken Windows” | The New Yorker</a>:</p>
