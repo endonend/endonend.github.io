@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-25 10:18:24 -0400
+date: 2018-06-25 09:18:24 -0500
 guid: http://endonend.micro.blog/2018/06/25/preview-of-sunlit.html
 ---
 <a href="http://www.manton.org/2018/06/preview-of-sunlit-2-2.html">Preview of Sunlit 2.2 | Manton Reece</a>&rarr;
