@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-17 12:26:45 -0400
+date: 2018-09-17 11:26:45 -0500
 guid: http://endonend.micro.blog/2018/09/17/thinking-about-attention.html
 ---
 [Thinking about Attention — CGP Grey](http://www.cgpgrey.com/blog/cyclops) &rarr;
