@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-22 12:59:45 -0400
+date: 2017-10-22 11:59:45 -0500
 guid: http://endonend.micro.blog/2017/10/22/lets-go-bills.html
 ---
 Let’s go Bills.
