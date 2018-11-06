@@ -3,7 +3,7 @@ layout: post
 title: "Find that speck"
 microblog: false
 audio: 
-date: 2014-08-12 00:02:43 -0400
+date: 2014-08-11 23:02:43 -0500
 guid: http://endonend.micro.blog/2014/08/12/find-that-speck.html
 ---
 Almost a year ago, someone wrote to Matt Fraction (a famous comic book writer) with <a href="http://mattfraction.com/post/63999786236/sorry-to-put-this-on-you-but-i-have-an-honest-question">a question on depression and suicide</a>. He answered and the result was amazing: so heartfelt, raw, and deeply personal. Today's news of Robin Williams' passing made it so relevant and crucial to re-visit. It still puts lumps in my throat.
