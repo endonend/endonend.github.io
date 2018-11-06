@@ -3,7 +3,7 @@ layout: post
 title: "Cutting the Digital Lifeline and Finding Serenity - NYTimes.com"
 microblog: false
 audio: 
-date: 2012-09-08 13:05:17 -0400
+date: 2012-09-08 12:05:17 -0500
 guid: http://endonend.micro.blog/2012/09/08/cutting-the-digital.html
 ---
 <blockquote>One side effect of living an always-on digital life is the tension, along with the thrill, that can arise from being able to peep into people’s worlds at any moment and comparing their lives with yours. This tension may be inevitable at times, but it’s not inescapable. It’s possible to move beyond the angst that social media can provoke — and to be glad that we’ve done so.
