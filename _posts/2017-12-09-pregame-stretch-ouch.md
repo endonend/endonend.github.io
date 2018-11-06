@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-09 16:07:39 -0400
+date: 2017-12-09 15:07:39 -0500
 guid: http://endonend.micro.blog/2017/12/09/pregame-stretch-ouch.html
 ---
 Pre-game stretch #ouch
