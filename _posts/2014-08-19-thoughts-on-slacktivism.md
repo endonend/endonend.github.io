@@ -3,7 +3,7 @@ layout: post
 title: "Thoughts on Slacktivism"
 microblog: false
 audio: 
-date: 2014-08-19 11:33:12 -0400
+date: 2014-08-19 10:33:12 -0500
 guid: http://endonend.micro.blog/2014/08/19/thoughts-on-slacktivism.html
 ---
 From Seth Godin's <a href="http://sethgodin.typepad.com/seths_blog/2014/08/slacktivism.html">blog post on slacktivism</a>:
