@@ -3,7 +3,7 @@ layout: post
 title: "Don’t Start a Company, Kid"
 microblog: false
 audio: 
-date: 2013-12-03 23:02:00 -0400
+date: 2013-12-03 22:02:00 -0500
 guid: http://endonend.micro.blog/2013/12/04/dont-start-a.html
 ---
 Some <a href="http://blog.bignerdranch.com/4428-dont-start-company-kid/">great advice on starting a company</a>, particularly:
