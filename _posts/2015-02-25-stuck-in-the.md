@@ -3,7 +3,7 @@ layout: post
 title: "Stuck in the Bullshit Machine"
 microblog: false
 audio: 
-date: 2015-02-25 16:31:16 -0400
+date: 2015-02-25 15:31:16 -0500
 guid: http://endonend.micro.blog/2015/02/25/stuck-in-the.html
 ---
 Today I stumbled upon a brilliant article, <a href="https://medium.com/bad-words/the-bullshit-machine-df95646d0383">The Bullshit Machine</a>, on Medium that hits almost all of the thoughts I’ve been having on “social media” lately. The gist being that the lure of <a href="http://www.endonend.org/posts/death-by-information/">FOMO</a> and the social nature of these sites encourage so much empty, meaningless action and output that it’s preventing us from actually living meaningful, creative, passionate lives. The stuff that makes us happy and fulfilled.
