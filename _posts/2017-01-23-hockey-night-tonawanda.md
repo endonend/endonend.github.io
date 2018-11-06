@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-01-22 20:32:52 -0400
+date: 2017-01-22 19:32:52 -0500
 guid: http://endonend.micro.blog/2017/01/23/hockey-night-tonawanda.html
 ---
 <div>
