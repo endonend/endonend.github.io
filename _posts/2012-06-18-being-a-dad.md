@@ -3,7 +3,7 @@ layout: post
 title: "Being a Dad"
 microblog: false
 audio: 
-date: 2012-06-18 12:17:35 -0400
+date: 2012-06-18 11:17:35 -0500
 guid: http://endonend.micro.blog/2012/06/18/being-a-dad.html
 ---
 <p id="yui_3_17_2_1_1407674114902_469259">I feel blessed to be entering my 6th year of fatherhood.</p>
