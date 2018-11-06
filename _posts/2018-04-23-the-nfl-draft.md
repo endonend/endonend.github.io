@@ -3,7 +3,7 @@ layout: post
 title: "The NFL Draft, the Bills, and the QB class"
 microblog: false
 audio: 
-date: 2018-04-23 15:23:07 -0400
+date: 2018-04-23 14:23:07 -0500
 guid: http://endonend.micro.blog/2018/04/23/the-nfl-draft.html
 ---
 It's finally NFL draft week! Buffalo sports radio has been talking about this Thursday for months now, so I'm glad we're finally to the draft. Now the team just needs to find the franchise QB! <a href="http://www.espn.com/espn/feature/story/_/id/23258672/nfl-quarterback-blind-quiz-pick-best-players-busts-based-college-football-stats">Nothing hard about that</a>...
