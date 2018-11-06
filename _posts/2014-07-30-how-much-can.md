@@ -3,7 +3,7 @@ layout: post
 title: "How much can you take?"
 microblog: false
 audio: 
-date: 2014-07-30 15:19:51 -0400
+date: 2014-07-30 14:19:51 -0500
 guid: http://endonend.micro.blog/2014/07/30/how-much-can.html
 ---
 One thing I've been fascinated with lately, mainly due to the Supreme Court's Hobby Lobby decision and the news of Facebook's psychology experiment, is how much it takes for people to get fed up with an organization or business to the point where you boycott or quit.
