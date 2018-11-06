@@ -3,7 +3,7 @@ layout: post
 title: "Rehearsing"
 microblog: false
 audio: 
-date: 2013-05-29 22:30:00 -0400
+date: 2013-05-29 21:30:00 -0500
 guid: http://endonend.micro.blog/2013/05/30/rehearsing.html
 ---
 Merlin Mann (<a data-preserve-html-node="true" href="http://5by5.tv/b2w/120">Back to Work / Episode #120 / "Egg MacGuffin"</a>) on rehearsing versus doing_
