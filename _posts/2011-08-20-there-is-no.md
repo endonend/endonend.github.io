@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2011-08-19 23:17:20 -0400
+date: 2011-08-19 22:17:20 -0500
 guid: http://endonend.micro.blog/2011/08/20/there-is-no.html
 ---
 <blockquote>
