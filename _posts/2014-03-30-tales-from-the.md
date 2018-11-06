@@ -3,7 +3,7 @@ layout: post
 title: "Tales from the Relic Scout Launch"
 microblog: false
 audio: 
-date: 2014-03-29 20:00:00 -0400
+date: 2014-03-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2014/03/30/tales-from-the.html
 ---
 A little over a year ago, I founded <a href="http://ekowave.com">Eko Wave</a> with two friends (who also happen to be co-workers at the real job.) Last week, almost a year later, <a href="http://blog.relicscout.com/2014/03/beta/">we launched our first product</a> called <a href="http://relicscout.com">Relic Scout</a>.</p>
