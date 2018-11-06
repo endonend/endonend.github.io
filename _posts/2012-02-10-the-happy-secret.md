@@ -3,7 +3,7 @@ layout: post
 title: "The Happy Secret to Better Work"
 microblog: false
 audio: 
-date: 2012-02-10 19:17:32 -0400
+date: 2012-02-10 18:17:32 -0500
 guid: http://endonend.micro.blog/2012/02/10/the-happy-secret.html
 ---
 If you have 12 free minutes today, I highly recommend watching this <a href="http://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work.html">TED talk by Shawn Achor</a>.
