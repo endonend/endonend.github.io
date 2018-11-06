@@ -3,7 +3,7 @@ layout: post
 title: "Zen Habits Trio for the New Year"
 microblog: false
 audio: 
-date: 2016-01-21 23:35:46 -0400
+date: 2016-01-21 22:35:46 -0500
 guid: http://endonend.micro.blog/2016/01/22/zen-habits-trio.html
 ---
 Leo Babauta posted three articles this month that have some great tips to start 2016 off on the right foot:
