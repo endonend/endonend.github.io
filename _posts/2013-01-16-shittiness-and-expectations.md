@@ -3,7 +3,7 @@ layout: post
 title: "Shittiness and Expectations"
 microblog: false
 audio: 
-date: 2013-01-16 17:20:29 -0400
+date: 2013-01-16 16:20:29 -0500
 guid: http://endonend.micro.blog/2013/01/16/shittiness-and-expectations.html
 ---
 Over on Deadspin.com (if you have the time, I highly recommend reading the first 9 paragraphs), Will Leitch took a deeper look into a recent New York Times food review of Guy Fieri's new restaurant in Times Square, particularly the response to the review. The response, summed up, basically went like this: 'Well, what did you expect? Of course it's horrible.'
