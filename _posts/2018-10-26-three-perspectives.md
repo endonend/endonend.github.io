@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-25 20:24:26 -0400
+date: 2018-10-25 19:24:26 -0500
 guid: http://endonend.micro.blog/2018/10/26/three-perspectives.html
 ---
 Three perspectives
