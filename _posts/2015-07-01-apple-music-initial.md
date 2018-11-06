@@ -3,7 +3,7 @@ layout: post
 title: "Apple Music: Initial Impressions"
 microblog: false
 audio: 
-date: 2015-07-01 14:02:41 -0400
+date: 2015-07-01 13:02:41 -0500
 guid: http://endonend.micro.blog/2015/07/01/apple-music-initial.html
 ---
 Last year I <a href="http://www.endonend.org/posts/2014-music/">experimented with the major streaming music services</a>, with Beats narrowly winning the race over Spotify. One of the key reasons I decided to stick it out with Beats was the rumored revamp of the service and integration with the Apple ecosystem.
