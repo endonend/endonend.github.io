@@ -3,7 +3,7 @@ layout: post
 title: "How Martin Luther King Jr. really felt about advertising"
 microblog: false
 audio: 
-date: 2018-02-05 13:29:04 -0400
+date: 2018-02-05 12:29:04 -0500
 guid: http://endonend.micro.blog/2018/02/05/how-martin-luther.html
 ---
 <blockquote>
