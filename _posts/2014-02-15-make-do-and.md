@@ -3,7 +3,7 @@ layout: post
 title: "Make, Do and a Beautiful Woman"
 microblog: false
 audio: 
-date: 2014-02-14 21:10:00 -0400
+date: 2014-02-14 20:10:00 -0500
 guid: http://endonend.micro.blog/2014/02/15/make-do-and.html
 ---
 I wrote a little bit on the concept of <a href="http://endonend.org/posts/make-do-and-wabi-sabi">Make, Do</a> last month, which centers around this basic idea:
