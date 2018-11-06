@@ -3,7 +3,7 @@ layout: post
 title: "Rev25 NYC Lineup Announced"
 microblog: false
 audio: 
-date: 2012-07-11 09:14:06 -0400
+date: 2012-07-11 08:14:06 -0500
 guid: http://endonend.micro.blog/2012/07/11/rev-nyc-lineup.html
 ---
 Here's the lineup for the <a href="http://revelationrecords.com/">Revelation Records</a> 25th Anniversary shows in NYC (Irving Plaza) this October 11 to 14th:
