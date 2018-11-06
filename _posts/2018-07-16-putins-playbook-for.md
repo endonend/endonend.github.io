@@ -3,7 +3,7 @@ layout: post
 title: "Putin’s playbook for discrediting America and destabilizing the West"
 microblog: false
 audio: 
-date: 2018-07-16 15:53:05 -0400
+date: 2018-07-16 14:53:05 -0500
 guid: http://endonend.micro.blog/2018/07/16/putins-playbook-for.html
 ---
 <blockquote>
