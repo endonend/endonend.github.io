@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2016-10-20 12:39:22 -0400
+date: 2016-10-20 11:39:22 -0500
 guid: http://endonend.micro.blog/2016/10/20/quick-update-on.html
 ---
 Quick <a href="http://www.endonend.org/2016/09/09/run-jason-run/">update on this</a>.
