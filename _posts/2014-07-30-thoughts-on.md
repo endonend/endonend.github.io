@@ -3,7 +3,7 @@ layout: post
 title: "Thoughts on 74"
 microblog: false
 audio: 
-date: 2014-07-29 20:00:00 -0400
+date: 2014-07-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2014/07/30/thoughts-on.html
 ---
 Seventy four. That's how many <a href="http://everytown.org/article/schoolshootings/">school shootings have happened</a> in the year and a half since Newtown. That number does not even include non-school mass shootings. There were what, three or four of those in the last week alone?
