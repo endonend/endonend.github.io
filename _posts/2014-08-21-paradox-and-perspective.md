@@ -3,7 +3,7 @@ layout: post
 title: "Paradox and Perspective"
 microblog: false
 audio: 
-date: 2014-08-21 06:59:00 -0400
+date: 2014-08-21 05:59:00 -0500
 guid: http://endonend.micro.blog/2014/08/21/paradox-and-perspective.html
 ---
 Nick Wynja's <a href="http://hackmake.org/2014/08/paradox-and-perspective">post on Hack/Make</a> hits close to home:
