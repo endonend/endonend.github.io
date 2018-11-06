@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-16 11:23:19 -0400
+date: 2018-10-16 10:23:19 -0500
 guid: http://endonend.micro.blog/2018/10/16/its-a-tragically.html
 ---
 It’s a Tragically Hip kind of day.
