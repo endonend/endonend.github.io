@@ -3,7 +3,7 @@ layout: post
 title: "More on Attention"
 microblog: false
 audio: 
-date: 2015-02-26 22:16:00 -0400
+date: 2015-02-26 21:16:00 -0500
 guid: http://endonend.micro.blog/2015/02/27/more-on-attention.html
 ---
 Mark Manson hits the nail on the head:
