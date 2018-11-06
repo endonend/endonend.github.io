@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2011-09-10 23:52:30 -0400
+date: 2011-09-10 22:52:30 -0500
 guid: http://endonend.micro.blog/2011/09/11/keep-listening-and.html
 ---
 <blockquote>
