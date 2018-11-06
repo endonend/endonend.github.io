@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-01-24 00:21:55 -0400
+date: 2017-01-23 23:21:55 -0500
 guid: http://endonend.micro.blog/2017/01/24/the-many-faces.html
 ---
 <div>
