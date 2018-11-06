@@ -3,7 +3,7 @@ layout: post
 title: "Why This Is Not the Golden Age for Photobooks"
 microblog: false
 audio: 
-date: 2015-06-09 21:36:01 -0400
+date: 2015-06-09 20:36:01 -0500
 guid: http://endonend.micro.blog/2015/06/10/why-this-is.html
 ---
 From <a href="http://time.com/3903894/why-this-is-not-the-golden-age-for-photobooks/">Time.com</a>:
