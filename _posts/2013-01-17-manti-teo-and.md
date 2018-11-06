@@ -3,7 +3,7 @@ layout: post
 title: "Manti Te&#039;o and Inspiration Stories"
 microblog: false
 audio: 
-date: 2013-01-17 15:17:05 -0400
+date: 2013-01-17 14:17:05 -0500
 guid: http://endonend.micro.blog/2013/01/17/manti-teo-and.html
 ---
 <blockquote>The fact is, this story exists because sports media wanted it to exist: It’s exactly the sort of easy, “inspiration” narrative that Notre Dame has specialized in for decades. But this isn’t a Notre Dame story; this is what happens when you report on sports as if they are some sort of metaphor for life, or that athletes are somehow more “inspirational” than regular people.</p></blockquote>
