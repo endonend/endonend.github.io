@@ -3,7 +3,7 @@ layout: post
 title: "“Gideon Falls” Trailer by Lemire and Sorrentino – Multiversity Comics"
 microblog: false
 audio: 
-date: 2018-01-09 14:41:30 -0400
+date: 2018-01-09 13:41:30 -0500
 guid: http://endonend.micro.blog/2018/01/09/gideon-falls-trailer.html
 ---
 So excited for this! Jeff Lemire has been my favorite writer over the last few years. Out March 7th on Image Comics. &#x1f4da;
