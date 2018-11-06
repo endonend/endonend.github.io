@@ -3,7 +3,7 @@ layout: post
 title: "Matthew Smith on the unlimited web"
 microblog: false
 audio: 
-date: 2013-04-30 09:04:00 -0400
+date: 2013-04-30 08:04:00 -0500
 guid: http://endonend.micro.blog/2013/04/30/matthew-smith-on.html
 ---
 <a href="http://thegreatdiscontent.com/matthew-smith">Matthew Smith</a>:
