@@ -3,7 +3,7 @@ layout: post
 title: "Connecting the dots"
 microblog: false
 audio: 
-date: 2012-08-20 20:00:00 -0400
+date: 2012-08-20 19:00:00 -0500
 guid: http://endonend.micro.blog/2012/08/21/connecting-the-dots.html
 ---
 <blockquote>When you look back on events, it’s pretty incredible how things come together. Nothing happens independently. Everything is tied to something before it. Sometimes the links are more obvious than others, but it’s healthy to take a few moments to reflect on how many things – and people – had to come together in order for another thing to happen.</p>
