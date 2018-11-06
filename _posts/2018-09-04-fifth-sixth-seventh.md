@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-04 10:30:45 -0400
+date: 2018-09-04 09:30:45 -0500
 guid: http://endonend.micro.blog/2018/09/04/fifth-sixth-seventh.html
 ---
 Fifth, sixth, seventh, fifth. First day of school year!
