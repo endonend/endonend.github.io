@@ -3,7 +3,7 @@ layout: post
 title: "Friday Song of the Day: One Last Wish &quot;My Better Half&quot;"
 microblog: false
 audio: 
-date: 2012-12-14 10:28:04 -0400
+date: 2012-12-14 09:28:04 -0500
 guid: http://endonend.micro.blog/2012/12/14/friday-song-of.html
 ---
 <iframe allowfullscreen="" src="http://www.youtube.com/embed/rC1JKhDkvIs?wmode=opaque" width="640" data-embed="true" frameborder="0" id="yui_3_17_2_1_1407674114902_758851" height="480"></iframe>
