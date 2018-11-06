@@ -3,7 +3,7 @@ layout: post
 title: "On Leaving the Church"
 microblog: false
 audio: 
-date: 2011-09-01 23:34:33 -0400
+date: 2011-09-01 22:34:33 -0500
 guid: http://endonend.micro.blog/2011/09/02/on-leaving-the.html
 ---
 So, why did I stop going to church? (Roman Catholic to be exact.) There are a couple of primary reasons I will focus on, and in doing research for this post, I found that a lot of people feel the same way. Since launching this site, I’ve even received a handful of texts and emails from friends that shared similar stories. It certainly helped me write this with confidence. Thank you all!
