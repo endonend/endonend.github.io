@@ -3,7 +3,7 @@ layout: post
 title: "Annie Clark on Empathy"
 microblog: false
 audio: 
-date: 2015-03-07 22:52:07 -0400
+date: 2015-03-07 21:52:07 -0500
 guid: http://endonend.micro.blog/2015/03/08/annie-clark-on.html
 ---
 During her recent St. Vincent show in Rochester, Annie Clark's between-song speech featured this nice quote:
