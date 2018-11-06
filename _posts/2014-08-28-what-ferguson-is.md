@@ -3,7 +3,7 @@ layout: post
 title: "What Ferguson is really about"
 microblog: false
 audio: 
-date: 2014-08-27 21:51:03 -0400
+date: 2014-08-27 20:51:03 -0500
 guid: http://endonend.micro.blog/2014/08/28/what-ferguson-is.html
 ---
 Jon Stewart had a great segment on race during a recent show.
