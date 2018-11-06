@@ -3,7 +3,7 @@ layout: post
 title: "Dag Nasty reunion 2012"
 microblog: false
 audio: 
-date: 2013-01-03 00:17:22 -0400
+date: 2013-01-02 23:17:22 -0500
 guid: http://endonend.micro.blog/2013/01/03/dag-nasty-reunion.html
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j_cCHM_bFN8" frameborder="0" allowfullscreen></iframe>
