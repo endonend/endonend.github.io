@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-09 21:24:15 -0400
+date: 2017-05-09 20:24:15 -0500
 guid: http://endonend.micro.blog/2017/05/10/a-regal-work.html
 ---
 A regal work buddy
