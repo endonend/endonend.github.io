@@ -3,7 +3,7 @@ layout: post
 title: "The ice bucket challenge isn&#039;t a waste of water, and this chart proves it"
 microblog: false
 audio: 
-date: 2014-08-22 13:48:31 -0400
+date: 2014-08-22 12:48:31 -0500
 guid: http://endonend.micro.blog/2014/08/22/the-ice-bucket.html
 ---
 <a href="http://www.vox.com/xpress/2014/8/22/6056535/ice-bucket-challenge-water-waste">Vox.com</a> tries to pour water on <a href="http://www.endonend.org/posts/slacktivism">one of my complaints</a>:
