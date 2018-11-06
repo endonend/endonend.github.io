@@ -3,7 +3,7 @@ layout: post
 title: "Too Much Music"
 microblog: false
 audio: 
-date: 2018-01-20 09:56:18 -0400
+date: 2018-01-20 08:56:18 -0500
 guid: http://endonend.micro.blog/2018/01/20/too-much-music.html
 ---
 <a href="https://www.npr.org/sections/therecord/2018/01/16/578216674/too-much-music-a-failed-experiment-in-dedicated-listening">Too Much Music: A Failed Experiment In Dedicated Listening : The Record : NPR</a>
