@@ -3,7 +3,7 @@ layout: post
 title: "How to Make a Marriage Work"
 microblog: false
 audio: 
-date: 2015-01-06 23:03:40 -0400
+date: 2015-01-06 22:03:40 -0500
 guid: http://endonend.micro.blog/2015/01/07/how-to-make.html
 ---
 Leo Babauta has some <a href="http://zenhabits.net/marriage/">great tips on making a marriage work</a>:
