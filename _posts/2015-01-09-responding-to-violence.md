@@ -3,7 +3,7 @@ layout: post
 title: "Responding to Violence and Insanity"
 microblog: false
 audio: 
-date: 2015-01-08 22:24:28 -0400
+date: 2015-01-08 21:24:28 -0500
 guid: http://endonend.micro.blog/2015/01/09/responding-to-violence.html
 ---
 Susan Piver, on the natural response of anger, blame, and hatred for those who commit horrific crimes:
