@@ -3,7 +3,7 @@ layout: post
 title: "My 2012 Love List"
 microblog: false
 audio: 
-date: 2011-12-30 00:10:26 -0400
+date: 2011-12-29 23:10:26 -0500
 guid: http://endonend.micro.blog/2011/12/30/my-love-list.html
 ---
 Instead of new year’s resolutions, I am going to make a love list. I got the idea from the blog <a href="http://www.bemorewithless.com/2011/how-to-make-a-love-list/">Be More With Less</a> and basically it’s a list of things you would love to do or start in the new year.</p>
