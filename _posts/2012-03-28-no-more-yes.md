@@ -3,7 +3,7 @@ layout: post
 title: "No more yes"
 microblog: false
 audio: 
-date: 2012-03-28 15:05:48 -0400
+date: 2012-03-28 14:05:48 -0500
 guid: http://endonend.micro.blog/2012/03/28/no-more-yes.html
 ---
 <blockquote><p>Those of you who often over-commit or feel too scattered may appreciate a new philosophy I'm trying:</p></blockquote>
