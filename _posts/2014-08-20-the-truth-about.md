@@ -3,7 +3,7 @@ layout: post
 title: "The truth about the Ice Bucket Challenge: Viral memes shouldn&#039;t dictate our charitable giving"
 microblog: false
 audio: 
-date: 2014-08-20 08:56:57 -0400
+date: 2014-08-20 07:56:57 -0500
 guid: http://endonend.micro.blog/2014/08/20/the-truth-about.html
 ---
 Vox.com <a href="http://www.vox.com/2014/8/20/6040435/als-ice-bucket-challenge-and-why-we-give-to-charity-donate">takes a look at charitable donations</a>:
