@@ -3,7 +3,7 @@ layout: post
 title: "Tools to Manage Time, Attention, and Focus"
 microblog: false
 audio: 
-date: 2012-02-22 17:04:06 -0400
+date: 2012-02-22 16:04:06 -0500
 guid: http://endonend.micro.blog/2012/02/22/tools-to-manage.html
 ---
 <p id="yui_3_17_2_1_1407674114902_225958">With three girls 13 total months apart (twins and an older sister), I often get asked how I keep organized, so I figured a post on my favorite tools would be beneficial to others.</p>
