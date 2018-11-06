@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2011-02-06 08:45:40 -0400
+date: 2011-02-06 07:45:40 -0500
 guid: http://endonend.micro.blog/2011/02/06/zoey-entertaining-us.html
 ---
 Zoey entertaining us during breakfast
