@@ -3,7 +3,7 @@ layout: post
 title: "My 2014 in Music"
 microblog: false
 audio: 
-date: 2014-12-02 14:21:26 -0400
+date: 2014-12-02 13:21:26 -0500
 guid: http://endonend.micro.blog/2014/12/02/my-in-music.html
 ---
 Music has been an important part of my life for as long as I can remember. From getting into rap music in the mid 80s to discovering punk and hardcore in the early 90s, music has helped shape my beliefs and overall aesthetic.
