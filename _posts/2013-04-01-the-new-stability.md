@@ -3,7 +3,7 @@ layout: post
 title: "The New Stability"
 microblog: false
 audio: 
-date: 2013-04-01 13:22:41 -0400
+date: 2013-04-01 12:22:41 -0500
 guid: http://endonend.micro.blog/2013/04/01/the-new-stability.html
 ---
 Robert Kirkman (creator of The Walking Dead and partner at Image Comics) on forging your own career path vs. relying on companies:
