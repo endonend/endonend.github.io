@@ -3,7 +3,7 @@ layout: post
 title: "Current project: repurposed tree round table"
 microblog: false
 audio: 
-date: 2016-06-13 12:23:46 -0400
+date: 2016-06-13 11:23:46 -0500
 guid: http://endonend.micro.blog/2016/06/13/current-project-repurposed.html
 ---
 Over the weekend, I finally got around to a project I’ve been wanting to do: repurpose a tree round from the tree they cut down in front of our house earlier this spring. Plus, the round was finally dried out enough that I could 1.) move it and 2.) get the bark off in a reasonable amount of time.
