@@ -3,7 +3,7 @@ layout: post
 title: "What’s Next?"
 microblog: false
 audio: 
-date: 2016-11-09 12:44:41 -0400
+date: 2016-11-09 11:44:41 -0500
 guid: http://endonend.micro.blog/2016/11/09/whats-next.html
 ---
 Like many people, I woke up today in shock and still exhausted from last night’s election results. I went to bed angry and disappointed, thankfully falling asleep — probably more from sheer exhaustion than anything else — after spending a short time pondering how I will explain this to my three daughters in the morning. The <a href="http://www.endonend.org/2016/11/08/tomorrow/">three daughters that were so excited to go vote for the first female presidential candidate</a>. The three that went to bed with an 83% chance of waking up to the first female president in US history.
