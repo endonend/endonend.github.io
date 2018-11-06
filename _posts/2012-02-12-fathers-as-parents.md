@@ -3,7 +3,7 @@ layout: post
 title: "Fathers as Parents"
 microblog: false
 audio: 
-date: 2012-02-12 00:30:03 -0400
+date: 2012-02-11 23:30:03 -0500
 guid: http://endonend.micro.blog/2012/02/12/fathers-as-parents.html
 ---
 Jonathan Liu, stay-at-home dad and an editor for Wired.com’s GeekDad, <a href="http://www.wired.com/geekdad/2012/02/whos-minding-the-kids/">attacks the gender roles and unequal treatment of dads as parents</a> — specifically in the recent Census Bureau report, <a href="http://www.census.gov/prod/2010pubs/p70-121.pdf">Who’s Minding the Kids?</a>
