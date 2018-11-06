@@ -3,7 +3,7 @@ layout: post
 title: "That time of the year..."
 microblog: false
 audio: 
-date: 2012-08-28 14:42:28 -0400
+date: 2012-08-28 13:42:28 -0500
 guid: http://endonend.micro.blog/2012/08/28/that-time-of.html
 ---
 <p id="yui_3_17_2_1_1407674114902_657544">When it's either incredibly exciting or frustrating to be interested in Apple and tech: iPhone rumor/leak time.</p>
