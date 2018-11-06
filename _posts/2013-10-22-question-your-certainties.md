@@ -3,7 +3,7 @@ layout: post
 title: "Question Your Certainties"
 microblog: false
 audio: 
-date: 2013-10-21 22:21:00 -0400
+date: 2013-10-21 21:21:00 -0500
 guid: http://endonend.micro.blog/2013/10/22/question-your-certainties.html
 ---
 Great advice from <a href="http://patrickrhone.com/2013/09/26/question-your-certainties/">Mr.Patrick Rhone</a>:
