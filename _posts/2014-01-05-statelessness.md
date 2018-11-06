@@ -3,7 +3,7 @@ layout: post
 title: "Statelessness"
 microblog: false
 audio: 
-date: 2014-01-04 22:45:00 -0400
+date: 2014-01-04 21:45:00 -0500
 guid: http://endonend.micro.blog/2014/01/05/statelessness.html
 ---
 Leo at Zen Habits has a great take on the act of living in the moment. He calls it the <strong>Stateless Mindset</strong>.
