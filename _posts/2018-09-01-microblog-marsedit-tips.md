@@ -3,7 +3,7 @@ layout: post
 title: "Micro.blog + MarsEdit Tips"
 microblog: false
 audio: 
-date: 2018-09-01 10:07:20 -0400
+date: 2018-09-01 09:07:20 -0500
 guid: http://endonend.micro.blog/2018/09/01/microblog-marsedit-tips.html
 ---
 I added a few more Micro.blog shortcuts to my MarsEdit setup. To add these, open up the New Post window, then under the Format dropdown select Customize. Here you can add new macro entries. Add the code I shared below to the Opening Markup box for each macro.
