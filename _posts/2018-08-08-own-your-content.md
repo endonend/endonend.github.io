@@ -3,7 +3,7 @@ layout: post
 title: "Own your content"
 microblog: false
 audio: 
-date: 2018-08-08 12:57:30 -0400
+date: 2018-08-08 11:57:30 -0500
 guid: http://endonend.micro.blog/2018/08/08/own-your-content.html
 ---
 <a href="https://www.manton.org/2018/08/06/infowars-and-the.html">Manton Reece - Infowars and the reluctance to curate</a> &rarr;
