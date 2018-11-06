@@ -3,7 +3,7 @@ layout: post
 title: "Life Lessons"
 microblog: false
 audio: 
-date: 2012-12-18 11:16:24 -0400
+date: 2012-12-18 10:16:24 -0500
 guid: http://endonend.micro.blog/2012/12/18/life-lessons.html
 ---
 <a href="http://www.businessinsider.com/jack-dorsey-life-lessons-2012-12">Courtesy of Jack Dorsey</a> (chairman of Twitter and CEO of Square):
