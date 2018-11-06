@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-04 00:46:17 -0400
+date: 2018-08-03 23:46:17 -0500
 guid: http://endonend.micro.blog/2018/08/04/more-than-years.html
 ---
 <img src="http://endonend.micro.blog/uploads/2018/5e9686e660.jpg" class="wp-image-5637 size-full" height="1656" width="1242">
