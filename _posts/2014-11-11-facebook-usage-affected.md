@@ -3,7 +3,7 @@ layout: post
 title: "Facebook usage affected by metrics"
 microblog: false
 audio: 
-date: 2014-11-10 20:34:16 -0400
+date: 2014-11-10 19:34:16 -0500
 guid: http://endonend.micro.blog/2014/11/11/facebook-usage-affected.html
 ---
 <blockquote>People realized when the numbers were gone, they had been using them to decide whether to like something. I certainly didn't expect these tendencies of people saying, 'I literally don't know what to do [without knowing the metrics].'</blockquote>
