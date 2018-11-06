@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-18 15:54:11 -0400
+date: 2018-09-18 14:54:11 -0500
 guid: http://endonend.micro.blog/2018/09/18/the-captain-marvel.html
 ---
 The Captain Marvel movie can't come soon enough.
