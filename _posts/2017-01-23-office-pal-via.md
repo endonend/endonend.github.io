@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-01-23 17:04:31 -0400
+date: 2017-01-23 16:04:31 -0500
 guid: http://endonend.micro.blog/2017/01/23/office-pal-via.html
 ---
 <div>
