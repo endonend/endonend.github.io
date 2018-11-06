@@ -3,7 +3,7 @@ layout: post
 title: "Slow Company"
 microblog: false
 audio: 
-date: 2013-03-26 09:56:29 -0400
+date: 2013-03-26 08:56:29 -0500
 guid: http://endonend.micro.blog/2013/03/26/slow-company.html
 ---
 <a href="http://www.fastcompany.com/3000852/37signals-earns-millions-each-year-its-ceo%E2%80%99s-model-his-cleaning-lady">Fast Company recently interviewed Jason Fried</a>, who is the CEO of <a href="http://37signals.com/">37signals</a>. There are so many great quotes that continue to prove to me why this company is so great and the model for the kind of business I want to work for and build.
