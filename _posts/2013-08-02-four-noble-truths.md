@@ -3,7 +3,7 @@ layout: post
 title: "Four Noble Truths of Relationships"
 microblog: false
 audio: 
-date: 2013-08-01 22:26:00 -0400
+date: 2013-08-01 21:26:00 -0500
 guid: http://endonend.micro.blog/2013/08/02/four-noble-truths.html
 ---
 Today I listened to an amazing first podcast from Susan Piver's Open Heart Project called <a data-preserve-html-node="true" href="http://susanpiver.com/2013/07/31/introducing-the-open-heart-project-podcast-first-topic-l-o-v-e/">The Dharma of Love_ A Buddhist View of Relationships</a>. A fun listen on a serious topic most of us deal with every day.
