@@ -3,7 +3,7 @@ layout: post
 title: "The Pixies"
 microblog: false
 audio: 
-date: 2011-11-03 16:40:19 -0400
+date: 2011-11-03 15:40:19 -0500
 guid: http://endonend.micro.blog/2011/11/03/the-pixies.html
 ---
 I finally got to see the Pixies last night with my amazing, loving wife (and <strong>serious</strong> Pixies fan)!
