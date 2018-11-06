@@ -3,7 +3,7 @@ layout: post
 title: "Self Assessment &amp; Self Worth"
 microblog: false
 audio: 
-date: 2012-02-10 17:16:19 -0400
+date: 2012-02-10 16:16:19 -0500
 guid: http://endonend.micro.blog/2012/02/10/self-assessment-amp.html
 ---
 I think it's very valuable to, every now and then, take an inventory of what you like about yourself. What you feel you contribute to relationships and the world around you. Not only does it help boost your self esteem, but it can be helpful to re-visit your past lists to see how you've changed the opinion of yourself over time.
