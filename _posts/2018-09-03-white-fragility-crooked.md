@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-03 13:38:36 -0400
+date: 2018-09-03 12:38:36 -0500
 guid: http://endonend.micro.blog/2018/09/03/white-fragility-crooked.html
 ---
 <a href="https://crooked.com/podcast/white-fragility-101/">&#8220;White Fragility 101&#8221; | Crooked Media</a> &rarr;
