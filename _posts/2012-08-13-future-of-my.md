@@ -3,7 +3,7 @@ layout: post
 title: "Future of My Love List"
 microblog: false
 audio: 
-date: 2012-08-13 16:05:22 -0400
+date: 2012-08-13 15:05:22 -0500
 guid: http://endonend.micro.blog/2012/08/13/future-of-my.html
 ---
 After 6 or 7 months of posting <a href="/end-on-end/2011/12/my-2012-love-list">Love List</a> updates, I've decided to mix things up a little bit. I've made some progress this year with every item on my list, but very few have made as much progress as I had hoped. So I am going to spend each month (or a set amount of days in some cases) going forward focusing on building: either a habit or something tangible.
