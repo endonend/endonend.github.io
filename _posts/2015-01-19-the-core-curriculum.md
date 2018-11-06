@@ -3,7 +3,7 @@ layout: post
 title: "The Core Curriculum — Shawn Blanc"
 microblog: false
 audio: 
-date: 2015-01-19 16:03:26 -0400
+date: 2015-01-19 15:03:26 -0500
 guid: http://endonend.micro.blog/2015/01/19/the-core-curriculum.html
 ---
 This is an awesome idea:
