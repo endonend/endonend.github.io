@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2011-02-06 17:07:55 -0400
+date: 2011-02-06 16:07:55 -0500
 guid: http://endonend.micro.blog/2011/02/06/watching-the-game.html
 ---
 Watching the game
