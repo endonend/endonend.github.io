@@ -3,7 +3,7 @@ layout: post
 title: "Friday Fifteen: June 29th Edition"
 microblog: false
 audio: 
-date: 2012-06-29 16:00:21 -0400
+date: 2012-06-29 15:00:21 -0500
 guid: http://endonend.micro.blog/2012/06/29/friday-fifteen-june.html
 ---
 Each Friday I am going to attempt to give you high quality reading material for the weekend, in the form of fifteen links from the previous week. This will replace my usual link posts.
