@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-11 15:28:28 -0400
+date: 2018-09-11 14:28:28 -0500
 guid: http://endonend.micro.blog/2018/09/11/an-avalanche-of.html
 ---
 [An Avalanche of Speech Can Bury Democracy - POLITICO Magazine](https://www.politico.com/magazine/story/2018/09/05/too-much-free-speech-bad-democracy-219587) &rarr;
