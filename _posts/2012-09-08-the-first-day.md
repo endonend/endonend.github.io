@@ -3,7 +3,7 @@ layout: post
 title: "The First Day of School"
 microblog: false
 audio: 
-date: 2012-09-07 22:12:13 -0400
+date: 2012-09-07 21:12:13 -0500
 guid: http://endonend.micro.blog/2012/09/08/the-first-day.html
 ---
 Today was Lucy's first day of kindergarten! She was so excited and all business -- she practically grew up overnight. Lucy matter of factly declared she had no time for playing any longer, nor any need for her "baby" or sucking her thumb... she was a kindergartner now.
