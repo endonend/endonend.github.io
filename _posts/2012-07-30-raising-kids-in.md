@@ -3,7 +3,7 @@ layout: post
 title: "Raising Kids in &#039;Merica"
 microblog: false
 audio: 
-date: 2012-07-29 20:00:00 -0400
+date: 2012-07-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2012/07/30/raising-kids-in.html
 ---
 I recently stumbled upon '<a href="http://www.newyorker.com/arts/critics/books/2012/07/02/120702crbo_books_kolbert?currentPage=all">Why are American Kids so Spoiled?</a>" in The New Yorker and have been thinking about it a lot since.
