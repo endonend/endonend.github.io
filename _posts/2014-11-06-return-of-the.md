@@ -3,7 +3,7 @@ layout: post
 title: "Return of the Blog"
 microblog: false
 audio: 
-date: 2014-11-05 21:46:04 -0400
+date: 2014-11-05 20:46:04 -0500
 guid: http://endonend.micro.blog/2014/11/06/return-of-the.html
 ---
 Blogging is coming back. Many OGs are starting to re-visit the craft, including Gina Trapani who's <a href="http://scribbling.net/2014/10/16/short-form-blogging/">Short-form blogging</a> post has her "new rules for blogging":
