@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-07-04 21:29:10 -0400
+date: 2017-07-04 20:29:10 -0500
 guid: http://endonend.micro.blog/2017/07/05/waiting-for-the.html
 ---
 <div><img width="688" height="360" alt="" src="http://endonend.micro.blog/uploads/2017/414bd13f63.jpg" title="" class="alignnone size-medium">
