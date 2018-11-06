@@ -3,7 +3,7 @@ layout: post
 title: "Against Productivity"
 microblog: false
 audio: 
-date: 2014-12-01 20:36:59 -0400
+date: 2014-12-01 19:36:59 -0500
 guid: http://endonend.micro.blog/2014/12/02/against-productivity.html
 ---
 Quinn Norton went to Puerto Rico to be more productive, but instead learned the dirty secrets of&nbsp;"productivity":
