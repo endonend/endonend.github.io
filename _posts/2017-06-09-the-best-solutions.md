@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-06-08 20:40:14 -0400
+date: 2017-06-08 19:40:14 -0500
 guid: http://endonend.micro.blog/2017/06/09/the-best-solutions.html
 ---
 The 100 best solutions to reverse climate change, ranked
