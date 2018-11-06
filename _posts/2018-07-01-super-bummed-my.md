@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-01 08:23:03 -0400
+date: 2018-07-01 07:23:03 -0500
 guid: http://endonend.micro.blog/2018/07/01/super-bummed-my.html
 ---
 <a href="http://endonend.micro.blog/uploads/2018/83781d952a.jpg"><img src="http://endonend.micro.blog/uploads/2018/83781d952a.jpg" width="463" height="600" style="height: auto;" class="sunlit_image" /></a>
