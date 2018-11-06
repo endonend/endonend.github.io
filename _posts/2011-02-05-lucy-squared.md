@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2011-02-05 08:17:02 -0400
+date: 2011-02-05 07:17:02 -0500
 guid: http://endonend.micro.blog/2011/02/05/lucy-squared.html
 ---
 Lucy squared
