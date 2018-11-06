@@ -3,7 +3,7 @@ layout: post
 title: "Death By Information"
 microblog: false
 audio: 
-date: 2011-09-07 23:49:07 -0400
+date: 2011-09-07 22:49:07 -0500
 guid: http://endonend.micro.blog/2011/09/08/death-by-information.html
 ---
 This time around, I selected around 15 topics I care a lot about and hand-picked the 5 best sites for each. In all, 75 total feeds that are averaging between 300 and 500 posts per day. Any given time I log in to Google Reader I see around 30 or 40 unread posts, where I used to see hundreds. Getting through all of these takes just a couple of minutes, not 30 minutes or however long it would take me to get through them when I didn’t just give up and hit Mark as Read.
