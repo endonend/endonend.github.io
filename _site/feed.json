@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/11/06/watch-the-deadly.html",
+	      	
+			"content_html": "<p><a href=\"https://www.polygon.com/2018/11/5/18065678/the-deadly-class-trailer-syfy-tv-show-russo-brothers\">Watch The Deadly Class trailer: assassin academy for teens - Polygon</a> →</p>\n\n<p>Can’t wait for this show.</p>\n",
+			"date_published": "2018-11-06T10:02:41-05:00",
+			"url": "https://www.endonend.org/2018/11/06/watch-the-deadly.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/11/04/fun-night-at.html",
+	      	
+			"content_html": "<p>Fun night at Misuta Chows with the Mrs. and some good friends. Arcade and great Japanese food.</p>\n\n<p><img src=\"https://www.endonend.org/uploads/2018/de99f9a9f1.jpg\" width=\"600\" height=\"599\" /><img src=\"https://www.endonend.org/uploads/2018/57529ebc08.jpg\" width=\"600\" height=\"599\" /><img src=\"https://www.endonend.org/uploads/2018/04c737a107.jpg\" width=\"600\" height=\"599\" /><img src=\"https://www.endonend.org/uploads/2018/dbdaaf7b67.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-03T22:16:01-04:00",
+			"url": "https://www.endonend.org/2018/11/03/fun-night-at.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/11/03/stella-and-her.html",
 	      	
 			"content_html": "<p>Stella and her friends finished up their mural at Buffalo Arts Studio. So cool!</p>\n\n<p><img src=\"https://www.endonend.org/uploads/2018/338abd48f8.jpg\" width=\"600\" height=\"313\" /></p>\n",
@@ -190,22 +206,6 @@
 			"content_html": "<p>Posted a <a href=\"https://soundcloud.com/user-454803970/rough-draft-of-new-song\">rough draft of a new song</a>. I am liking this one a lot more than my last. Hopefully I can get some more time soon to expand on it.</p>\n\n<iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/503989131&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe>\n",
 			"date_published": "2018-10-10T22:24:51-04:00",
 			"url": "https://www.endonend.org/2018/10/10/posted-a-rough.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/10/09/saba-npr-music.html",
-	      	
-			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=LTzmjU8aOR4&amp;feature=youtu.be\">Saba: NPR Music Tiny Desk Concert - YouTube</a> →</p>\n\n<p>Saba’s <em>Care for Me</em> is one of my fave’s from this year.</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LTzmjU8aOR4\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>\n",
-			"date_published": "2018-10-09T13:51:22-04:00",
-			"url": "https://www.endonend.org/2018/10/09/saba-npr-music.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/10/08/thats-a-win.html",
-	      	
-			"content_html": "<p>That’s a win!</p>\n\n<p><img src=\"http://www.endonend.org/uploads/2018/121903e78b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-10-07T20:32:37-04:00",
-			"url": "https://www.endonend.org/2018/10/07/thats-a-win.html"
 		}
 		
 	]
