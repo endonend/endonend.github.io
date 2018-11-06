@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-09 21:57:32 -0400
+date: 2018-07-09 20:57:32 -0500
 guid: http://endonend.micro.blog/2018/07/10/five-days-in.html
 ---
 Five days in ADK. Amazing as usual. #lakemeacham #mountregis
