@@ -3,7 +3,7 @@ layout: post
 title: "The Great Myth About Getting in Shape (and Every Other Goal)"
 microblog: false
 audio: 
-date: 2016-01-30 15:15:48 -0400
+date: 2016-01-30 14:15:48 -0500
 guid: http://endonend.micro.blog/2016/01/30/the-great-myth.html
 ---
 <a href="http://www.raptitude.com/2016/01/the-great-myth/">David at Raptitude</a> has a great take on goal/resolution setting:
