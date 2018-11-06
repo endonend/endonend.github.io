@@ -3,7 +3,7 @@ layout: post
 title: "The Little Things"
 microblog: false
 audio: 
-date: 2012-01-12 00:26:19 -0400
+date: 2012-01-11 23:26:19 -0500
 guid: http://endonend.micro.blog/2012/01/12/the-little-things.html
 ---
 Recently Seth Godin took a quick look at <a href="http://sethgodin.typepad.com/seths_blog/2011/12/a-hundred-little-things.html">why one of his favorite restaurants was special</a>. He came to this conclusion:
