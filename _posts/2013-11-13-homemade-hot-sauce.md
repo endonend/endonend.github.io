@@ -3,7 +3,7 @@ layout: post
 title: "Homemade Hot Sauce"
 microblog: false
 audio: 
-date: 2013-11-12 23:06:00 -0400
+date: 2013-11-12 22:06:00 -0500
 guid: http://endonend.micro.blog/2013/11/13/homemade-hot-sauce.html
 ---
 I have been on a quest to make a homemade hot sauce similar to Cholula. Sure it’s easy and fairly cheap to buy it at the store, but what fun is that? And homemade stuff inherently tastes better simply because it’s yours.
