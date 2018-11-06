@@ -3,7 +3,7 @@ layout: post
 title: "Rough draft of a new song"
 microblog: false
 audio: 
-date: 2018-06-22 10:05:10 -0400
+date: 2018-06-22 09:05:10 -0500
 guid: http://endonend.micro.blog/2018/06/22/rough-draft-of.html
 ---
 Been playing around with a catchy riff, inspired by my love of 90's indie rock.
