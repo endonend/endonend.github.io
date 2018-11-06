@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-31 16:46:05 -0400
+date: 2017-12-31 15:46:05 -0500
 guid: http://endonend.micro.blog/2017/12/31/awesome-murakami-exhibit.html
 ---
 Awesome Murakami exhibit at Albright-Knox
