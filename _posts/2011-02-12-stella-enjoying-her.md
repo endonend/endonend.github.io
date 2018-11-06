@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2011-02-12 11:18:53 -0400
+date: 2011-02-12 10:18:53 -0500
 guid: http://endonend.micro.blog/2011/02/12/stella-enjoying-her.html
 ---
 Stella enjoying her valentines cookie
