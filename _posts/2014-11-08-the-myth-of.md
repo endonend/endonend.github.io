@@ -3,7 +3,7 @@ layout: post
 title: "The Myth of Read it Later"
 microblog: false
 audio: 
-date: 2014-11-07 23:20:07 -0400
+date: 2014-11-07 22:20:07 -0500
 guid: http://endonend.micro.blog/2014/11/08/the-myth-of.html
 ---
 <blockquote class="alignright">I think Read Later was always a fantasy. The Read Later app genre definitely sustained that fantasy in my mind far longer than it should have.</blockquote>
