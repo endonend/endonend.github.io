@@ -3,7 +3,7 @@ layout: post
 title: "May Love List Update"
 microblog: false
 audio: 
-date: 2012-05-30 22:28:27 -0400
+date: 2012-05-30 21:28:27 -0500
 guid: http://endonend.micro.blog/2012/05/31/may-love-list.html
 ---
 So May, I feel like I barely got a chance to know you. Seriously. Where did you go?
