@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-29 23:21:22 -0400
+date: 2018-08-29 22:21:22 -0500
 guid: http://endonend.micro.blog/2018/08/30/the-world-is.html
 ---
 <a href="http://wilwheaton.net/2018/08/the-world-is-a-terrible-place-right-now-and-thats-largely-because-it-is-what-we-make-it/">The world is a terrible place right now, and that’s largely because it is what we make it. | WIL WHEATON dot NET</a> →
