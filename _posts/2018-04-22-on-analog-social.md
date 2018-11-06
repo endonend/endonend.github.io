@@ -3,7 +3,7 @@ layout: post
 title: "On Analog Social Media - Cal Newport"
 microblog: false
 audio: 
-date: 2018-04-21 21:15:27 -0400
+date: 2018-04-21 20:15:27 -0500
 guid: http://endonend.micro.blog/2018/04/22/on-analog-social.html
 ---
 Cal Newport sums up the key takeaway from his digital declutter experiment:
