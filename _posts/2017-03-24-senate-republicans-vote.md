@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-03-23 22:00:40 -0400
+date: 2017-03-23 21:00:40 -0500
 guid: http://endonend.micro.blog/2017/03/24/senate-republicans-vote.html
 ---
 Senate Republicans Vote to Allow ISPs to Sell Your Private Data - Motherboard
