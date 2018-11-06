@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-14 13:54:44 -0400
+date: 2018-08-14 12:54:44 -0500
 guid: http://endonend.micro.blog/2018/08/14/we-want-comics.html
 ---
 <a href="http://www.multiversitycomics.com/news-columns/we-want-comics-lost/">We Want Comics: LOST – Multiversity Comics</a> &rarr;
