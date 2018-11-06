@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-23 16:46:08 -0400
+date: 2018-09-23 15:46:08 -0500
 guid: http://endonend.micro.blog/2018/09/23/lol-what-year.html
 ---
 Lol. What 17 year old has an underage drinking party on their calendar, much less one from 36 years ago. 
