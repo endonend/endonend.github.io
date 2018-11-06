@@ -3,7 +3,7 @@ layout: post
 title: "Numbers over people"
 microblog: false
 audio: 
-date: 2014-01-28 21:30:00 -0400
+date: 2014-01-28 20:30:00 -0500
 guid: http://endonend.micro.blog/2014/01/29/numbers-over-people.html
 ---
 A lot of the "bullshit" I talked about in my <a href="http://endonend.org/posts/time-and-attention">Time and Attention</a> post comes down to folks trying to make money online and build their "brand" (I have no idea why any human being would want to be equated with this word), over doing what's right for their readers and in some cases what's right for their business. It's a fine balance, for sure.
