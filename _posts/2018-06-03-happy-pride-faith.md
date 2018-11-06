@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-03 15:17:01 -0400
+date: 2018-06-03 14:17:01 -0500
 guid: http://endonend.micro.blog/2018/06/03/happy-pride-faith.html
 ---
 Happy Pride! *Faith renewed in humanity*
