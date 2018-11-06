@@ -3,7 +3,7 @@ layout: post
 title: "I Liked Everything I Saw on Facebook for Two Days. Here’s What It Did to Me"
 microblog: false
 audio: 
-date: 2014-08-11 14:26:46 -0400
+date: 2014-08-11 13:26:46 -0500
 guid: http://endonend.micro.blog/2014/08/11/i-liked-everything.html
 ---
 Mat Honan at Wired.com <a href="http://www.wired.com/2014/08/i-liked-everything-i-saw-on-facebook-for-two-days-heres-what-it-did-to-me/">recently experimented with liking everything on Facebook</a> and had some interesting experiences for himself:
