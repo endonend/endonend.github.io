@@ -3,7 +3,7 @@ layout: post
 title: "Teaching Grit"
 microblog: false
 audio: 
-date: 2014-11-12 22:13:55 -0400
+date: 2014-11-12 21:13:55 -0500
 guid: http://endonend.micro.blog/2014/11/13/teaching-grit.html
 ---
 I was thinking some more on my <a href="http://www.endonend.org/posts/common-core-math-explained/">common core math post</a> from the other day. Specifically the viral social media posts we see on Facebook, like the frustrated parent (an electronics engineer with an extensive study in "higher math applications”) who cannot figure out a pretty basic math problem, then writes a snarky letter to the teacher.</p>
