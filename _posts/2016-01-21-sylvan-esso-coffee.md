@@ -3,7 +3,7 @@ layout: post
 title: "Sylvan Esso: Coffee"
 microblog: false
 audio: 
-date: 2016-01-20 23:02:11 -0400
+date: 2016-01-20 22:02:11 -0500
 guid: http://endonend.micro.blog/2016/01/21/sylvan-esso-coffee.html
 ---
 One of my favorite songs I stumbled upon in 2015 is 'Coffee' by Sylvan Esso:
