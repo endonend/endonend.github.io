@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-07 09:24:12 -0400
+date: 2018-09-07 08:24:12 -0500
 guid: http://endonend.micro.blog/2018/09/07/alex-jones-and.html
 ---
 [Alex Jones and Infowars banned from Twitter permanently - Vox](https://www.vox.com/2018/9/6/17829264/alex-jones-info-wars-banned-twitter) →
