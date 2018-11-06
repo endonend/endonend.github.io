@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-18 14:05:04 -0400
+date: 2018-09-18 13:05:04 -0500
 guid: http://endonend.micro.blog/2018/09/18/morning-walk-before.html
 ---
 Morning walk before a six consecutive hour meeting.
