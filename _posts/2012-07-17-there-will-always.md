@@ -3,7 +3,7 @@ layout: post
 title: "There will always be more work"
 microblog: false
 audio: 
-date: 2012-07-16 22:23:30 -0400
+date: 2012-07-16 21:23:30 -0500
 guid: http://endonend.micro.blog/2012/07/17/there-will-always.html
 ---
 In his recent post, <a href="http://www.jonathanfields.com/blog/be-fierce-with-your-time/">Be Fierce With Your Time</a>, Jonathan Fields writes:
