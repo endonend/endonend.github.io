@@ -3,7 +3,7 @@ layout: post
 title: "Instagram"
 microblog: false
 audio: 
-date: 2018-02-01 21:55:21 -0400
+date: 2018-02-01 20:55:21 -0500
 guid: http://endonend.micro.blog/2018/02/02/instagram.html
 ---
 <a href="https://daringfireball.net/linked/2018/02/01/instagram-facebook">Gruber comments</a> on the WSJ article <a href="https://www.wsj.com/articles/instagram-is-turning-into-facebook-and-thats-bad-1517422670">Instagram Is Turning Into Facebook, and That's Bad</a>:
