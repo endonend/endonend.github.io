@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-04 08:00:13 -0400
+date: 2018-06-04 07:00:13 -0500
 guid: http://endonend.micro.blog/2018/06/04/king-kendrick.html
 ---
 King Kendrick
