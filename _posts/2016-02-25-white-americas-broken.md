@@ -3,7 +3,7 @@ layout: post
 title: "White America’s ‘Broken Heart’"
 microblog: false
 audio: 
-date: 2016-02-25 11:33:37 -0400
+date: 2016-02-25 10:33:37 -0500
 guid: http://endonend.micro.blog/2016/02/25/white-americas-broken.html
 ---
 Charles M. Blow has a <a href="http://www.nytimes.com/2016/02/04/opinion/white-americas-broken-heart.html">pretty great take</a> on what's driving the 2016 Presidential election:
