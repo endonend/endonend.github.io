@@ -3,7 +3,7 @@ layout: post
 title: "EndOnEnd.org, now on Medium"
 microblog: false
 audio: 
-date: 2016-06-08 12:03:02 -0400
+date: 2016-06-08 11:03:02 -0500
 guid: http://endonend.micro.blog/2016/06/08/endonendorg-now-on.html
 ---
 I have a (nasty) habit of changing the CMS on my blog. WordPress, Jekyll, Anchor, Squarespace… you get the idea. Well, I’ve done it again. I’ve been digging the  <a href="https://medium.com/@Medium">publishing additions</a>  to the Medium platform, so I decided to go the hosted rout and make the move.
