@@ -3,7 +3,7 @@ layout: post
 title: "Practicing Slowness &amp; Being Present"
 microblog: false
 audio: 
-date: 2014-12-29 18:21:41 -0400
+date: 2014-12-29 17:21:41 -0500
 guid: http://endonend.micro.blog/2014/12/29/practicing-slowness-amp.html
 ---
 Leo Babauta on being mindful and present:
