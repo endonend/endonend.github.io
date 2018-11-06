@@ -3,7 +3,7 @@ layout: post
 title: "Binary Thinking is the Real Problem"
 microblog: false
 audio: 
-date: 2016-07-21 12:32:03 -0400
+date: 2016-07-21 11:32:03 -0500
 guid: http://endonend.micro.blog/2016/07/21/binary-thinking-is.html
 ---
 To many, today’s social conflicts are binary. You are either pro-cop or anti-cop. You are either pro-life or pro-abortion (love the ridiculous terminology). You are either for us or against us. You get the idea — it’s 100% or nothing.
