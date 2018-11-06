@@ -3,7 +3,7 @@ layout: post
 title: "Day One: Apple Music experiment"
 microblog: false
 audio: 
-date: 2018-01-22 14:31:34 -0400
+date: 2018-01-22 13:31:34 -0500
 guid: http://endonend.micro.blog/2018/01/22/day-one-apple.html
 ---
 As I <a href="http://www.endonend.org/2018/01/22/5038/">posted this AM</a>, I am embarking on an experiment to hopefully improve my experience with the <a href="http://www.endonend.org/2018/01/20/too-much-music/">vast amount of music available</a> to us via streaming services. Ideally I'd like to have better exposure to new, good music that fits my varied tastes <strong>and</strong> help me re-surface music in my library. The 'For You' tab in Apple Music seems like the best place for both, so I am going to work through my library and prune unwanted music, as well as 'Love' songs and albums I like a lot.
