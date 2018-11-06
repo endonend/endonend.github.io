@@ -3,7 +3,7 @@ layout: post
 title: "Something New"
 microblog: false
 audio: 
-date: 2012-07-05 14:12:56 -0400
+date: 2012-07-05 13:12:56 -0500
 guid: http://endonend.micro.blog/2012/07/05/something-new.html
 ---
 I would like to try something new: a good, old fashioned newsletter. Something that doesn't rely on Facebook, Twitter, or Google.
