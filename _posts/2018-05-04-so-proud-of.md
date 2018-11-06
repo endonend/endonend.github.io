@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-04 15:09:23 -0400
+date: 2018-05-04 14:09:23 -0500
 guid: http://endonend.micro.blog/2018/05/04/so-proud-of.html
 ---
 <img src="http://endonend.micro.blog/uploads/2018/5c95ec832c.jpg" class="size-full wp-image-5415" height="1242" width="1242">
