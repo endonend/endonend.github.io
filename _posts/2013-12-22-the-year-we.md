@@ -3,7 +3,7 @@ layout: post
 title: "The Year We Broke the Internet"
 microblog: false
 audio: 
-date: 2013-12-21 22:53:00 -0400
+date: 2013-12-21 21:53:00 -0500
 guid: http://endonend.micro.blog/2013/12/22/the-year-we.html
 ---
 <a href="http://www.esquire.com/blogs/news/we-broke-the-internet">Luke O’Neil</a> on media’s new business plan of viral content and how the lust for page views ruined the Internet.
