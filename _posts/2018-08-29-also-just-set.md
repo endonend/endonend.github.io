@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-29 10:41:31 -0400
+date: 2018-08-29 09:41:31 -0500
 guid: http://endonend.micro.blog/2018/08/29/also-just-set.html
 ---
 <p>Also just set up some Micro.blog <a href="https://burk.io/discover">tagmoji</a> as formatting macros in MarsEdit. Now I just need to remember to use them. </p>
