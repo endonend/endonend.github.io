@@ -3,7 +3,7 @@ layout: post
 title: "Buddhist economics"
 microblog: false
 audio: 
-date: 2014-08-08 19:29:14 -0400
+date: 2014-08-08 18:29:14 -0500
 guid: http://endonend.micro.blog/2014/08/08/buddhist-economics.html
 ---
 Brain Pickings recently posted a <a href="http://www.brainpickings.org/2014/07/07/buddhist-economics-schumacher/">great overview of Buddhist economics vs. Western economics</a> from the perspective of E.F. Schumacher's book, <em>Small is Beautiful</em> :
