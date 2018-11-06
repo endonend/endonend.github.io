@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-09 15:35:24 -0400
+date: 2018-05-09 14:35:24 -0500
 guid: http://endonend.micro.blog/2018/05/09/psa-kindtlemire-comics.html
 ---
 PSA: Kindt/Lemire comics sale on comiXology. Black Hammer, Mind MGMT, Dept H, more: 
