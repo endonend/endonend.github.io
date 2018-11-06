@@ -3,7 +3,7 @@ layout: post
 title: "How Trump Will Turn America’s Open Internet Into an Ugly Version of China’s"
 microblog: false
 audio: 
-date: 2017-11-27 17:41:53 -0400
+date: 2017-11-27 16:41:53 -0500
 guid: http://endonend.micro.blog/2017/11/27/how-trump-will.html
 ---
 We don't need hypotheticals to know what killing net neutrality can do:
