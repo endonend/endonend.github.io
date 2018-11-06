@@ -3,7 +3,7 @@ layout: post
 title: "Fact checking has jumped the shark"
 microblog: false
 audio: 
-date: 2012-08-28 15:35:15 -0400
+date: 2012-08-28 14:35:15 -0500
 guid: http://endonend.micro.blog/2012/08/28/fact-checking-has.html
 ---
 <blockquote>"Fact checkers come to this with their own sets of thoughts and beliefs, and we’re not going to let our campaign be dictated by fact checkers," he said. The fact-checkers —&nbsp;whose institutional rise has been a feature of the cycle —&nbsp;have "jumped the shark," he added after the panel. -&nbsp;<a href="http://www.buzzfeed.com/bensmith/romney-camp-bets-welfare-attack" target="_blank">Romney pollster Neil Newhouse</a></p></blockquote>
