@@ -3,7 +3,7 @@ layout: post
 title: "Mindy Kaling&#039;s Guide to Killer Confidence"
 microblog: false
 audio: 
-date: 2015-08-10 10:33:23 -0400
+date: 2015-08-10 09:33:23 -0500
 guid: http://endonend.micro.blog/2015/08/10/mindy-kalings-guide.html
 ---
 Mindy Kaling's <a href="http://www.glamour.com/entertainment/2015/08/mindy-kaling-guide-to-killer-confidence">advice is stellar</a>:
