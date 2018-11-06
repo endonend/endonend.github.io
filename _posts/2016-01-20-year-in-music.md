@@ -3,7 +3,7 @@ layout: post
 title: "2015 Year in Music"
 microblog: false
 audio: 
-date: 2016-01-20 00:02:26 -0400
+date: 2016-01-19 23:02:26 -0500
 guid: http://endonend.micro.blog/2016/01/20/year-in-music.html
 ---
 As I <a href="http://www.endonend.org/posts/2014-music/">mentioned last year</a>, I was leaning toward moving back to Beats Music. That came true in 2015 with the launch of Apple Music, the replacement for Beats Music. The service got off to a rough start, but incremental improvements have been released through out 2015 and I now have very few complaints.
