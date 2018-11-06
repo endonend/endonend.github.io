@@ -3,7 +3,7 @@ layout: post
 title: "Mitt Romney thinks you need to take responsibility for your life"
 microblog: false
 audio: 
-date: 2012-09-18 17:17:56 -0400
+date: 2012-09-18 16:17:56 -0500
 guid: http://endonend.micro.blog/2012/09/18/mitt-romney-thinks.html
 ---
 OK, so I lied. Just <em>one</em> more post on politics, since <a href="http://www.motherjones.com/politics/2012/09/secret-video-romney-private-fundraiser">Romney is such a dick</a>.
