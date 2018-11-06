@@ -3,7 +3,7 @@ layout: post
 title: "Better Through Less"
 microblog: false
 audio: 
-date: 2012-01-10 00:17:45 -0400
+date: 2012-01-09 23:17:45 -0500
 guid: http://endonend.micro.blog/2012/01/10/better-through-less.html
 ---
 To go along with <a href="http://www.endonend.org/2012/01/05/new-year-new-attitude/">starting</a>, I think it’s very important to decide what not to do as well. To eliminate all the things that are not providing value or helping you focus your attention on the things you love.
