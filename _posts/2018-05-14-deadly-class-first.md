@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-14 15:19:50 -0400
+date: 2018-05-14 14:19:50 -0500
 guid: http://endonend.micro.blog/2018/05/14/deadly-class-first.html
 ---
 <a href="https://www.youtube.com/watch?v=uFqoqzyT4JQ">DEADLY CLASS | First Look | SYFY - YouTube</a> &rarr;
