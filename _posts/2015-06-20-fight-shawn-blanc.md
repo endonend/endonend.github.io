@@ -3,7 +3,7 @@ layout: post
 title: "Fight — Shawn Blanc"
 microblog: false
 audio: 
-date: 2015-06-19 22:01:17 -0400
+date: 2015-06-19 21:01:17 -0500
 guid: http://endonend.micro.blog/2015/06/20/fight-shawn-blanc.html
 ---
 Shawn Blanc on <a href="http://shawnblanc.net/2015/06/fight/">having the focus to build a meaningful and creative life</a>:
