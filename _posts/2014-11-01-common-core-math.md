@@ -3,7 +3,7 @@ layout: post
 title: "Common Core Math Explained"
 microblog: false
 audio: 
-date: 2014-10-31 21:52:52 -0400
+date: 2014-10-31 20:52:52 -0500
 guid: http://endonend.micro.blog/2014/11/01/common-core-math.html
 ---
 You've all seen those viral posts on Facebook or Twitter: a frustrated parent writing to a math teacher about Common Core math. On the face of it, the math problems and methods seem ridiculous. We (adults) all learned math a certain way and we're comfortable dealing with that method. If it ain't broke, why fix it?!  The problem is, as Vox.com points out in the linked article below, American adults are horrible at math.
