@@ -3,7 +3,7 @@ layout: post
 title: "More on that Site and Connections"
 microblog: false
 audio: 
-date: 2013-02-28 13:53:51 -0400
+date: 2013-02-28 12:53:51 -0500
 guid: http://endonend.micro.blog/2013/02/28/more-on-that.html
 ---
 Today, Leo Babauta, over on Zen Habits, has a great (and timely) <a href="http://zenhabits.net/connect/">post on connection</a>:
