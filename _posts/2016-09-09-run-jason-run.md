@@ -3,7 +3,7 @@ layout: post
 title: "Run Jason, Run"
 microblog: false
 audio: 
-date: 2016-09-09 12:36:05 -0400
+date: 2016-09-09 11:36:05 -0500
 guid: http://endonend.micro.blog/2016/09/09/run-jason-run.html
 ---
 A few weeks ago I ran my first 5k race after “training” (read: finish about 2/3 of a couch-to-5k program) this summer. It was the Tops 5K for Roswell Park Cancer Institute and it was super inspirational to run with cancer survivors and hear so many amazing stories before the race.
