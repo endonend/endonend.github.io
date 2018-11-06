@@ -3,7 +3,7 @@ layout: post
 title: "Family camping trip booked!"
 microblog: false
 audio: 
-date: 2012-01-28 19:23:10 -0400
+date: 2012-01-28 18:23:10 -0500
 guid: http://endonend.micro.blog/2012/01/28/family-camping-trip.html
 ---
 <img src="http://endonend.org/wp-content/uploads/2012/08/vacation-2011.jpg" title="" alt=""/>
