@@ -3,7 +3,7 @@ layout: post
 title: "Love List: 2014 Review"
 microblog: false
 audio: 
-date: 2014-12-16 22:24:29 -0400
+date: 2014-12-16 21:24:29 -0500
 guid: http://endonend.micro.blog/2014/12/17/love-list-review.html
 ---
 Each of the <a href="http://www.endonend.org/posts/my-love-list-for-2014/">last</a> <a href="http://www.endonend.org/posts/love-list-2013/">few</a> <a href="http://www.endonend.org/posts/my-2012-love-list/">years</a> I’ve spent some time documenting and tracking my love list.
