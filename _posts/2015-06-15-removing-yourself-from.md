@@ -3,7 +3,7 @@ layout: post
 title: "Removing Yourself From the Echo Chamber"
 microblog: false
 audio: 
-date: 2015-06-15 16:34:44 -0400
+date: 2015-06-15 15:34:44 -0500
 guid: http://endonend.micro.blog/2015/06/15/removing-yourself-from.html
 ---
 <a href="http://us2.campaign-archive2.com/?u=e2b2c53b3c34fa976ffb8f796&amp;id=05cbce6e77&amp;e=9a986f919e">Great ideas and direction</a> from Shawn Blanc's email newsletter:
