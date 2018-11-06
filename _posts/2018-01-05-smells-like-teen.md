@@ -3,7 +3,7 @@ layout: post
 title: "Smells Like Teen Sprite"
 microblog: false
 audio: 
-date: 2018-01-05 00:45:00 -0400
+date: 2018-01-04 23:45:00 -0500
 guid: http://endonend.micro.blog/2018/01/05/smells-like-teen.html
 ---
 Someone auto-tuned Nirvana's Smells Like Teen Spirit in a major chord. Amazing.
