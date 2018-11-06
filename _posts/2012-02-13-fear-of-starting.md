@@ -3,7 +3,7 @@ layout: post
 title: "Fear of Starting"
 microblog: false
 audio: 
-date: 2012-02-13 17:13:00 -0400
+date: 2012-02-13 16:13:00 -0500
 guid: http://endonend.micro.blog/2012/02/13/fear-of-starting.html
 ---
 I've written about starting before, most prominently in <a href="/end-on-end/2012/01/new-year-new-attitude">New Year, New Attitude</a>. My favorite part from that post:
