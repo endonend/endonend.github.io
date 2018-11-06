@@ -3,7 +3,7 @@ layout: post
 title: "More of Less"
 microblog: false
 audio: 
-date: 2013-02-26 17:19:01 -0400
+date: 2013-02-26 16:19:01 -0500
 guid: http://endonend.micro.blog/2013/02/26/more-of-less.html
 ---
 I've been getting this overwhelming feeling that there's just too much "stuff" in my life. Too many status updates, too many emails, too many unread RSS items, too many photos to look at, etc etc. You could say the same about movies, TV shows, books, music, clutter... and on and on.
