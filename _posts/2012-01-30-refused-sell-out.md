@@ -3,7 +3,7 @@ layout: post
 title: "Refused Sell Out"
 microblog: false
 audio: 
-date: 2012-01-29 20:00:00 -0400
+date: 2012-01-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2012/01/30/refused-sell-out.html
 ---
 Yeah I am going there -- mainly because no one else seems to be... and anyone who does even mention it in passing gives them a pass.
