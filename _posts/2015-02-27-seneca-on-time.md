@@ -3,7 +3,7 @@ layout: post
 title: "Seneca on Time &amp; Attention"
 microblog: false
 audio: 
-date: 2015-02-26 23:56:40 -0400
+date: 2015-02-26 22:56:40 -0500
 guid: http://endonend.micro.blog/2015/02/27/seneca-on-time.html
 ---
 Our battle with time and attention spans centuries. Over 2,000 years ago, the philosopher Lucius Annaeus Seneca wrote about distraction in <em><a href="http://www.amazon.com/gp/product/0143036327/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0143036327&linkCode=as2&tag=endonend-20&linkId=VNNIMFW4HLRY6722">On the Shortness of Life</a></em>:
