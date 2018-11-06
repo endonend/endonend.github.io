@@ -3,7 +3,7 @@ layout: post
 title: "Seth&#039;s Godin: Where does trust come from?"
 microblog: false
 audio: 
-date: 2013-01-03 17:59:51 -0400
+date: 2013-01-03 16:59:51 -0500
 guid: http://endonend.micro.blog/2013/01/03/seths-godin-where.html
 ---
 <blockquote>Hint: it never comes from the good times and from the easy projects.
