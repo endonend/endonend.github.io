@@ -3,7 +3,7 @@ layout: post
 title: "Paper Faces"
 microblog: false
 audio: 
-date: 2012-09-04 17:33:15 -0400
+date: 2012-09-04 16:33:15 -0500
 guid: http://endonend.micro.blog/2012/09/04/paper-faces.html
 ---
 <p id="yui_3_17_2_1_1407674114902_683063">My good friend, and fellow father of twins, Mike Rose recently kicked off a project called Paper Faces, where he will draw a portrait a day using the <a href="http://www.fiftythree.com/paper">iPad app Paper</a> by 53. To date, he's received a remarkable 800+ volunteers, as his initial post on Twitter received an enormous amount of retweets and favorites. So cool and well deserved.</p>
