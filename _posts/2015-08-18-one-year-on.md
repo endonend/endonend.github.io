@@ -3,7 +3,7 @@ layout: post
 title: "One Year On"
 microblog: false
 audio: 
-date: 2015-08-18 10:57:13 -0400
+date: 2015-08-18 09:57:13 -0500
 guid: http://endonend.micro.blog/2015/08/18/one-year-on.html
 ---
 Prior to the previous weekend, I stumbled upon an article that mentioned the first anniversary of Ferguson. I was shocked. Had it really been that long? It felt like just a few months ago.
