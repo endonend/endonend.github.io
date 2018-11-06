@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-04 21:42:07 -0400
+date: 2018-10-04 20:42:07 -0500
 guid: http://endonend.micro.blog/2018/10/05/in-praise-of.html
 ---
 [In Praise of Mediocrity - The New York Times](https://www.nytimes.com/2018/09/29/opinion/sunday/in-praise-of-mediocrity.html) &rarr;
