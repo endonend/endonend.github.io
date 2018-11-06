@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2011-02-04 16:58:23 -0400
+date: 2011-02-04 15:58:23 -0500
 guid: http://endonend.micro.blog/2011/02/04/lucy-flying-around.html
 ---
 Lucy flying around her room
