@@ -3,7 +3,7 @@ layout: post
 title: "Relic Scout Development Journal (S1E2): Hit List"
 microblog: false
 audio: 
-date: 2018-09-03 21:44:16 -0400
+date: 2018-09-03 20:44:16 -0500
 guid: http://endonend.micro.blog/2018/09/04/relic-scout-development.html
 ---
 As I mentioned in my <a href="https://www.endonend.org/2018/08/21/relic-scout-development-journal-s1e1-kickoff/">last Relic Scout post</a>, I am going to document my progress with launching new features on the site.
