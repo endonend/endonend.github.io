@@ -3,7 +3,7 @@ layout: post
 title: "Life&#039;s Defaults"
 microblog: false
 audio: 
-date: 2018-05-31 15:55:41 -0400
+date: 2018-05-31 14:55:41 -0500
 guid: http://endonend.micro.blog/2018/05/31/lifes-defaults.html
 ---
 Patrick Rhone shared a great story <a href="http://www.patrickrhone.net/on-accepting-defaults/">On Accepting Defaults</a>:
