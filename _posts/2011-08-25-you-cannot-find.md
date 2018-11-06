@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2011-08-24 23:28:34 -0400
+date: 2011-08-24 22:28:34 -0500
 guid: http://endonend.micro.blog/2011/08/25/you-cannot-find.html
 ---
 <blockquote>
