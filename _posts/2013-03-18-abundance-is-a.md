@@ -3,7 +3,7 @@ layout: post
 title: "Abundance is a curse"
 microblog: false
 audio: 
-date: 2013-03-18 14:57:40 -0400
+date: 2013-03-18 13:57:40 -0500
 guid: http://endonend.micro.blog/2013/03/18/abundance-is-a.html
 ---
 I really like this:
