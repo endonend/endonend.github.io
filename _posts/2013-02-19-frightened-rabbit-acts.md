@@ -3,7 +3,7 @@ layout: post
 title: "Frightened Rabbit: Acts of Man"
 microblog: false
 audio: 
-date: 2013-02-19 16:39:34 -0400
+date: 2013-02-19 15:39:34 -0500
 guid: http://endonend.micro.blog/2013/02/19/frightened-rabbit-acts.html
 ---
 Frightened Rabbit has a brand new album out called <a href="http://www.amazon.com/gp/product/B00B2IL0C6/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00B2IL0C6&linkCode=as2&tag=endonend-20">Pedestrian Verse</a>. Overall it's pretty great. Here's the lead track, Called Acts of Man, performed live.
