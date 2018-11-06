@@ -3,7 +3,7 @@ layout: post
 title: "The Builder&#039;s High"
 microblog: false
 audio: 
-date: 2014-01-04 22:41:00 -0400
+date: 2014-01-04 21:41:00 -0500
 guid: http://endonend.micro.blog/2014/01/05/the-builders-high.html
 ---
 <a href="http://randsinrepose.com/archives/the-builders-high/">Awesome post</a> by Rands over at Rands In Repose on focusing to build something versus being overwhelmed by other people's moments.
