@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-19 12:24:58 -0400
+date: 2018-09-19 11:24:58 -0500
 guid: http://endonend.micro.blog/2018/09/19/space-alert-an.html
 ---
 [SPACE ALERT™ – An Apple Shortcuts Text Adventure – UARRR.org](https://uarrr.org/2018/09/19/space-alert-an-apple-shortcuts-text-adventure/) &rarr;
