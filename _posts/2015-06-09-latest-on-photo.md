@@ -3,7 +3,7 @@ layout: post
 title: "Latest on Photo Project"
 microblog: false
 audio: 
-date: 2015-06-09 10:24:14 -0400
+date: 2015-06-09 09:24:14 -0500
 guid: http://endonend.micro.blog/2015/06/09/latest-on-photo.html
 ---
 As mentioned before, I embarked on a photo-a-day project to learn my new camera. Follow along on <a href="https://www.flickr.com/photos/jdettbarn/sets/72157650560352206/">Flickr</a> by clicking the Photo-a-Day link above!
