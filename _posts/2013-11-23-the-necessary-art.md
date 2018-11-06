@@ -3,7 +3,7 @@ layout: post
 title: "The Necessary Art of Subtraction"
 microblog: false
 audio: 
-date: 2013-11-22 23:04:00 -0400
+date: 2013-11-22 22:04:00 -0500
 guid: http://endonend.micro.blog/2013/11/23/the-necessary-art.html
 ---
 Great insight from <a href="http://zenhabits.net/minus/">Leo at Zen Habits</a>:
