@@ -3,7 +3,7 @@ layout: post
 title: "Personal Sites"
 microblog: false
 audio: 
-date: 2016-01-22 00:29:13 -0400
+date: 2016-01-21 23:29:13 -0500
 guid: http://endonend.micro.blog/2016/01/22/personal-sites.html
 ---
 During the last quarter of 2015, I got fed up with maintaining my WordPress install and decided to shut it down and write on Medium.com. I moved over a few of my favorite posts, which proceeded to get a decent bit of traffic (for me), so I was pleased with my decision.
