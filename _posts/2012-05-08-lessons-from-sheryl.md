@@ -3,7 +3,7 @@ layout: post
 title: "Lessons from Sheryl Sandberg: Stop Working More Than 40 Hours a Week"
 microblog: false
 audio: 
-date: 2012-05-07 22:28:25 -0400
+date: 2012-05-07 21:28:25 -0500
 guid: http://endonend.micro.blog/2012/05/08/lessons-from-sheryl.html
 ---
 Apparently, up until recently,<a href="http://www.inc.com/geoffrey-james/stop-working-more-than-40-hours-a-week.html"> Sheryl Sandberg (COO of Facebook) felt the need to hide the fact that she leaves work at a normal hour to spend time with her kids</a>. Maybe it's pressure from the startup culture of Facebook or just U.S. business culture in general.
