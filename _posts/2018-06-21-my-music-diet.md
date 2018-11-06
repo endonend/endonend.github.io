@@ -3,7 +3,7 @@ layout: post
 title: "My Music Diet: Five New(ish) Releases"
 microblog: false
 audio: 
-date: 2018-06-21 12:46:36 -0400
+date: 2018-06-21 11:46:36 -0500
 guid: http://endonend.micro.blog/2018/06/21/my-music-diet.html
 ---
 Here are five of my favorite albums from the last month or so:
