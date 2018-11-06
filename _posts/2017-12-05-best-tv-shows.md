@@ -3,7 +3,7 @@ layout: post
 title: "Best TV Shows of 2017"
 microblog: false
 audio: 
-date: 2017-12-05 10:45:53 -0400
+date: 2017-12-05 09:45:53 -0500
 guid: http://endonend.micro.blog/2017/12/05/best-tv-shows.html
 ---
 [The Best TV Shows of 2017 - The Ringer](https://www.theringer.com/tv/2017/12/5/16737116/the-best-tv-shows-of-2017)
