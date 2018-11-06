@@ -3,7 +3,7 @@ layout: post
 title: "The Smart Speaker Battle"
 microblog: false
 audio: 
-date: 2018-02-14 15:22:59 -0400
+date: 2018-02-14 14:22:59 -0500
 guid: http://endonend.micro.blog/2018/02/14/the-smart-speaker.html
 ---
 Joe Cieplinski hits the nail on the head with his look at the smart speaker battle in <a href="http://joecieplinski.com/blog/2018/02/14/good-vs-better-at-bad/">Good vs. Better at Bad</a>. Specifically with smart assistant technology:
