@@ -3,7 +3,7 @@ layout: post
 title: "Mapping the imaginary lines we use to segregate our schools"
 microblog: false
 audio: 
-date: 2018-01-08 15:40:53 -0400
+date: 2018-01-08 14:40:53 -0500
 guid: http://endonend.micro.blog/2018/01/08/mapping-the-imaginary.html
 ---
 Today, Vox posted <a href="https://www.vox.com/2018/1/8/16822374/school-segregation-gerrymander-map">Mapping the imaginary lines we use to segregate our schools</a>, an excellent article and tool to look at the state of school segregation in the United States. It's generally not good.
