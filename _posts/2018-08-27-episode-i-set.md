@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-27 10:48:42 -0400
+date: 2018-08-27 09:48:42 -0500
 guid: http://endonend.micro.blog/2018/08/27/episode-i-set.html
 ---
 <p><a href="https://appstories.net/episodes/75/">Episode 75: I Set Up a Fake Child – AppStories</a>:</p>
