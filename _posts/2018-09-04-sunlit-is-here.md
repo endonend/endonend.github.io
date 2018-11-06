@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-04 13:23:10 -0400
+date: 2018-09-04 12:23:10 -0500
 guid: http://endonend.micro.blog/2018/09/04/sunlit-is-here.html
 ---
 <a href="https://www.manton.org/2018/09/04/sunlit-is-here.html">Sunlit 2.2 is here</a> &rarr;
