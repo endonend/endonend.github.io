@@ -3,7 +3,7 @@ layout: post
 title: "Why I Refuse To Call My Daughter A Tomboy — Medium"
 microblog: false
 audio: 
-date: 2016-02-20 18:29:15 -0400
+date: 2016-02-20 17:29:15 -0500
 guid: http://endonend.micro.blog/2016/02/20/why-i-refuse.html
 ---
 A <a href="https://medium.com/life-tips/why-i-refuse-to-call-my-daughter-a-tomboy-fc87cfc198be">great post on feminism</a> by Catherine Connors on Medium:
