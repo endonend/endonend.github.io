@@ -3,7 +3,7 @@ layout: post
 title: "The Better Web"
 microblog: false
 audio: 
-date: 2018-01-03 17:56:08 -0400
+date: 2018-01-03 16:56:08 -0500
 guid: http://endonend.micro.blog/2018/01/03/the-better-web.html
 ---
 Om Malik has another gem, as he reminisces about the "old" web in <a href="https://om.co/2018/01/03/the-internet-of-love/">The Internet of Love</a>
