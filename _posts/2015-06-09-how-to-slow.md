@@ -3,7 +3,7 @@ layout: post
 title: "How to Slow Down Your Family&#039;s Schedule"
 microblog: false
 audio: 
-date: 2015-06-09 16:10:14 -0400
+date: 2015-06-09 15:10:14 -0500
 guid: http://endonend.micro.blog/2015/06/09/how-to-slow.html
 ---
 <a href="http://www.becomingminimalist.com/more-family/">Becoming Minimalist</a> has some great advice for slowing down as a family:
