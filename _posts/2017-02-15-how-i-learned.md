@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-02-14 22:49:19 -0400
+date: 2017-02-14 21:49:19 -0500
 guid: http://endonend.micro.blog/2017/02/15/how-i-learned.html
 ---
 How I Learned to Love the Tragically Hip and Still Be Punk
