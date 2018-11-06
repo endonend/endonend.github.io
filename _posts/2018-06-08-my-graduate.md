@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-08 19:13:26 -0400
+date: 2018-06-08 18:13:26 -0500
 guid: http://endonend.micro.blog/2018/06/08/my-graduate.html
 ---
 My graduate!
