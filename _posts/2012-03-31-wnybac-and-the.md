@@ -3,7 +3,7 @@ layout: post
 title: "WNYBAC and the Book Fair Featured"
 microblog: false
 audio: 
-date: 2012-03-31 15:08:40 -0400
+date: 2012-03-31 14:08:40 -0500
 guid: http://endonend.micro.blog/2012/03/31/wnybac-and-the.html
 ---
 The Buffalo Small Press Book Fair and WNYBAC were <a href="http://video.artvoice.com/artvoicetv.php?permalink=0000001634" target="_blank">featured on Artvoice TV yesterday</a>. So cool!
