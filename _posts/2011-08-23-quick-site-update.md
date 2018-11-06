@@ -3,7 +3,7 @@ layout: post
 title: "Quick site update"
 microblog: false
 audio: 
-date: 2011-08-23 14:06:25 -0400
+date: 2011-08-23 13:06:25 -0500
 guid: http://endonend.micro.blog/2011/08/23/quick-site-update.html
 ---
 I wanted to give a quick update on all things End On End:
