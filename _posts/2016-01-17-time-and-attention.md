@@ -3,7 +3,7 @@ layout: post
 title: "Time and Attention"
 microblog: false
 audio: 
-date: 2016-01-17 17:32:30 -0400
+date: 2016-01-17 16:32:30 -0500
 guid: http://endonend.micro.blog/2016/01/17/time-and-attention.html
 ---
 The Back to Work episode <a href="http://5by5.tv/b2w/154">Not My Circus, Not My Monkeys</a>, touched on one of my absolute favorite topics: time and attention. Specifically a new (to me) aspect, which Merlin called the Attention Stack.</p>
