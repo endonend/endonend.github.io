@@ -3,7 +3,7 @@ layout: post
 title: "Why Buddhism?"
 microblog: false
 audio: 
-date: 2011-08-18 23:42:45 -0400
+date: 2011-08-18 22:42:45 -0500
 guid: http://endonend.micro.blog/2011/08/19/why-buddhism.html
 ---
 I don’t call myself a Buddhist yet, by any means, but I do think about the philosophy and principles every day and work to apply them to every aspect of my life. To me it seems like a journey, filled with endless learning and application, before I’ll feel comfortable enough to use the label.
