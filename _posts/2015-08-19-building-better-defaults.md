@@ -3,7 +3,7 @@ layout: post
 title: "Building Better Defaults"
 microblog: false
 audio: 
-date: 2015-08-19 16:23:15 -0400
+date: 2015-08-19 15:23:15 -0500
 guid: http://endonend.micro.blog/2015/08/19/building-better-defaults.html
 ---
 Great inspiration from Shawn Blanc:
