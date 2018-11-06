@@ -3,7 +3,7 @@ layout: post
 title: "State of the Blog - 7 month edition"
 microblog: false
 audio: 
-date: 2012-03-30 09:32:04 -0400
+date: 2012-03-30 08:32:04 -0500
 guid: http://endonend.micro.blog/2012/03/30/state-of-the.html
 ---
 I've been doing this blog for just over 7 months now, which is amazing to me. It definitely doesn't feel like that long. The time has flown by!
