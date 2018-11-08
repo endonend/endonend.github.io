@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/11/08/031635.html",
+	      	
+			"content_html": "<p>If you are on Mastodon, you can follow my blog using  @jason@endonend.org</p>\n",
+			"date_published": "2018-11-07T22:16:35-05:00",
+			"url": "https://www.endonend.org/2018/11/07/031635.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/11/06/watch-the-deadly.html",
 	      	
 			"content_html": "<p><a href=\"https://www.polygon.com/2018/11/5/18065678/the-deadly-class-trailer-syfy-tv-show-russo-brothers\">Watch The Deadly Class trailer: assassin academy for teens - Polygon</a> →</p>\n\n<p>Can’t wait for this show.</p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p><a href=\"https://www.swiss-miss.com/2018/10/what-i-can-control.html\">swissmiss – What I Can Control</a> →</p>\n\n<p>Absolutely love this… I made and printed out a version of this to display in our house. Good reminders for adults and kids alike.</p>\n\n<h3 id=\"what-i-can-control\">What I Can Control:</h3>\n\n<ol>\n  <li>My Actions &amp; Reactions</li>\n  <li>My Boundaries</li>\n  <li>My Expectations</li>\n  <li>How I Invest My Time</li>\n  <li>How I Treat Myself</li>\n  <li>How I Treat Others</li>\n</ol>\n",
 			"date_published": "2018-10-13T10:16:30-04:00",
 			"url": "https://www.endonend.org/2018/10/13/what-i-can.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/10/11/posted-a-rough.html",
-	      	
-			"content_html": "<p>Posted a <a href=\"https://soundcloud.com/user-454803970/rough-draft-of-new-song\">rough draft of a new song</a>. I am liking this one a lot more than my last. Hopefully I can get some more time soon to expand on it.</p>\n\n<iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/503989131&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe>\n",
-			"date_published": "2018-10-10T22:24:51-04:00",
-			"url": "https://www.endonend.org/2018/10/10/posted-a-rough.html"
 		}
 		
 	]
