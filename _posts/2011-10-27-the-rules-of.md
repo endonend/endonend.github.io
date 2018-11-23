@@ -3,6 +3,7 @@ layout: post
 title: "The Rules of Effortless Parenting"
 microblog: false
 audio: 
+photo: 
 date: 2011-10-27 15:38:00 -0500
 guid: http://endonend.micro.blog/2011/10/27/the-rules-of.html
 ---
