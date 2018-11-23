@@ -3,6 +3,7 @@ layout: post
 title: "Markdown and WordPress"
 microblog: false
 audio: 
+photo: 
 date: 2012-01-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2012/01/30/markdown-and-wordpress.html
 ---
