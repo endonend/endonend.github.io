@@ -3,6 +3,7 @@ layout: post
 title: "On Leaving the Church"
 microblog: false
 audio: 
+photo: 
 date: 2011-09-01 22:34:33 -0500
 guid: http://endonend.micro.blog/2011/09/02/on-leaving-the.html
 ---
