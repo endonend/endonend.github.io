@@ -3,6 +3,7 @@ layout: post
 title: "The long shadow of Mt. Rainier"
 microblog: false
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2018/01/mtrainiershadow.jpg
 date: 2011-10-15 22:57:46 -0500
 guid: http://endonend.micro.blog/2011/10/16/the-long-shadow.html
 ---
