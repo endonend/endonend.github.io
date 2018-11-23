@@ -3,6 +3,7 @@ layout: post
 title: "The Pixies"
 microblog: false
 audio: 
+photo: 
 date: 2011-11-03 15:40:19 -0500
 guid: http://endonend.micro.blog/2011/11/03/the-pixies.html
 ---
