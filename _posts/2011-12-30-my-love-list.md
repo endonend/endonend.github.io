@@ -3,6 +3,7 @@ layout: post
 title: "My 2012 Love List"
 microblog: false
 audio: 
+photo: 
 date: 2011-12-29 23:10:26 -0500
 guid: http://endonend.micro.blog/2011/12/30/my-love-list.html
 ---
