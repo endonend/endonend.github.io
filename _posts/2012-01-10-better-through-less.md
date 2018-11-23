@@ -3,6 +3,7 @@ layout: post
 title: "Better Through Less"
 microblog: false
 audio: 
+photo: 
 date: 2012-01-09 23:17:45 -0500
 guid: http://endonend.micro.blog/2012/01/10/better-through-less.html
 ---
