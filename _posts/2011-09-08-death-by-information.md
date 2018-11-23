@@ -3,6 +3,7 @@ layout: post
 title: "Death By Information"
 microblog: false
 audio: 
+photo: 
 date: 2011-09-07 22:49:07 -0500
 guid: http://endonend.micro.blog/2011/09/08/death-by-information.html
 ---
