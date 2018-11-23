@@ -3,6 +3,7 @@ layout: post
 title: "Quick site update"
 microblog: false
 audio: 
+photo: 
 date: 2011-08-23 13:06:25 -0500
 guid: http://endonend.micro.blog/2011/08/23/quick-site-update.html
 ---
