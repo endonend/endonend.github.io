@@ -3,6 +3,7 @@ layout: post
 title: "Being Present"
 microblog: false
 audio: 
+photo: 
 date: 2011-08-29 22:32:39 -0500
 guid: http://endonend.micro.blog/2011/08/30/being-present.html
 ---
