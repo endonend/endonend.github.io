@@ -3,6 +3,7 @@ layout: post
 title: "Self Assessment &amp; Self Worth"
 microblog: false
 audio: 
+photo: 
 date: 2012-02-10 16:16:19 -0500
 guid: http://endonend.micro.blog/2012/02/10/self-assessment-amp.html
 ---
