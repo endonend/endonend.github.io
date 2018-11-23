@@ -3,6 +3,7 @@ layout: post
 title: "Where this is going"
 microblog: false
 audio: 
+photo: 
 date: 2011-08-17 18:00:34 -0500
 guid: http://endonend.micro.blog/2011/08/17/where-this-is.html
 ---
