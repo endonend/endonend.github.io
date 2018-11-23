@@ -3,6 +3,7 @@ layout: post
 title: "Planting Seeds"
 microblog: false
 audio: 
+photo: 
 date: 2011-11-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2011/11/30/planting-seeds.html
 ---
