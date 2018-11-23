@@ -3,6 +3,7 @@ layout: post
 title: "The Happy Secret to Better Work"
 microblog: false
 audio: 
+photo: 
 date: 2012-02-10 18:17:32 -0500
 guid: http://endonend.micro.blog/2012/02/10/the-happy-secret.html
 ---
