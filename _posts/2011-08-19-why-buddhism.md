@@ -3,6 +3,7 @@ layout: post
 title: "Why Buddhism?"
 microblog: false
 audio: 
+photo: 
 date: 2011-08-18 22:42:45 -0500
 guid: http://endonend.micro.blog/2011/08/19/why-buddhism.html
 ---
