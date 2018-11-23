@@ -3,6 +3,7 @@ layout: post
 title: "Bad news, priorities and living in the moment"
 microblog: false
 audio: 
+photo: 
 date: 2011-09-21 22:54:56 -0500
 guid: http://endonend.micro.blog/2011/09/22/bad-news-priorities.html
 ---
