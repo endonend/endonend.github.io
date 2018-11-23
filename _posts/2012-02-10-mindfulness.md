@@ -3,6 +3,7 @@ layout: post
 title: "Mindfulness"
 microblog: false
 audio: 
+photo: 
 date: 2012-02-10 18:14:29 -0500
 guid: http://endonend.micro.blog/2012/02/10/mindfulness.html
 ---
