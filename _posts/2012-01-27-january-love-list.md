@@ -3,6 +3,7 @@ layout: post
 title: "January Love List Update"
 microblog: false
 audio: 
+photo: 
 date: 2012-01-27 01:24:19 -0500
 guid: http://endonend.micro.blog/2012/01/27/january-love-list.html
 ---
