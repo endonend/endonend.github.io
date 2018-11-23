@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2011-10-29 23:01:58 -0500
 guid: http://endonend.micro.blog/2011/10/30/take-care-of.html
 ---
