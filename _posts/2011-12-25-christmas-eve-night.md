@@ -3,6 +3,7 @@ layout: post
 title: "Christmas Eve Night"
 microblog: false
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/15042faac5.jpg
 date: 2011-12-25 01:54:00 -0500
 guid: http://endonend.micro.blog/2011/12/25/christmas-eve-night.html
 ---
