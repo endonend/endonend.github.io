@@ -3,6 +3,7 @@ layout: post
 title: "New Year, New Attitude"
 microblog: false
 audio: 
+photo: 
 date: 2012-01-05 23:05:51 -0500
 guid: http://endonend.micro.blog/2012/01/06/new-year-new.html
 ---
