@@ -3,6 +3,7 @@ layout: post
 title: "The Little Things"
 microblog: false
 audio: 
+photo: 
 date: 2012-01-11 23:26:19 -0500
 guid: http://endonend.micro.blog/2012/01/12/the-little-things.html
 ---
