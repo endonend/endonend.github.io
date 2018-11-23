@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2011-08-19 22:17:20 -0500
 guid: http://endonend.micro.blog/2011/08/20/there-is-no.html
 ---
