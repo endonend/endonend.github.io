@@ -3,6 +3,7 @@ layout: post
 title: "The Complete Guide to Snapping the Fuck Out of It"
 microblog: false
 audio: 
+photo: 
 date: 2012-01-11 01:43:35 -0500
 guid: http://endonend.micro.blog/2012/01/11/the-complete-guide.html
 ---
