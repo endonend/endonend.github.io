@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-03-04 21:15:38 -0500
 guid: http://endonend.micro.blog/2017/03/05/run-the-jewels.html
 ---
