@@ -3,6 +3,7 @@ layout: post
 title: "Why do more?"
 microblog: false
 audio: 
+photo: 
 date: 2013-03-08 10:21:56 -0500
 guid: http://endonend.micro.blog/2013/03/08/why-do-more.html
 ---
