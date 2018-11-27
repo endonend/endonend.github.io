@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/99ae97f0ec.jpg
 date: 2018-05-12 20:11:10 -0500
 guid: http://endonend.micro.blog/2018/05/13/lucy-scored-two.html
 ---
