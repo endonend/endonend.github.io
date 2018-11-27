@@ -3,6 +3,7 @@ layout: post
 title: "Secret of Adulthood: Don’t Believe Everything You Think"
 microblog: false
 audio: 
+photo: 
 date: 2014-09-04 14:37:34 -0500
 guid: http://endonend.micro.blog/2014/09/04/secret-of-adulthood.html
 ---
