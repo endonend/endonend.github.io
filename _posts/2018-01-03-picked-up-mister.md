@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-03 18:06:30 -0500
 guid: http://endonend.micro.blog/2018/01/03/picked-up-mister.html
 ---
