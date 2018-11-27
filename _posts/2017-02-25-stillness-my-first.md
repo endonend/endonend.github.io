@@ -3,6 +3,7 @@ layout: post
 title: "Stillness (my first song)"
 microblog: false
 audio: 
+photo: 
 date: 2017-02-24 20:23:47 -0500
 guid: http://endonend.micro.blog/2017/02/25/stillness-my-first.html
 ---
