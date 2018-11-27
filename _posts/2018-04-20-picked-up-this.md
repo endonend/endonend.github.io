@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/da7719531a.jpg
 date: 2018-04-20 11:58:35 -0500
 guid: http://endonend.micro.blog/2018/04/20/picked-up-this.html
 ---
