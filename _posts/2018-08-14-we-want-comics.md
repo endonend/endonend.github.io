@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-14 12:54:44 -0500
 guid: http://endonend.micro.blog/2018/08/14/we-want-comics.html
 ---
