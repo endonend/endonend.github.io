@@ -3,6 +3,7 @@ layout: post
 title: "Micro.blog + MarsEdit Tips"
 microblog: false
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/d7ffcd3c3b.jpg
 date: 2018-09-01 09:07:20 -0500
 guid: http://endonend.micro.blog/2018/09/01/microblog-marsedit-tips.html
 ---
