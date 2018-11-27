@@ -3,6 +3,7 @@ layout: post
 title: "The New Reality"
 microblog: false
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/6087c04a21.jpg
 date: 2012-05-08 09:47:04 -0500
 guid: http://endonend.micro.blog/2012/05/08/the-new-reality.html
 ---
