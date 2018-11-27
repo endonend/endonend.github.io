@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-31 00:01:37 -0500
 guid: http://endonend.micro.blog/2018/08/31/free-speech-is.html
 ---
