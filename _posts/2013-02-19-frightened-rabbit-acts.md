@@ -3,6 +3,7 @@ layout: post
 title: "Frightened Rabbit: Acts of Man"
 microblog: false
 audio: 
+photo: 
 date: 2013-02-19 15:39:34 -0500
 guid: http://endonend.micro.blog/2013/02/19/frightened-rabbit-acts.html
 ---
