@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-26 12:54:49 -0500
 guid: http://endonend.micro.blog/2018/07/26/seattle-venue-showbox.html
 ---
