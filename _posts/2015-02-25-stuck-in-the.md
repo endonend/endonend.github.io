@@ -3,6 +3,7 @@ layout: post
 title: "Stuck in the Bullshit Machine"
 microblog: false
 audio: 
+photo: 
 date: 2015-02-25 15:31:16 -0500
 guid: http://endonend.micro.blog/2015/02/25/stuck-in-the.html
 ---
