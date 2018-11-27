@@ -3,6 +3,7 @@ layout: post
 title: "Rogue Wave - Publish My Love - Live in Buffalo"
 microblog: false
 audio: 
+photo: 
 date: 2016-05-12 08:10:46 -0500
 guid: http://endonend.micro.blog/2016/05/12/rogue-wave-publish.html
 ---
