@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-04 08:36:54 -0500
 guid: http://endonend.micro.blog/2018/10/04/a-few-weeks.html
 ---
