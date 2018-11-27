@@ -3,6 +3,7 @@ layout: post
 title: "The ice bucket challenge isn&#039;t a waste of water, and this chart proves it"
 microblog: false
 audio: 
+photo: 
 date: 2014-08-22 12:48:31 -0500
 guid: http://endonend.micro.blog/2014/08/22/the-ice-bucket.html
 ---
