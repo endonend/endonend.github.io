@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-19 11:24:58 -0500
 guid: http://endonend.micro.blog/2018/09/19/space-alert-an.html
 ---
