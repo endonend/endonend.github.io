@@ -3,6 +3,7 @@ layout: post
 title: "Annie Clark on Empathy"
 microblog: false
 audio: 
+photo: 
 date: 2015-03-07 21:52:07 -0500
 guid: http://endonend.micro.blog/2015/03/08/annie-clark-on.html
 ---
