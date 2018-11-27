@@ -3,6 +3,7 @@ layout: post
 title: "Cutting the Digital Lifeline and Finding Serenity - NYTimes.com"
 microblog: false
 audio: 
+photo: 
 date: 2012-09-08 12:05:17 -0500
 guid: http://endonend.micro.blog/2012/09/08/cutting-the-digital.html
 ---
