@@ -3,6 +3,7 @@ layout: post
 title: "Restaurant meals are four times larger today than 1950s"
 microblog: false
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/c09c3a9026.jpg
 date: 2012-05-24 09:20:42 -0500
 guid: http://endonend.micro.blog/2012/05/24/restaurant-meals-are.html
 ---
