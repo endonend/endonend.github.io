@@ -3,6 +3,7 @@ layout: post
 title: "Fact checking has jumped the shark"
 microblog: false
 audio: 
+photo: 
 date: 2012-08-28 14:35:15 -0500
 guid: http://endonend.micro.blog/2012/08/28/fact-checking-has.html
 ---
