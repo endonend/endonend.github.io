@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-10 14:05:34 -0500
 guid: http://endonend.micro.blog/2018/09/10/the-ladies-are.html
 ---
