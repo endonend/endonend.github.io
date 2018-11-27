@@ -3,6 +3,7 @@ layout: post
 title: "More of Less"
 microblog: false
 audio: 
+photo: 
 date: 2013-02-26 16:19:01 -0500
 guid: http://endonend.micro.blog/2013/02/26/more-of-less.html
 ---
