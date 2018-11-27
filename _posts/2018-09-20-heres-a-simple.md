@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-19 20:07:13 -0500
 guid: http://endonend.micro.blog/2018/09/20/heres-a-simple.html
 ---
