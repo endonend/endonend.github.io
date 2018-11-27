@@ -3,6 +3,7 @@ layout: post
 title: "Youth baseball coaches allegedly planned to bean girl"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-12 20:58:11 -0500
 guid: http://endonend.micro.blog/2018/04/13/youth-baseball-coaches.html
 ---
