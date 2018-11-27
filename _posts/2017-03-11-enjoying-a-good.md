@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/c73d0fb7ce.jpg
 date: 2017-03-10 20:12:50 -0500
 guid: http://endonend.micro.blog/2017/03/11/enjoying-a-good.html
 ---
