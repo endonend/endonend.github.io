@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-03-01 20:10:11 -0500
 guid: http://endonend.micro.blog/2017/03/02/a-warning-from.html
 ---
