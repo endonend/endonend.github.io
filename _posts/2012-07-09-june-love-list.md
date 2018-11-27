@@ -3,6 +3,7 @@ layout: post
 title: "June Love List Update"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-09 14:03:37 -0500
 guid: http://endonend.micro.blog/2012/07/09/june-love-list.html
 ---
