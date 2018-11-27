@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-13 19:01:37 -0500
 guid: http://endonend.micro.blog/2018/09/14/nintendo-entertainment-system.html
 ---
