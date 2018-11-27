@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-02-22 21:27:40 -0500
 guid: http://endonend.micro.blog/2017/02/23/i-wish-more.html
 ---
