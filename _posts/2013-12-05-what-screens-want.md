@@ -3,6 +3,7 @@ layout: post
 title: "What Screens Want"
 microblog: false
 audio: 
+photo: 
 date: 2013-12-04 21:55:00 -0500
 guid: http://endonend.micro.blog/2013/12/05/what-screens-want.html
 ---
