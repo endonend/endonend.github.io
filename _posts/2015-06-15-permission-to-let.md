@@ -3,6 +3,7 @@ layout: post
 title: "Permission to Let Go - The Minimalists"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-15 10:03:02 -0500
 guid: http://endonend.micro.blog/2015/06/15/permission-to-let.html
 ---
