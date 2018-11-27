@@ -3,6 +3,7 @@ layout: post
 title: "Personal Sites"
 microblog: false
 audio: 
+photo: 
 date: 2016-01-21 23:29:13 -0500
 guid: http://endonend.micro.blog/2016/01/22/personal-sites.html
 ---
