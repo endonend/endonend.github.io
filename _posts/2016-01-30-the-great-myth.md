@@ -3,6 +3,7 @@ layout: post
 title: "The Great Myth About Getting in Shape (and Every Other Goal)"
 microblog: false
 audio: 
+photo: 
 date: 2016-01-30 14:15:48 -0500
 guid: http://endonend.micro.blog/2016/01/30/the-great-myth.html
 ---
