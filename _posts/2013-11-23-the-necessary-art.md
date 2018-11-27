@@ -3,6 +3,7 @@ layout: post
 title: "The Necessary Art of Subtraction"
 microblog: false
 audio: 
+photo: 
 date: 2013-11-22 22:04:00 -0500
 guid: http://endonend.micro.blog/2013/11/23/the-necessary-art.html
 ---
