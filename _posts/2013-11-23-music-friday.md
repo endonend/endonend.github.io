@@ -3,6 +3,7 @@ layout: post
 title: "Music Friday"
 microblog: false
 audio: 
+photo: 
 date: 2013-11-22 22:03:00 -0500
 guid: http://endonend.micro.blog/2013/11/23/music-friday.html
 ---
