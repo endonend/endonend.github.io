@@ -3,6 +3,7 @@ layout: post
 title: "Instagram"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-01 20:55:21 -0500
 guid: http://endonend.micro.blog/2018/02/02/instagram.html
 ---
