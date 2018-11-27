@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-19 22:50:12 -0500
 guid: http://endonend.micro.blog/2017/11/20/this-week-going.html
 ---
