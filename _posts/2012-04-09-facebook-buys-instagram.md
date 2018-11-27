@@ -3,6 +3,7 @@ layout: post
 title: "Facebook Buys Instagram For $1 Billion"
 microblog: false
 audio: 
+photo: 
 date: 2012-04-09 12:55:14 -0500
 guid: http://endonend.micro.blog/2012/04/09/facebook-buys-instagram.html
 ---
