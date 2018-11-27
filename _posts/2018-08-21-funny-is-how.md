@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-21 10:52:30 -0500
 guid: http://endonend.micro.blog/2018/08/21/funny-is-how.html
 ---
