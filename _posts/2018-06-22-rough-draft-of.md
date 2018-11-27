@@ -3,6 +3,7 @@ layout: post
 title: "Rough draft of a new song"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-22 09:05:10 -0500
 guid: http://endonend.micro.blog/2018/06/22/rough-draft-of.html
 ---
