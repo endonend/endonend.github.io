@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-25 08:13:42 -0500
 guid: http://endonend.micro.blog/2018/04/25/loving-the-nba.html
 ---
