@@ -3,6 +3,7 @@ layout: post
 title: "Lessons from Sheryl Sandberg: Stop Working More Than 40 Hours a Week"
 microblog: false
 audio: 
+photo: 
 date: 2012-05-07 21:28:25 -0500
 guid: http://endonend.micro.blog/2012/05/08/lessons-from-sheryl.html
 ---
