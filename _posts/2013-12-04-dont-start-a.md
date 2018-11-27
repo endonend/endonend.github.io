@@ -3,6 +3,7 @@ layout: post
 title: "Don’t Start a Company, Kid"
 microblog: false
 audio: 
+photo: 
 date: 2013-12-03 22:02:00 -0500
 guid: http://endonend.micro.blog/2013/12/04/dont-start-a.html
 ---
