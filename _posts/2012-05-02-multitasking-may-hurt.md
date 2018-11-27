@@ -3,6 +3,7 @@ layout: post
 title: "Multitasking May Hurt Your Performance, But It Makes You Feel Better"
 microblog: false
 audio: 
+photo: 
 date: 2012-05-02 13:15:59 -0500
 guid: http://endonend.micro.blog/2012/05/02/multitasking-may-hurt.html
 ---
