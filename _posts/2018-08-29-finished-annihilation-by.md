@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-28 21:00:30 -0500
 guid: http://endonend.micro.blog/2018/08/29/finished-annihilation-by.html
 ---
