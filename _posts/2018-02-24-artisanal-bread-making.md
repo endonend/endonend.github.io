@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/f56b9a2ba3.jpg
 date: 2018-02-24 16:32:44 -0500
 guid: http://endonend.micro.blog/2018/02/24/artisanal-bread-making.html
 ---
