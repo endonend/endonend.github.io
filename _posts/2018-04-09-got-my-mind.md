@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/936578c66e.jpg
 date: 2018-04-09 12:24:56 -0500
 guid: http://endonend.micro.blog/2018/04/09/got-my-mind.html
 ---
