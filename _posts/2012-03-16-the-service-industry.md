@@ -3,6 +3,7 @@ layout: post
 title: "The Service Industry Generation"
 microblog: false
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2018/01/0LLLMLpIR864x403A.jpg
 date: 2012-03-16 15:21:57 -0500
 guid: http://endonend.micro.blog/2012/03/16/the-service-industry.html
 ---
