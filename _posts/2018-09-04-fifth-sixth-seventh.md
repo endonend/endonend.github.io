@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.endonend.org/uploads/2018/c1b4a596c3.jpg
 date: 2018-09-04 09:30:45 -0500
 guid: http://endonend.micro.blog/2018/09/04/fifth-sixth-seventh.html
 ---
