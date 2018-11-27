@@ -3,6 +3,7 @@ layout: post
 title: "The difference between time and attention – Signal v. Noise"
 microblog: false
 audio: 
+photo: 
 date: 2015-08-20 09:16:21 -0500
 guid: http://endonend.micro.blog/2015/08/20/the-difference-between.html
 ---
