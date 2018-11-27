@@ -3,6 +3,7 @@ layout: post
 title: "Streaming Music is Ripping You Off"
 microblog: false
 audio: 
+photo: 
 date: 2015-08-19 09:08:56 -0500
 guid: http://endonend.micro.blog/2015/08/19/streaming-music-is.html
 ---
