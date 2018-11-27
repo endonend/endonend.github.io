@@ -3,6 +3,7 @@ layout: post
 title: "EndOnEnd.org, now on Medium"
 microblog: false
 audio: 
+photo: 
 date: 2016-06-08 11:03:02 -0500
 guid: http://endonend.micro.blog/2016/06/08/endonendorg-now-on.html
 ---
