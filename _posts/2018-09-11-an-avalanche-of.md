@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-11 14:28:28 -0500
 guid: http://endonend.micro.blog/2018/09/11/an-avalanche-of.html
 ---
