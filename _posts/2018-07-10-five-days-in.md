@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.endonend.org/uploads/2018/38a19603f3.jpg
 date: 2018-07-09 20:57:32 -0500
 guid: http://endonend.micro.blog/2018/07/10/five-days-in.html
 ---
