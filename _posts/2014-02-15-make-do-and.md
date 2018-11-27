@@ -3,6 +3,7 @@ layout: post
 title: "Make, Do and a Beautiful Woman"
 microblog: false
 audio: 
+photo: 
 date: 2014-02-14 20:10:00 -0500
 guid: http://endonend.micro.blog/2014/02/15/make-do-and.html
 ---
