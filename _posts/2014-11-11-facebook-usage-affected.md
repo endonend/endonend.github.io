@@ -3,6 +3,7 @@ layout: post
 title: "Facebook usage affected by metrics"
 microblog: false
 audio: 
+photo: 
 date: 2014-11-10 19:34:16 -0500
 guid: http://endonend.micro.blog/2014/11/11/facebook-usage-affected.html
 ---
