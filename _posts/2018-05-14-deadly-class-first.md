@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-14 14:19:50 -0500
 guid: http://endonend.micro.blog/2018/05/14/deadly-class-first.html
 ---
