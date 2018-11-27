@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.endonend.org/uploads/2017/eeaa8ad22f.jpg
 date: 2017-10-31 08:46:10 -0500
 guid: http://endonend.micro.blog/2017/10/31/chet-is-all.html
 ---
