@@ -3,6 +3,7 @@ layout: post
 title: "Slow Change"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-26 20:16:12 -0500
 guid: http://endonend.micro.blog/2018/08/27/slow-change.html
 ---
