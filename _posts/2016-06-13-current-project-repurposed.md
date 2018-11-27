@@ -3,6 +3,7 @@ layout: post
 title: "Current project: repurposed tree round table"
 microblog: false
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2018/01/step6-300x225.jpeg
 date: 2016-06-13 11:23:46 -0500
 guid: http://endonend.micro.blog/2016/06/13/current-project-repurposed.html
 ---
