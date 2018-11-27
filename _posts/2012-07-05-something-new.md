@@ -3,6 +3,7 @@ layout: post
 title: "Something New"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-05 13:12:56 -0500
 guid: http://endonend.micro.blog/2012/07/05/something-new.html
 ---
