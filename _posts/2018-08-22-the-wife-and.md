@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-22 18:08:46 -0500
 guid: http://endonend.micro.blog/2018/08/22/the-wife-and.html
 ---
