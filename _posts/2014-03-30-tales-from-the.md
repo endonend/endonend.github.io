@@ -3,6 +3,7 @@ layout: post
 title: "Tales from the Relic Scout Launch"
 microblog: false
 audio: 
+photo: http://blog.relicscout.com/wp-content/uploads/2014/03/relic-scout-beta.jpg
 date: 2014-03-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2014/03/30/tales-from-the.html
 ---
