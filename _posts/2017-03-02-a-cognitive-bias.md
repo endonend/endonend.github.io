@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-03-01 20:29:49 -0500
 guid: http://endonend.micro.blog/2017/03/02/a-cognitive-bias.html
 ---
