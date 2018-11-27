@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-02-05 19:35:31 -0500
 guid: http://endonend.micro.blog/2017/02/06/i-work-from.html
 ---
