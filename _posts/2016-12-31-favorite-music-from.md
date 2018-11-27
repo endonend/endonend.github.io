@@ -3,6 +3,7 @@ layout: post
 title: "Favorite Music from 2016"
 microblog: false
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2018/01/1LklFIDchzLEjDl-BeDlrPA.gif
 date: 2016-12-31 11:54:23 -0500
 guid: http://endonend.micro.blog/2016/12/31/favorite-music-from.html
 ---
