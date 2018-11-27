@@ -3,6 +3,7 @@ layout: post
 title: "Snail Mail and Katie Crutchfield cover Sheryl Crow"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-15 18:38:29 -0500
 guid: http://endonend.micro.blog/2018/07/15/snail-mail-and.html
 ---
