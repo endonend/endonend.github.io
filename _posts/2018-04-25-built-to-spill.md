@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/7f2b6ee9fb.jpg
 date: 2018-04-24 19:28:27 -0500
 guid: http://endonend.micro.blog/2018/04/25/built-to-spill.html
 ---
