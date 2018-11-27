@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-21 07:54:50 -0500
 guid: http://endonend.micro.blog/2018/09/21/has-anyone-ever.html
 ---
