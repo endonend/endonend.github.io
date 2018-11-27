@@ -3,6 +3,7 @@ layout: post
 title: "The Builder&#039;s High"
 microblog: false
 audio: 
+photo: 
 date: 2014-01-04 21:41:00 -0500
 guid: http://endonend.micro.blog/2014/01/05/the-builders-high.html
 ---
