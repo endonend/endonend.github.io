@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/5db1dbaefd.jpg
 date: 2017-04-10 21:10:42 -0500
 guid: http://endonend.micro.blog/2017/04/11/dc-at-night.html
 ---
