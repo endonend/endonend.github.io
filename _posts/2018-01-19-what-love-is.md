@@ -3,6 +3,7 @@ layout: post
 title: "What Love Is"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-19 13:47:47 -0500
 guid: http://endonend.micro.blog/2018/01/19/what-love-is.html
 ---
