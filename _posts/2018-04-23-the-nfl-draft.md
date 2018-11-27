@@ -3,6 +3,7 @@ layout: post
 title: "The NFL Draft, the Bills, and the QB class"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-23 14:23:07 -0500
 guid: http://endonend.micro.blog/2018/04/23/the-nfl-draft.html
 ---
