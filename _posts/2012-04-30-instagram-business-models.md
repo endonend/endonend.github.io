@@ -3,6 +3,7 @@ layout: post
 title: "Instagram, Business Models, and Expectations"
 microblog: false
 audio: 
+photo: 
 date: 2012-04-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2012/04/30/instagram-business-models.html
 ---
