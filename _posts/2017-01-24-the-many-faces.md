@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/3f61a481a1.jpg
 date: 2017-01-23 23:21:55 -0500
 guid: http://endonend.micro.blog/2017/01/24/the-many-faces.html
 ---
