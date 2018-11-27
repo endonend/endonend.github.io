@@ -3,6 +3,7 @@ layout: post
 title: "Smells Like Teen Sprite"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-04 23:45:00 -0500
 guid: http://endonend.micro.blog/2018/01/05/smells-like-teen.html
 ---
