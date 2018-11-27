@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://scontent.cdninstagram.com/vp/8afdde71abdbecc08756cc32457cad25/5AFA3CC5/t51.2885-15/s640x640/sh0.08/e35/26396867_395317974250011_3307138278347505664_n.jpg
 date: 2018-01-13 11:46:55 -0500
 guid: http://endonend.micro.blog/2018/01/13/zoeys-squirt-team.html
 ---
