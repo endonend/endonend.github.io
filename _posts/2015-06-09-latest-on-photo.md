@@ -3,6 +3,7 @@ layout: post
 title: "Latest on Photo Project"
 microblog: false
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/ee2dd31b0b.jpg
 date: 2015-06-09 09:24:14 -0500
 guid: http://endonend.micro.blog/2015/06/09/latest-on-photo.html
 ---
