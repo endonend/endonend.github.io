@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-09 21:38:31 -0500
 guid: http://endonend.micro.blog/2018/02/10/only-had-homepod.html
 ---
