@@ -3,6 +3,7 @@ layout: post
 title: "Too Much Music"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-20 08:56:18 -0500
 guid: http://endonend.micro.blog/2018/01/20/too-much-music.html
 ---
