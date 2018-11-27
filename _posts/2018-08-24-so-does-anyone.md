@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-24 14:54:21 -0500
 guid: http://endonend.micro.blog/2018/08/24/so-does-anyone.html
 ---
