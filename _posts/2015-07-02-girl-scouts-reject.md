@@ -3,6 +3,7 @@ layout: post
 title: "Girl Scouts Reject $100K Donation Because Donor Didn’t Want It To Be Used For Trans Girls"
 microblog: false
 audio: 
+photo: 
 date: 2015-07-02 17:54:22 -0500
 guid: http://endonend.micro.blog/2015/07/02/girl-scouts-reject.html
 ---
