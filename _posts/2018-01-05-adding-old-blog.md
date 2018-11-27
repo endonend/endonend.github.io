@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-05 15:49:06 -0500
 guid: http://endonend.micro.blog/2018/01/05/adding-old-blog.html
 ---
