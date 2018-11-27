@@ -3,6 +3,7 @@ layout: post
 title: "Raising Kids in &#039;Merica"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2012/07/30/raising-kids-in.html
 ---
