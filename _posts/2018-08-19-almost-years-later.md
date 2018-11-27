@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/caf854a407.jpg
 date: 2018-08-19 12:52:55 -0500
 guid: http://endonend.micro.blog/2018/08/19/almost-years-later.html
 ---
