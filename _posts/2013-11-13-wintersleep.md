@@ -3,6 +3,7 @@ layout: post
 title: "Wintersleep"
 microblog: false
 audio: 
+photo: 
 date: 2013-11-12 22:08:00 -0500
 guid: http://endonend.micro.blog/2013/11/13/wintersleep.html
 ---
