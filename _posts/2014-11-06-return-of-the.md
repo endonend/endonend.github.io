@@ -3,6 +3,7 @@ layout: post
 title: "Return of the Blog"
 microblog: false
 audio: 
+photo: 
 date: 2014-11-05 20:46:04 -0500
 guid: http://endonend.micro.blog/2014/11/06/return-of-the.html
 ---
