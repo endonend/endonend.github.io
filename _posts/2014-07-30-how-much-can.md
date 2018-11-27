@@ -3,6 +3,7 @@ layout: post
 title: "How much can you take?"
 microblog: false
 audio: 
+photo: 
 date: 2014-07-30 14:19:51 -0500
 guid: http://endonend.micro.blog/2014/07/30/how-much-can.html
 ---
