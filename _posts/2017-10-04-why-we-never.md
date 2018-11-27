@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-10-03 20:22:03 -0500
 guid: http://endonend.micro.blog/2017/10/04/why-we-never.html
 ---
