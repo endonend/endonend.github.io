@@ -3,6 +3,7 @@ layout: post
 title: "Future of My Love List"
 microblog: false
 audio: 
+photo: 
 date: 2012-08-13 15:05:22 -0500
 guid: http://endonend.micro.blog/2012/08/13/future-of-my.html
 ---
