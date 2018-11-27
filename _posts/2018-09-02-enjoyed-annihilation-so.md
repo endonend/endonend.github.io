@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/db56976dd1.jpg
 date: 2018-09-02 12:51:34 -0500
 guid: http://endonend.micro.blog/2018/09/02/enjoyed-annihilation-so.html
 ---
