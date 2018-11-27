@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-01 20:04:11 -0500
 guid: http://endonend.micro.blog/2017/06/02/this-is-insane.html
 ---
