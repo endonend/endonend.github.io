@@ -3,6 +3,7 @@ layout: post
 title: "How to Make a Marriage Work"
 microblog: false
 audio: 
+photo: 
 date: 2015-01-06 22:03:40 -0500
 guid: http://endonend.micro.blog/2015/01/07/how-to-make.html
 ---
