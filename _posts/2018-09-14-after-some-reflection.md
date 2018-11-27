@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-14 09:18:00 -0500
 guid: http://endonend.micro.blog/2018/09/14/after-some-reflection.html
 ---
