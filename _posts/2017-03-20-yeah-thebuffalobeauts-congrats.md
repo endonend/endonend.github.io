@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/27b632e2ac.jpg
 date: 2017-03-19 19:12:23 -0500
 guid: http://endonend.micro.blog/2017/03/20/yeah-thebuffalobeauts-congrats.html
 ---
