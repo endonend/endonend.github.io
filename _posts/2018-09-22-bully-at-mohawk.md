@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.endonend.org/uploads/2018/4d875c9bdd.jpg
 date: 2018-09-21 22:36:51 -0500
 guid: http://endonend.micro.blog/2018/09/22/bully-at-mohawk.html
 ---
