@@ -3,6 +3,7 @@ layout: post
 title: "2015 Year in Music"
 microblog: false
 audio: 
+photo: 
 date: 2016-01-19 23:02:26 -0500
 guid: http://endonend.micro.blog/2016/01/20/year-in-music.html
 ---
