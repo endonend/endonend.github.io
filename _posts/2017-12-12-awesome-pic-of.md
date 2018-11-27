@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.endonend.org/uploads/2017/d6c3a082a8.jpg
 date: 2017-12-11 20:48:50 -0500
 guid: http://endonend.micro.blog/2017/12/12/awesome-pic-of.html
 ---
