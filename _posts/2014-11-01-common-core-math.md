@@ -3,6 +3,7 @@ layout: post
 title: "Common Core Math Explained"
 microblog: false
 audio: 
+photo: 
 date: 2014-10-31 20:52:52 -0500
 guid: http://endonend.micro.blog/2014/11/01/common-core-math.html
 ---
