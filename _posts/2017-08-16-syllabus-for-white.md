@@ -3,6 +3,7 @@ layout: post
 title: "Syllabus for White People to Educate Themselves"
 microblog: false
 audio: 
+photo: 
 date: 2017-08-15 22:25:25 -0500
 guid: http://endonend.micro.blog/2017/08/16/syllabus-for-white.html
 ---
