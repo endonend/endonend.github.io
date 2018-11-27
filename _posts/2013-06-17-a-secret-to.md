@@ -3,6 +3,7 @@ layout: post
 title: "A Secret to Dad Greatness"
 microblog: false
 audio: 
+photo: 
 date: 2013-06-16 21:27:00 -0500
 guid: http://endonend.micro.blog/2013/06/17/a-secret-to.html
 ---
