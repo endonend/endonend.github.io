@@ -3,6 +3,7 @@ layout: post
 title: "Feed Update"
 microblog: false
 audio: 
+photo: 
 date: 2013-03-21 11:14:51 -0500
 guid: http://endonend.micro.blog/2013/03/21/feed-update.html
 ---
