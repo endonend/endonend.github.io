@@ -3,6 +3,7 @@ layout: post
 title: "Numbers over people"
 microblog: false
 audio: 
+photo: 
 date: 2014-01-28 20:30:00 -0500
 guid: http://endonend.micro.blog/2014/01/29/numbers-over-people.html
 ---
