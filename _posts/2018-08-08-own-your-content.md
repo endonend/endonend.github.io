@@ -3,6 +3,7 @@ layout: post
 title: "Own your content"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-08 11:57:30 -0500
 guid: http://endonend.micro.blog/2018/08/08/own-your-content.html
 ---
