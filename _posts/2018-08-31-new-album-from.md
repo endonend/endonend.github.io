@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/0e1c6aa57d.jpg
 date: 2018-08-31 10:19:53 -0500
 guid: http://endonend.micro.blog/2018/08/31/new-album-from.html
 ---
