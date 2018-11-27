@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-10 21:24:51 -0500
 guid: http://endonend.micro.blog/2018/10/11/posted-a-rough.html
 ---
