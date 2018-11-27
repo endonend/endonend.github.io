@@ -3,6 +3,7 @@ layout: post
 title: "Question Your Certainties"
 microblog: false
 audio: 
+photo: 
 date: 2013-10-21 21:21:00 -0500
 guid: http://endonend.micro.blog/2013/10/22/question-your-certainties.html
 ---
