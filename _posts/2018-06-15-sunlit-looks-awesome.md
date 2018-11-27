@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-15 14:06:13 -0500
 guid: http://endonend.micro.blog/2018/06/15/sunlit-looks-awesome.html
 ---
