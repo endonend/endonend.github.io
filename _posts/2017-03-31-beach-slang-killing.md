@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/ccd21f6f64.jpg
 date: 2017-03-30 20:02:35 -0500
 guid: http://endonend.micro.blog/2017/03/31/beach-slang-killing.html
 ---
