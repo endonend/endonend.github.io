@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-17 08:10:20 -0500
 guid: http://endonend.micro.blog/2018/08/17/just-deactivated-my.html
 ---
