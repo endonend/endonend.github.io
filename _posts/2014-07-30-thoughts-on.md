@@ -3,6 +3,7 @@ layout: post
 title: "Thoughts on 74"
 microblog: false
 audio: 
+photo: 
 date: 2014-07-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2014/07/30/thoughts-on.html
 ---
