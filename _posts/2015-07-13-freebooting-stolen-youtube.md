@@ -3,6 +3,7 @@ layout: post
 title: "Freebooting: Stolen YouTube videos going viral on Facebook"
 microblog: false
 audio: 
+photo: 
 date: 2015-07-13 11:49:09 -0500
 guid: http://endonend.micro.blog/2015/07/13/freebooting-stolen-youtube.html
 ---
