@@ -3,6 +3,7 @@ layout: post
 title: "What’s Next?"
 microblog: false
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2018/01/1UBRHKhxt-sNW-NlyaZEXag.jpeg
 date: 2016-11-09 11:44:41 -0500
 guid: http://endonend.micro.blog/2016/11/09/whats-next.html
 ---
