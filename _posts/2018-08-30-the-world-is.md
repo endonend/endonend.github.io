@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-29 22:21:22 -0500
 guid: http://endonend.micro.blog/2018/08/30/the-world-is.html
 ---
