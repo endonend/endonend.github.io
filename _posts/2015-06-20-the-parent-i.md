@@ -3,6 +3,7 @@ layout: post
 title: "The Parent I Aspire to Be"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-20 13:14:45 -0500
 guid: http://endonend.micro.blog/2015/06/20/the-parent-i.html
 ---
