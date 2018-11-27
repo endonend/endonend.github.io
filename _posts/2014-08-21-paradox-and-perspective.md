@@ -3,6 +3,7 @@ layout: post
 title: "Paradox and Perspective"
 microblog: false
 audio: 
+photo: 
 date: 2014-08-21 05:59:00 -0500
 guid: http://endonend.micro.blog/2014/08/21/paradox-and-perspective.html
 ---
