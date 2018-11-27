@@ -3,6 +3,7 @@ layout: post
 title: "My Micro Blog Setup"
 microblog: false
 audio: 
+photo: 
 date: 2017-04-29 20:30:10 -0500
 guid: http://endonend.micro.blog/2017/04/30/my-micro-blog.html
 ---
