@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/322a45188d.jpg
 date: 2018-09-04 08:04:18 -0500
 guid: http://endonend.micro.blog/2018/09/04/first-day-of.html
 ---
