@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/5e75dec228.jpg
 date: 2018-07-17 14:48:49 -0500
 guid: http://endonend.micro.blog/2018/07/17/just-noticed-this.html
 ---
