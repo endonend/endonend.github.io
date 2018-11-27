@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-09 14:59:31 -0500
 guid: http://endonend.micro.blog/2018/09/09/well-the-bills.html
 ---
