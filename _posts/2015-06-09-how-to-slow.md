@@ -3,6 +3,7 @@ layout: post
 title: "How to Slow Down Your Family&#039;s Schedule"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-09 15:10:14 -0500
 guid: http://endonend.micro.blog/2015/06/09/how-to-slow.html
 ---
