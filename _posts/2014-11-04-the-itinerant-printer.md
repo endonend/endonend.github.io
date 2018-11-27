@@ -3,6 +3,7 @@ layout: post
 title: "The Itinerant Printer"
 microblog: false
 audio: 
+photo: 
 date: 2014-11-04 15:21:04 -0500
 guid: http://endonend.micro.blog/2014/11/04/the-itinerant-printer.html
 ---
