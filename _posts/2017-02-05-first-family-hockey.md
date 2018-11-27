@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/e2e9d2fd37.jpg
 date: 2017-02-04 20:54:19 -0500
 guid: http://endonend.micro.blog/2017/02/05/first-family-hockey.html
 ---
