@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-14 19:51:01 -0500
 guid: http://endonend.micro.blog/2018/09/15/liked-the-fast.html
 ---
