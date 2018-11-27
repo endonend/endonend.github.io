@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-20 20:17:47 -0500
 guid: http://endonend.micro.blog/2018/09/21/brie-larson-was.html
 ---
