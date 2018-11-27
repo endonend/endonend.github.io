@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-23 15:46:08 -0500
 guid: http://endonend.micro.blog/2018/09/23/lol-what-year.html
 ---
