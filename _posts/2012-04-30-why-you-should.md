@@ -3,6 +3,7 @@ layout: post
 title: "Why you should care that 70% of antibiotics go into animal feed"
 microblog: false
 audio: 
+photo: 
 date: 2012-04-30 14:51:46 -0500
 guid: http://endonend.micro.blog/2012/04/30/why-you-should.html
 ---
