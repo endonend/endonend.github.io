@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-15 13:41:05 -0500
 guid: http://endonend.micro.blog/2018/10/15/ok-a-second.html
 ---
