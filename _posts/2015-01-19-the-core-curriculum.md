@@ -3,6 +3,7 @@ layout: post
 title: "The Core Curriculum — Shawn Blanc"
 microblog: false
 audio: 
+photo: 
 date: 2015-01-19 15:03:26 -0500
 guid: http://endonend.micro.blog/2015/01/19/the-core-curriculum.html
 ---
