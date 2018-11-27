@@ -3,6 +3,7 @@ layout: post
 title: "Hamilton Road Trip"
 microblog: false
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2018/01/7a5e09fbbe414659b735e27fe14e3d2c.jpg
 date: 2018-01-27 15:45:05 -0500
 guid: http://endonend.micro.blog/2018/01/27/hamilton-road-trip.html
 ---
