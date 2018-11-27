@@ -3,6 +3,7 @@ layout: post
 title: "Tiny Challenge #1"
 microblog: false
 audio: 
+photo: 
 date: 2016-02-01 11:36:31 -0500
 guid: http://endonend.micro.blog/2016/02/01/tiny-challenge.html
 ---
