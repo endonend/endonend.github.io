@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/a1a568572e.jpg
 date: 2018-07-09 21:47:37 -0500
 guid: http://endonend.micro.blog/2018/07/10/our-annual-five.html
 ---
