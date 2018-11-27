@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-02-10 21:33:32 -0500
 guid: http://endonend.micro.blog/2017/02/11/another-downside-of.html
 ---
