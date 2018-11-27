@@ -3,6 +3,7 @@ layout: post
 title: "Responding to Violence and Insanity"
 microblog: false
 audio: 
+photo: 
 date: 2015-01-08 21:24:28 -0500
 guid: http://endonend.micro.blog/2015/01/09/responding-to-violence.html
 ---
