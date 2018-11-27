@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/edcef332ee.jpg
 date: 2018-08-26 12:55:15 -0500
 guid: http://endonend.micro.blog/2018/08/26/for-national-dog.html
 ---
