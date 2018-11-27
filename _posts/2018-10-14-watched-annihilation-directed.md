@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-13 22:54:55 -0500
 guid: http://endonend.micro.blog/2018/10/14/watched-annihilation-directed.html
 ---
