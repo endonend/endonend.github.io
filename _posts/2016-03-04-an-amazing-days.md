@@ -3,6 +3,7 @@ layout: post
 title: "An Amazing 10 Days for America"
 microblog: false
 audio: 
+photo: 
 date: 2016-03-04 12:01:59 -0500
 guid: http://endonend.micro.blog/2016/03/04/an-amazing-days.html
 ---
