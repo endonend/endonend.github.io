@@ -3,6 +3,7 @@ layout: post
 title: "Fight — Shawn Blanc"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-19 21:01:17 -0500
 guid: http://endonend.micro.blog/2015/06/20/fight-shawn-blanc.html
 ---
