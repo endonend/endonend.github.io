@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/e6980d7f49.jpg
 date: 2018-05-10 09:41:45 -0500
 guid: http://endonend.micro.blog/2018/05/10/still-reeling-from.html
 ---
