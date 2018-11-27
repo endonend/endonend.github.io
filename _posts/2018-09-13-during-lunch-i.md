@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-13 11:55:20 -0500
 guid: http://endonend.micro.blog/2018/09/13/during-lunch-i.html
 ---
