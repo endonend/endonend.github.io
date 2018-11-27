@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/9315b269f2.jpg
 date: 2018-06-01 11:18:30 -0500
 guid: http://endonend.micro.blog/2018/06/01/moment-of-the.html
 ---
