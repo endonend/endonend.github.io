@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-13 15:47:15 -0500
 guid: http://endonend.micro.blog/2018/07/13/doing-this-on.html
 ---
