@@ -3,6 +3,7 @@ layout: post
 title: "The wrong side of history"
 microblog: false
 audio: 
+photo: 
 date: 2016-12-26 11:48:28 -0500
 guid: http://endonend.micro.blog/2016/12/26/the-wrong-side.html
 ---
