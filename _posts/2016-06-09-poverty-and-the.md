@@ -3,6 +3,7 @@ layout: post
 title: "Poverty and the Scarcity Mentality"
 microblog: false
 audio: 
+photo: 
 date: 2016-06-09 11:13:46 -0500
 guid: http://endonend.micro.blog/2016/06/09/poverty-and-the.html
 ---
