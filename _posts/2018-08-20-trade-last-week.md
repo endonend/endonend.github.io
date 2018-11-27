@@ -3,6 +3,7 @@ layout: post
 title: "Trade: Last Week Tonight with John Oliver (HBO) - YouTube"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-20 12:48:23 -0500
 guid: http://endonend.micro.blog/2018/08/20/trade-last-week.html
 ---
