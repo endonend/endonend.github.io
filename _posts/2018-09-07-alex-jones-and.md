@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-07 08:24:12 -0500
 guid: http://endonend.micro.blog/2018/09/07/alex-jones-and.html
 ---
