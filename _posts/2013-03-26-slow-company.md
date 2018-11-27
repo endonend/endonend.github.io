@@ -3,6 +3,7 @@ layout: post
 title: "Slow Company"
 microblog: false
 audio: 
+photo: 
 date: 2013-03-26 08:56:29 -0500
 guid: http://endonend.micro.blog/2013/03/26/slow-company.html
 ---
