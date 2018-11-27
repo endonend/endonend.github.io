@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-02-14 21:49:19 -0500
 guid: http://endonend.micro.blog/2017/02/15/how-i-learned.html
 ---
