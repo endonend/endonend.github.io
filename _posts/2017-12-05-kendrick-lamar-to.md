@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-05 10:18:46 -0500
 guid: http://endonend.micro.blog/2017/12/05/kendrick-lamar-to.html
 ---
