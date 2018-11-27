@@ -3,6 +3,7 @@ layout: post
 title: "Rules to Live By"
 microblog: false
 audio: 
+photo: 
 date: 2013-01-03 13:26:58 -0500
 guid: http://endonend.micro.blog/2013/01/03/rules-to-live.html
 ---
