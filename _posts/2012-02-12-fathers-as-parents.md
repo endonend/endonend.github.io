@@ -3,6 +3,7 @@ layout: post
 title: "Fathers as Parents"
 microblog: false
 audio: 
+photo: 
 date: 2012-02-11 23:30:03 -0500
 guid: http://endonend.micro.blog/2012/02/12/fathers-as-parents.html
 ---
