@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-19 20:12:38 -0500
 guid: http://endonend.micro.blog/2018/01/20/tickets-to-built.html
 ---
