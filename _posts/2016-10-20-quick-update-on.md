@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2016-10-20 11:39:22 -0500
 guid: http://endonend.micro.blog/2016/10/20/quick-update-on.html
 ---
