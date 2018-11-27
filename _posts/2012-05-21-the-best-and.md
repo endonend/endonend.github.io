@@ -3,6 +3,7 @@ layout: post
 title: "The best and worst thing about the Web"
 microblog: false
 audio: 
+photo: 
 date: 2012-05-21 14:52:01 -0500
 guid: http://endonend.micro.blog/2012/05/21/the-best-and.html
 ---
