@@ -3,6 +3,7 @@ layout: post
 title: "My 2014 in Music"
 microblog: false
 audio: 
+photo: 
 date: 2014-12-02 13:21:26 -0500
 guid: http://endonend.micro.blog/2014/12/02/my-in-music.html
 ---
