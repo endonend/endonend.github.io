@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-12 21:16:31 -0500
 guid: http://endonend.micro.blog/2018/09/13/the-house-that.html
 ---
