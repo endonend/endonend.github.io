@@ -3,6 +3,7 @@ layout: post
 title: "How to Find Your Life Purpose: An Unconventional Approach"
 microblog: false
 audio: 
+photo: 
 date: 2014-08-20 20:57:33 -0500
 guid: http://endonend.micro.blog/2014/08/21/how-to-find.html
 ---
