@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-17 22:59:09 -0500
 guid: http://endonend.micro.blog/2018/08/18/hello-weather-on.html
 ---
