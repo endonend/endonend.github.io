@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-08 19:40:14 -0500
 guid: http://endonend.micro.blog/2017/06/09/the-best-solutions.html
 ---
