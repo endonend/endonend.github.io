@@ -3,6 +3,7 @@ layout: post
 title: "Practicing Slowness &amp; Being Present"
 microblog: false
 audio: 
+photo: 
 date: 2014-12-29 17:21:41 -0500
 guid: http://endonend.micro.blog/2014/12/29/practicing-slowness-amp.html
 ---
