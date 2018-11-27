@@ -3,6 +3,7 @@ layout: post
 title: "Hot Water Music in Worcester, MA - hate5six"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-28 14:57:49 -0500
 guid: http://endonend.micro.blog/2018/03/28/hot-water-music.html
 ---
