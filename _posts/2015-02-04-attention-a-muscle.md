@@ -3,6 +3,7 @@ layout: post
 title: "Attention: A Muscle to Strengthen - The Atlantic"
 microblog: false
 audio: 
+photo: 
 date: 2015-02-04 06:46:35 -0500
 guid: http://endonend.micro.blog/2015/02/04/attention-a-muscle.html
 ---
