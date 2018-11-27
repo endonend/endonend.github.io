@@ -3,6 +3,7 @@ layout: post
 title: "Crazy Busy"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-03 15:17:53 -0500
 guid: http://endonend.micro.blog/2012/07/03/crazy-busy.html
 ---
