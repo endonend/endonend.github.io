@@ -3,6 +3,7 @@ layout: post
 title: "Connecting the dots"
 microblog: false
 audio: 
+photo: 
 date: 2012-08-20 19:00:00 -0500
 guid: http://endonend.micro.blog/2012/08/21/connecting-the-dots.html
 ---
