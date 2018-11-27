@@ -3,6 +3,7 @@ layout: post
 title: "No more yes"
 microblog: false
 audio: 
+photo: 
 date: 2012-03-28 14:05:48 -0500
 guid: http://endonend.micro.blog/2012/03/28/no-more-yes.html
 ---
