@@ -3,6 +3,7 @@ layout: post
 title: "The New Stability"
 microblog: false
 audio: 
+photo: 
 date: 2013-04-01 12:22:41 -0500
 guid: http://endonend.micro.blog/2013/04/01/the-new-stability.html
 ---
