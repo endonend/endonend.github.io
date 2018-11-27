@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-25 09:05:27 -0500
 guid: http://endonend.micro.blog/2018/09/25/j-cole-album.html
 ---
