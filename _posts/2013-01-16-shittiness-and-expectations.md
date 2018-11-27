@@ -3,6 +3,7 @@ layout: post
 title: "Shittiness and Expectations"
 microblog: false
 audio: 
+photo: 
 date: 2013-01-16 16:20:29 -0500
 guid: http://endonend.micro.blog/2013/01/16/shittiness-and-expectations.html
 ---
