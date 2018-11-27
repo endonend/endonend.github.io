@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-17 13:43:37 -0500
 guid: http://endonend.micro.blog/2018/09/17/created-my-first.html
 ---
