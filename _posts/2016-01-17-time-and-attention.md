@@ -3,6 +3,7 @@ layout: post
 title: "Time and Attention"
 microblog: false
 audio: 
+photo: 
 date: 2016-01-17 16:32:30 -0500
 guid: http://endonend.micro.blog/2016/01/17/time-and-attention.html
 ---
