@@ -3,6 +3,7 @@ layout: post
 title: "Rev25 NYC Lineup Announced"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-11 08:14:06 -0500
 guid: http://endonend.micro.blog/2012/07/11/rev-nyc-lineup.html
 ---
