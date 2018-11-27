@@ -3,6 +3,7 @@ layout: post
 title: "What Happens When a Bad-Tempered, Distractible Doofus Runs an Empire? &#124; The New Yorker"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-11 10:58:06 -0500
 guid: http://endonend.micro.blog/2018/06/11/what-happens-when.html
 ---
