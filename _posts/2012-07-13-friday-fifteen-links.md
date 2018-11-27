@@ -3,6 +3,7 @@ layout: post
 title: "Friday Fifteen Links: July 13th Edition"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-13 11:47:11 -0500
 guid: http://endonend.micro.blog/2012/07/13/friday-fifteen-links.html
 ---
