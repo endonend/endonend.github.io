@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-30 20:40:08 -0500
 guid: http://endonend.micro.blog/2018/01/31/update-on-my.html
 ---
