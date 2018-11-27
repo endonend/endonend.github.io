@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-14 13:01:05 -0500
 guid: http://endonend.micro.blog/2018/08/14/commentary-alexandria-ocasiocortez.html
 ---
