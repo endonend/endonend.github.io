@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/aa2d3792aa.jpg
 date: 2017-08-05 21:51:39 -0500
 guid: http://endonend.micro.blog/2017/08/06/acres-at-hotel.html
 ---
