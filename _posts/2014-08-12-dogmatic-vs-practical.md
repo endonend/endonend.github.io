@@ -3,6 +3,7 @@ layout: post
 title: "Dogmatic vs. Practical Minimalism"
 microblog: false
 audio: 
+photo: 
 date: 2014-08-12 08:22:45 -0500
 guid: http://endonend.micro.blog/2014/08/12/dogmatic-vs-practical.html
 ---
