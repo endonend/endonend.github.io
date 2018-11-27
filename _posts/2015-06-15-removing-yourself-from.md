@@ -3,6 +3,7 @@ layout: post
 title: "Removing Yourself From the Echo Chamber"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-15 15:34:44 -0500
 guid: http://endonend.micro.blog/2015/06/15/removing-yourself-from.html
 ---
