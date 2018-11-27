@@ -3,6 +3,7 @@ layout: post
 title: "Jon Stewart on Charleston"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-19 15:24:30 -0500
 guid: http://endonend.micro.blog/2015/06/19/jon-stewart-on.html
 ---
