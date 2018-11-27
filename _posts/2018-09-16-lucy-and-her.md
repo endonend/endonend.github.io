@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.endonend.org/uploads/2018/9c359b8a0a.jpg
 date: 2018-09-16 17:39:35 -0500
 guid: http://endonend.micro.blog/2018/09/16/lucy-and-her.html
 ---
