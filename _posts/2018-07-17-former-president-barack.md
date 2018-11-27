@@ -3,6 +3,7 @@ layout: post
 title: "Former President Barack Obama Delivers Speech At 16th Nelson Mandela Annual Lecture &#124; TIME - YouTube"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-17 14:32:13 -0500
 guid: http://endonend.micro.blog/2018/07/17/former-president-barack.html
 ---
