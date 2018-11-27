@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-14 20:45:17 -0500
 guid: http://endonend.micro.blog/2018/09/15/getting-excited-for.html
 ---
