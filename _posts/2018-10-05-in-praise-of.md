@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-04 20:42:07 -0500
 guid: http://endonend.micro.blog/2018/10/05/in-praise-of.html
 ---
