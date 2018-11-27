@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/7bbb55aea7.jpg
 date: 2018-08-29 09:41:31 -0500
 guid: http://endonend.micro.blog/2018/08/29/also-just-set.html
 ---
