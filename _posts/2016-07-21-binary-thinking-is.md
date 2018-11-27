@@ -3,6 +3,7 @@ layout: post
 title: "Binary Thinking is the Real Problem"
 microblog: false
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2018/01/1rUmLUDSFmJ1QvSmEWZ6REQ.jpeg
 date: 2016-07-21 11:32:03 -0500
 guid: http://endonend.micro.blog/2016/07/21/binary-thinking-is.html
 ---
