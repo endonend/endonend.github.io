@@ -3,6 +3,7 @@ layout: post
 title: "Be More Productive. Shorten the Workweek. - NYTimes"
 microblog: false
 audio: 
+photo: 
 date: 2012-08-20 16:25:52 -0500
 guid: http://endonend.micro.blog/2012/08/20/be-more-productive.html
 ---
