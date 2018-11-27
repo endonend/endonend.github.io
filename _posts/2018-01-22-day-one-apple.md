@@ -3,6 +3,7 @@ layout: post
 title: "Day One: Apple Music experiment"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-22 13:31:34 -0500
 guid: http://endonend.micro.blog/2018/01/22/day-one-apple.html
 ---
