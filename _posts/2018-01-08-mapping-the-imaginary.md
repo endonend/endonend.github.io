@@ -3,6 +3,7 @@ layout: post
 title: "Mapping the imaginary lines we use to segregate our schools"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-08 14:40:53 -0500
 guid: http://endonend.micro.blog/2018/01/08/mapping-the-imaginary.html
 ---
