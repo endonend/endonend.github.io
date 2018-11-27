@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/7ab5c7ddc5.jpg
 date: 2017-08-17 21:50:55 -0500
 guid: http://endonend.micro.blog/2017/08/18/dog-park-tongue.html
 ---
