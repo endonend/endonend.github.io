@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/9cf5553cdd.jpg
 date: 2018-08-08 22:37:43 -0500
 guid: http://endonend.micro.blog/2018/08/09/band-of-horses.html
 ---
