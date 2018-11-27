@@ -3,6 +3,7 @@ layout: post
 title: "That time of the year..."
 microblog: false
 audio: 
+photo: http://endonend.org/wp-content/uploads/2012/08/nope-yep.png
 date: 2012-08-28 13:42:28 -0500
 guid: http://endonend.micro.blog/2012/08/28/that-time-of.html
 ---
