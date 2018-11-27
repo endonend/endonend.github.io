@@ -3,6 +3,7 @@ layout: post
 title: "This is Water"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-10 21:32:00 -0500
 guid: http://endonend.micro.blog/2013/05/11/this-is-water.html
 ---
