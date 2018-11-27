@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-01 20:23:59 -0500
 guid: http://endonend.micro.blog/2018/09/02/the-news-of.html
 ---
