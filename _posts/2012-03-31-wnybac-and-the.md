@@ -3,6 +3,7 @@ layout: post
 title: "WNYBAC and the Book Fair Featured"
 microblog: false
 audio: 
+photo: 
 date: 2012-03-31 14:08:40 -0500
 guid: http://endonend.micro.blog/2012/03/31/wnybac-and-the.html
 ---
