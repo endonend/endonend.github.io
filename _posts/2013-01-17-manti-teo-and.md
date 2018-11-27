@@ -3,6 +3,7 @@ layout: post
 title: "Manti Te&#039;o and Inspiration Stories"
 microblog: false
 audio: 
+photo: 
 date: 2013-01-17 14:17:05 -0500
 guid: http://endonend.micro.blog/2013/01/17/manti-teo-and.html
 ---
