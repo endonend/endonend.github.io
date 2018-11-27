@@ -3,6 +3,7 @@ layout: post
 title: "Compassion is Compassion"
 microblog: false
 audio: 
+photo: 
 date: 2014-03-29 19:00:00 -0500
 guid: http://endonend.micro.blog/2014/03/30/compassion-is-compassion.html
 ---
