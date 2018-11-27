@@ -3,6 +3,7 @@ layout: post
 title: "My Work Life"
 microblog: false
 audio: 
+photo: 
 date: 2014-01-25 21:39:00 -0500
 guid: http://endonend.micro.blog/2014/01/26/my-work-life.html
 ---
