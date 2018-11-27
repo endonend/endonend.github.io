@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-04 21:48:46 -0500
 guid: http://endonend.micro.blog/2018/09/05/well-it-looks.html
 ---
