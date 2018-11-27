@@ -3,6 +3,7 @@ layout: post
 title: "One Year On"
 microblog: false
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2015/08/FullSizeRender-5-244x300.jpg
 date: 2015-08-18 09:57:13 -0500
 guid: http://endonend.micro.blog/2015/08/18/one-year-on.html
 ---
