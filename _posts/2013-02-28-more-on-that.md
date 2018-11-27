@@ -3,6 +3,7 @@ layout: post
 title: "More on that Site and Connections"
 microblog: false
 audio: 
+photo: 
 date: 2013-02-28 12:53:51 -0500
 guid: http://endonend.micro.blog/2013/02/28/more-on-that.html
 ---
