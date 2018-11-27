@@ -3,6 +3,7 @@ layout: post
 title: "Jim Carrey Commencement Speech"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-04 09:48:33 -0500
 guid: http://endonend.micro.blog/2015/06/04/jim-carrey-commencement.html
 ---
