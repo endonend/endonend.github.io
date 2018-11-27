@@ -3,6 +3,7 @@ layout: post
 title: "The truth about the Ice Bucket Challenge: Viral memes shouldn&#039;t dictate our charitable giving"
 microblog: false
 audio: 
+photo: 
 date: 2014-08-20 07:56:57 -0500
 guid: http://endonend.micro.blog/2014/08/20/the-truth-about.html
 ---
