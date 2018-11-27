@@ -3,6 +3,7 @@ layout: post
 title: "The First Day of School"
 microblog: false
 audio: 
+photo: 
 date: 2012-09-07 21:12:13 -0500
 guid: http://endonend.micro.blog/2012/09/08/the-first-day.html
 ---
