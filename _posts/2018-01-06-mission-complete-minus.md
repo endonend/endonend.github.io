@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-06 12:16:27 -0500
 guid: http://endonend.micro.blog/2018/01/06/mission-complete-minus.html
 ---
