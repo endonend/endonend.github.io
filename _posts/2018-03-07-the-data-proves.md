@@ -3,6 +3,7 @@ layout: post
 title: "The data proves that school segregation is getting worse - Vox"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-06 20:37:12 -0500
 guid: http://endonend.micro.blog/2018/03/07/the-data-proves.html
 ---
