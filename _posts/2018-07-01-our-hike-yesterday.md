@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/650fbbf04e.jpg
 date: 2018-07-01 18:21:27 -0500
 guid: http://endonend.micro.blog/2018/07/01/our-hike-yesterday.html
 ---
