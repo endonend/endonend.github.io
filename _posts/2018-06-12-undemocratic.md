@@ -3,6 +3,7 @@ layout: post
 title: "Undemocratic"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-12 08:33:21 -0500
 guid: http://endonend.micro.blog/2018/06/12/undemocratic.html
 ---
