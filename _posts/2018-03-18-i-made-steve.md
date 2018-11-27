@@ -3,6 +3,7 @@ layout: post
 title: "‘I made Steve Bannon’s psychological warfare tool’: meet the data war whistleblower &#124; News &#124; The Guardian"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-18 14:42:52 -0500
 guid: http://endonend.micro.blog/2018/03/18/i-made-steve.html
 ---
