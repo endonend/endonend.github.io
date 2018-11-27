@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-15 19:10:53 -0500
 guid: http://endonend.micro.blog/2018/09/16/got-the-day.html
 ---
