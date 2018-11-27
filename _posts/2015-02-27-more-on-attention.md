@@ -3,6 +3,7 @@ layout: post
 title: "More on Attention"
 microblog: false
 audio: 
+photo: 
 date: 2015-02-26 21:16:00 -0500
 guid: http://endonend.micro.blog/2015/02/27/more-on-attention.html
 ---
