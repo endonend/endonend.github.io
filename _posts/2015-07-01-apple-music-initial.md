@@ -3,6 +3,7 @@ layout: post
 title: "Apple Music: Initial Impressions"
 microblog: false
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2015/07/IMG_1932-576x1024.png
 date: 2015-07-01 13:02:41 -0500
 guid: http://endonend.micro.blog/2015/07/01/apple-music-initial.html
 ---
