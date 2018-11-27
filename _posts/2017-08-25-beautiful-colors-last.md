@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/9f7383936b.jpg
 date: 2017-08-24 21:44:22 -0500
 guid: http://endonend.micro.blog/2017/08/25/beautiful-colors-last.html
 ---
