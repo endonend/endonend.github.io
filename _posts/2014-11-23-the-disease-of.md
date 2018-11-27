@@ -3,6 +3,7 @@ layout: post
 title: "The Disease of Busyness"
 microblog: false
 audio: 
+photo: 
 date: 2014-11-22 22:04:14 -0500
 guid: http://endonend.micro.blog/2014/11/23/the-disease-of.html
 ---
