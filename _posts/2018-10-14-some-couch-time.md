@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.endonend.org/uploads/2018/05c92dd3e1.jpg
 date: 2018-10-13 20:01:54 -0500
 guid: http://endonend.micro.blog/2018/10/14/some-couch-time.html
 ---
