@@ -3,6 +3,7 @@ layout: post
 title: "The Better Web"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-03 16:56:08 -0500
 guid: http://endonend.micro.blog/2018/01/03/the-better-web.html
 ---
