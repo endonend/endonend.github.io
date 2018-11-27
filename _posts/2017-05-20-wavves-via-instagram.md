@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/97e416c496.jpg
 date: 2017-05-19 20:39:35 -0500
 guid: http://endonend.micro.blog/2017/05/20/wavves-via-instagram.html
 ---
