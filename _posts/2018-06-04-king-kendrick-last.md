@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/e03bb91501.jpg
 date: 2018-06-04 14:27:04 -0500
 guid: http://endonend.micro.blog/2018/06/04/king-kendrick-last.html
 ---
