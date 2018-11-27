@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-08-15 22:07:43 -0500
 guid: http://endonend.micro.blog/2017/08/16/watch-vice-news.html
 ---
