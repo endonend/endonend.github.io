@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/3f08498a20.jpg
 date: 2018-08-30 15:03:26 -0500
 guid: http://endonend.micro.blog/2018/08/30/heres-a-pig.html
 ---
