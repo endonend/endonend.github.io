@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.endonend.org/uploads/2018/ce0bb6fd63.jpg
 date: 2018-09-08 09:31:08 -0500
 guid: http://endonend.micro.blog/2018/09/08/hockey-season-and.html
 ---
