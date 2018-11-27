@@ -3,6 +3,7 @@ layout: post
 title: "DEADLY CLASS &#124; Official Trailer #1 &#124; SYFY"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-23 11:22:33 -0500
 guid: http://endonend.micro.blog/2018/07/23/deadly-class-official.html
 ---
