@@ -3,6 +3,7 @@ layout: post
 title: "Thoughts on Slacktivism"
 microblog: false
 audio: 
+photo: 
 date: 2014-08-19 10:33:12 -0500
 guid: http://endonend.micro.blog/2014/08/19/thoughts-on-slacktivism.html
 ---
