@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/faa8dfd5cc.jpg
 date: 2017-03-08 20:46:14 -0500
 guid: http://endonend.micro.blog/2017/03/09/team-clouded-leopard.html
 ---
