@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/966f9932b6.jpg
 date: 2017-06-29 21:52:56 -0500
 guid: http://endonend.micro.blog/2017/06/30/a-project-ive.html
 ---
