@@ -3,6 +3,7 @@ layout: post
 title: "Salad Days"
 microblog: false
 audio: 
+photo: 
 date: 2012-03-22 09:51:22 -0500
 guid: http://endonend.micro.blog/2012/03/22/salad-days.html
 ---
