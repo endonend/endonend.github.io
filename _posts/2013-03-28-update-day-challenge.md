@@ -3,6 +3,7 @@ layout: post
 title: "Update: 30 Day Challenge - No Facebook"
 microblog: false
 audio: 
+photo: 
 date: 2013-03-28 13:48:28 -0500
 guid: http://endonend.micro.blog/2013/03/28/update-day-challenge.html
 ---
