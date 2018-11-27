@@ -3,6 +3,7 @@ layout: post
 title: "Mitt Romney thinks you need to take responsibility for your life"
 microblog: false
 audio: 
+photo: 
 date: 2012-09-18 16:17:56 -0500
 guid: http://endonend.micro.blog/2012/09/18/mitt-romney-thinks.html
 ---
