@@ -3,6 +3,7 @@ layout: post
 title: "Life&#039;s Defaults"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-31 14:55:41 -0500
 guid: http://endonend.micro.blog/2018/05/31/lifes-defaults.html
 ---
