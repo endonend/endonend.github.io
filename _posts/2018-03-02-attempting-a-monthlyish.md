@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-01 21:14:48 -0500
 guid: http://endonend.micro.blog/2018/03/02/attempting-a-monthlyish.html
 ---
