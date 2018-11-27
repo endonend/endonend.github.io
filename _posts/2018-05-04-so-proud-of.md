@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/5c95ec832c.jpg
 date: 2018-05-04 14:09:23 -0500
 guid: http://endonend.micro.blog/2018/05/04/so-proud-of.html
 ---
