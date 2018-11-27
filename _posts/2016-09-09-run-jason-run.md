@@ -3,6 +3,7 @@ layout: post
 title: "Run Jason, Run"
 microblog: false
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2018/01/187eypD-uGPnVO91T7-ELqQ.jpeg
 date: 2016-09-09 11:36:05 -0500
 guid: http://endonend.micro.blog/2016/09/09/run-jason-run.html
 ---
