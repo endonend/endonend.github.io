@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-04-14 19:17:41 -0500
 guid: http://endonend.micro.blog/2017/04/15/i-recommend-kendrick.html
 ---
