@@ -3,6 +3,7 @@ layout: post
 title: "Seth&#039;s Godin: Where does trust come from?"
 microblog: false
 audio: 
+photo: 
 date: 2013-01-03 16:59:51 -0500
 guid: http://endonend.micro.blog/2013/01/03/seths-godin-where.html
 ---
