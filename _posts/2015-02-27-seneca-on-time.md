@@ -3,6 +3,7 @@ layout: post
 title: "Seneca on Time &amp; Attention"
 microblog: false
 audio: 
+photo: 
 date: 2015-02-26 22:56:40 -0500
 guid: http://endonend.micro.blog/2015/02/27/seneca-on-time.html
 ---
