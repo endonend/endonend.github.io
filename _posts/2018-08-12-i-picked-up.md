@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-11 19:11:45 -0500
 guid: http://endonend.micro.blog/2018/08/12/i-picked-up.html
 ---
