@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/1437841e43.jpg
 date: 2017-01-21 15:02:56 -0500
 guid: http://endonend.micro.blog/2017/01/21/its-a-protest.html
 ---
