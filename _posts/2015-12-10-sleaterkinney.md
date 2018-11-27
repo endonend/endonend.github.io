@@ -3,6 +3,7 @@ layout: post
 title: "Sleater-Kinney"
 microblog: false
 audio: 
+photo: 
 date: 2015-12-10 17:06:41 -0500
 guid: http://endonend.micro.blog/2015/12/10/sleaterkinney.html
 ---
