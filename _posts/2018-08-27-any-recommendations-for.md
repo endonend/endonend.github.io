@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-26 21:50:57 -0500
 guid: http://endonend.micro.blog/2018/08/27/any-recommendations-for.html
 ---
