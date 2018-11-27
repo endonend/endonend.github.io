@@ -3,6 +3,7 @@ layout: post
 title: "Offline: how&#039;s it going? &#124; The Verge"
 microblog: false
 audio: 
+photo: 
 date: 2012-08-20 00:24:26 -0500
 guid: http://endonend.micro.blog/2012/08/20/offline-hows-it.html
 ---
