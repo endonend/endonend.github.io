@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-28 20:20:02 -0500
 guid: http://endonend.micro.blog/2018/09/29/exciting-start-to.html
 ---
