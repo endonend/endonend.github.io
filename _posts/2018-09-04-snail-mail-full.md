@@ -3,6 +3,7 @@ layout: post
 title: "Snail Mail - Full Performance (Live on KEXP) - YouTube"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-04 15:44:43 -0500
 guid: http://endonend.micro.blog/2018/09/04/snail-mail-full.html
 ---
