@@ -3,6 +3,7 @@ layout: post
 title: "Friday Fifteen: June 29th Edition"
 microblog: false
 audio: 
+photo: 
 date: 2012-06-29 15:00:21 -0500
 guid: http://endonend.micro.blog/2012/06/29/friday-fifteen-june.html
 ---
