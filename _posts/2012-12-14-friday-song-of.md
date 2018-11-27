@@ -3,6 +3,7 @@ layout: post
 title: "Friday Song of the Day: One Last Wish &quot;My Better Half&quot;"
 microblog: false
 audio: 
+photo: 
 date: 2012-12-14 09:28:04 -0500
 guid: http://endonend.micro.blog/2012/12/14/friday-song-of.html
 ---
