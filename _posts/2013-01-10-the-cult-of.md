@@ -3,6 +3,7 @@ layout: post
 title: "The Cult of Done Manifesto"
 microblog: false
 audio: 
+photo: 
 date: 2013-01-10 14:10:59 -0500
 guid: http://endonend.micro.blog/2013/01/10/the-cult-of.html
 ---
