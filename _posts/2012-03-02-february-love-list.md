@@ -3,6 +3,7 @@ layout: post
 title: "February Love List Update"
 microblog: false
 audio: 
+photo: 
 date: 2012-03-02 17:11:41 -0500
 guid: http://endonend.micro.blog/2012/03/02/february-love-list.html
 ---
