@@ -3,6 +3,7 @@ layout: post
 title: "The Year We Broke the Internet"
 microblog: false
 audio: 
+photo: 
 date: 2013-12-21 21:53:00 -0500
 guid: http://endonend.micro.blog/2013/12/22/the-year-we.html
 ---
