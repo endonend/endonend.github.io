@@ -3,6 +3,7 @@ layout: post
 title: "Photo-a-Day 2015"
 microblog: false
 audio: 
+photo: 
 date: 2015-02-03 09:50:07 -0500
 guid: http://endonend.micro.blog/2015/02/03/photoaday.html
 ---
