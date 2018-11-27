@@ -3,6 +3,7 @@ layout: post
 title: "Being a Dad"
 microblog: false
 audio: 
+photo: 
 date: 2012-06-18 11:17:35 -0500
 guid: http://endonend.micro.blog/2012/06/18/being-a-dad.html
 ---
