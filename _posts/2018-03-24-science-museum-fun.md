@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/c623375446.jpg
 date: 2018-03-24 18:42:55 -0500
 guid: http://endonend.micro.blog/2018/03/24/science-museum-fun.html
 ---
