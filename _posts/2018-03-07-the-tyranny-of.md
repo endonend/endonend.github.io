@@ -3,6 +3,7 @@ layout: post
 title: "The Tyranny of Convenience"
 microblog: false
 audio: 
+photo: 
 date: 2018-03-06 20:32:18 -0500
 guid: http://endonend.micro.blog/2018/03/07/the-tyranny-of.html
 ---
