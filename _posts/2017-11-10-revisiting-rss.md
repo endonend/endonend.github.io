@@ -3,6 +3,7 @@ layout: post
 title: "Re-visiting RSS"
 microblog: false
 audio: 
+photo: 
 date: 2017-11-10 14:13:22 -0500
 guid: http://endonend.micro.blog/2017/11/10/revisiting-rss.html
 ---
