@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-18 13:33:51 -0500
 guid: http://endonend.micro.blog/2018/05/18/manchester-orchestra-cover.html
 ---
