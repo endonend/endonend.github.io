@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/7567661732.jpg
 date: 2018-01-10 16:49:13 -0500
 guid: http://endonend.micro.blog/2018/01/10/todays-library-pickup.html
 ---
