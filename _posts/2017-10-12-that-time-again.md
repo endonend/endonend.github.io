@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/2890a8fa90.jpg
 date: 2017-10-11 21:42:20 -0500
 guid: http://endonend.micro.blog/2017/10/12/that-time-again.html
 ---
