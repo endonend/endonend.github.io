@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-09 20:55:53 -0500
 guid: http://endonend.micro.blog/2018/09/10/now-watching-mayans.html
 ---
