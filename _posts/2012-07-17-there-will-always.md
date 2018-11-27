@@ -3,6 +3,7 @@ layout: post
 title: "There will always be more work"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-16 21:23:30 -0500
 guid: http://endonend.micro.blog/2012/07/17/there-will-always.html
 ---
