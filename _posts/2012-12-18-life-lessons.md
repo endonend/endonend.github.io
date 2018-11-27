@@ -3,6 +3,7 @@ layout: post
 title: "Life Lessons"
 microblog: false
 audio: 
+photo: 
 date: 2012-12-18 10:16:24 -0500
 guid: http://endonend.micro.blog/2012/12/18/life-lessons.html
 ---
