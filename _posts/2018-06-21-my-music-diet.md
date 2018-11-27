@@ -3,6 +3,7 @@ layout: post
 title: "My Music Diet: Five New(ish) Releases"
 microblog: false
 audio: 
+photo: 
 date: 2018-06-21 11:46:36 -0500
 guid: http://endonend.micro.blog/2018/06/21/my-music-diet.html
 ---
