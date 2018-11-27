@@ -3,6 +3,7 @@ layout: post
 title: "Paper Faces"
 microblog: false
 audio: 
+photo: http://endonend.org/wp-content/uploads/2012/09/tgwonv74myrmj3rrjhgy.jpeg
 date: 2012-09-04 16:33:15 -0500
 guid: http://endonend.micro.blog/2012/09/04/paper-faces.html
 ---
