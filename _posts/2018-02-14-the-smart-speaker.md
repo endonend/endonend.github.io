@@ -3,6 +3,7 @@ layout: post
 title: "The Smart Speaker Battle"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-14 14:22:59 -0500
 guid: http://endonend.micro.blog/2018/02/14/the-smart-speaker.html
 ---
