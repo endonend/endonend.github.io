@@ -3,6 +3,7 @@ layout: post
 title: "Four Noble Truths of Relationships"
 microblog: false
 audio: 
+photo: 
 date: 2013-08-01 21:26:00 -0500
 guid: http://endonend.micro.blog/2013/08/02/four-noble-truths.html
 ---
