@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.endonend.org/uploads/2017/142cb09b73.jpg
 date: 2017-11-14 09:47:52 -0500
 guid: http://endonend.micro.blog/2017/11/14/microblog-photo-challenge.html
 ---
