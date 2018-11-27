@@ -3,6 +3,7 @@ layout: post
 title: "Concussions and the NFL"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-02 21:48:39 -0500
 guid: http://endonend.micro.blog/2018/02/03/concussions-and-the.html
 ---
