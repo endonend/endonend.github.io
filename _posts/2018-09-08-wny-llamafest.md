@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.endonend.org/uploads/2018/443960dbfe.jpg
 date: 2018-09-08 15:39:32 -0500
 guid: http://endonend.micro.blog/2018/09/08/wny-llamafest.html
 ---
