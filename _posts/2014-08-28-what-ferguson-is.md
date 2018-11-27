@@ -3,6 +3,7 @@ layout: post
 title: "What Ferguson is really about"
 microblog: false
 audio: 
+photo: 
 date: 2014-08-27 20:51:03 -0500
 guid: http://endonend.micro.blog/2014/08/28/what-ferguson-is.html
 ---
