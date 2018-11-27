@@ -3,6 +3,7 @@ layout: post
 title: "May Love List Update"
 microblog: false
 audio: 
+photo: 
 date: 2012-05-30 21:28:27 -0500
 guid: http://endonend.micro.blog/2012/05/31/may-love-list.html
 ---
