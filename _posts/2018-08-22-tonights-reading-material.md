@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/d622f62a49.jpg
 date: 2018-08-21 19:53:52 -0500
 guid: http://endonend.micro.blog/2018/08/22/tonights-reading-material.html
 ---
