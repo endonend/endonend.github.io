@@ -3,6 +3,7 @@ layout: post
 title: "Relic Scout Development Journal (S1E2): Hit List"
 microblog: false
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/f863ca0e9d.jpg
 date: 2018-09-03 20:44:16 -0500
 guid: http://endonend.micro.blog/2018/09/04/relic-scout-development.html
 ---
