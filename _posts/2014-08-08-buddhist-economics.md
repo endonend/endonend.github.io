@@ -3,6 +3,7 @@ layout: post
 title: "Buddhist economics"
 microblog: false
 audio: 
+photo: 
 date: 2014-08-08 18:29:14 -0500
 guid: http://endonend.micro.blog/2014/08/08/buddhist-economics.html
 ---
