@@ -3,6 +3,7 @@ layout: post
 title: "Rehearsing"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-29 21:30:00 -0500
 guid: http://endonend.micro.blog/2013/05/30/rehearsing.html
 ---
