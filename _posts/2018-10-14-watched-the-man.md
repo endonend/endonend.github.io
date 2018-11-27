@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-13 23:13:34 -0500
 guid: http://endonend.micro.blog/2018/10/14/watched-the-man.html
 ---
