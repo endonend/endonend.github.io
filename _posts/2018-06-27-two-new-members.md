@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/f74f6b65a4.jpg
 date: 2018-06-27 18:10:07 -0500
 guid: http://endonend.micro.blog/2018/06/27/two-new-members.html
 ---
