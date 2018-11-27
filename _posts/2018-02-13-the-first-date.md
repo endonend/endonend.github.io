@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-13 11:12:23 -0500
 guid: http://endonend.micro.blog/2018/02/13/the-first-date.html
 ---
