@@ -3,6 +3,7 @@ layout: post
 title: "State of the Blog - 7 month edition"
 microblog: false
 audio: 
+photo: 
 date: 2012-03-30 08:32:04 -0500
 guid: http://endonend.micro.blog/2012/03/30/state-of-the.html
 ---
