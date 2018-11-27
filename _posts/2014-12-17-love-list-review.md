@@ -3,6 +3,7 @@ layout: post
 title: "Love List: 2014 Review"
 microblog: false
 audio: 
+photo: 
 date: 2014-12-16 21:24:29 -0500
 guid: http://endonend.micro.blog/2014/12/17/love-list-review.html
 ---
