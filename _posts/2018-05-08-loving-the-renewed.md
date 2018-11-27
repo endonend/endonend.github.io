@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-08 09:58:00 -0500
 guid: http://endonend.micro.blog/2018/05/08/loving-the-renewed.html
 ---
