@@ -3,6 +3,7 @@ layout: post
 title: "Mike Huckabee: Some Syrian refugees may have ‘nefarious purposes’"
 microblog: false
 audio: 
+photo: 
 date: 2015-09-14 13:54:30 -0500
 guid: http://endonend.micro.blog/2015/09/14/mike-huckabee-some.html
 ---
