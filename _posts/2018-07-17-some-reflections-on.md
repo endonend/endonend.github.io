@@ -3,6 +3,7 @@ layout: post
 title: "Some reflections on my roadtrip across the western United States"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-17 10:11:44 -0500
 guid: http://endonend.micro.blog/2018/07/17/some-reflections-on.html
 ---
