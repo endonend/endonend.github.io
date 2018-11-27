@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-06 17:37:23 -0500
 guid: http://endonend.micro.blog/2018/09/06/day-of-moving.html
 ---
