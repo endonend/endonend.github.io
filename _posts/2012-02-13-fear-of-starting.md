@@ -3,6 +3,7 @@ layout: post
 title: "Fear of Starting"
 microblog: false
 audio: 
+photo: 
 date: 2012-02-13 16:13:00 -0500
 guid: http://endonend.micro.blog/2012/02/13/fear-of-starting.html
 ---
