@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-24 21:33:42 -0500
 guid: http://endonend.micro.blog/2018/08/25/making-unconscious-rules.html
 ---
