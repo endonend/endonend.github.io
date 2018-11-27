@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://micro.endonend.org/uploads/2018/30ac0d5502.jpg
 date: 2017-12-31 21:50:53 -0500
 guid: http://endonend.micro.blog/2018/01/01/hockey-albrightknox-summer.html
 ---
