@@ -3,6 +3,7 @@ layout: post
 title: "#DeactiDay and embracing IndieWeb"
 microblog: false
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/88d22ed9d8.jpg
 date: 2018-08-13 12:54:41 -0500
 guid: http://endonend.micro.blog/2018/08/13/deactiday-and-embracing.html
 ---
