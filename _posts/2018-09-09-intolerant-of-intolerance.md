@@ -3,6 +3,7 @@ layout: post
 title: "Intolerant of intolerance"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-08 19:16:30 -0500
 guid: http://endonend.micro.blog/2018/09/09/intolerant-of-intolerance.html
 ---
