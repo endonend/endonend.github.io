@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-25 09:18:24 -0500
 guid: http://endonend.micro.blog/2018/06/25/preview-of-sunlit.html
 ---
