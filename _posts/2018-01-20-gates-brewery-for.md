@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2018/01/img_3537.jpg
 date: 2018-01-20 18:58:49 -0500
 guid: http://endonend.micro.blog/2018/01/20/gates-brewery-for.html
 ---
