@@ -3,6 +3,7 @@ layout: post
 title: "Homemade Hot Sauce"
 microblog: false
 audio: 
+photo: 
 date: 2013-11-12 22:06:00 -0500
 guid: http://endonend.micro.blog/2013/11/13/homemade-hot-sauce.html
 ---
