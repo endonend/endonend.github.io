@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-31 15:01:59 -0500
 guid: http://endonend.micro.blog/2018/08/31/every-single-emotion.html
 ---
