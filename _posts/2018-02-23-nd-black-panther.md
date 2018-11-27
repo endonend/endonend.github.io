@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-23 18:55:37 -0500
 guid: http://endonend.micro.blog/2018/02/23/nd-black-panther.html
 ---
