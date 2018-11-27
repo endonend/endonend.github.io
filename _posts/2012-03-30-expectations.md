@@ -3,6 +3,7 @@ layout: post
 title: "Expectations"
 microblog: false
 audio: 
+photo: 
 date: 2012-03-29 21:25:02 -0500
 guid: http://endonend.micro.blog/2012/03/30/expectations.html
 ---
