@@ -3,6 +3,7 @@ layout: post
 title: "How Trump Will Turn America’s Open Internet Into an Ugly Version of China’s"
 microblog: false
 audio: 
+photo: 
 date: 2017-11-27 16:41:53 -0500
 guid: http://endonend.micro.blog/2017/11/27/how-trump-will.html
 ---
