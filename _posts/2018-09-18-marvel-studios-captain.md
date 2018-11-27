@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-18 09:57:35 -0500
 guid: http://endonend.micro.blog/2018/09/18/marvel-studios-captain.html
 ---
