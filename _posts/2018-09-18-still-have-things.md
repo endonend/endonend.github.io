@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-18 12:40:34 -0500
 guid: http://endonend.micro.blog/2018/09/18/still-have-things.html
 ---
