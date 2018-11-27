@@ -3,6 +3,7 @@ layout: post
 title: "Why This Is Not the Golden Age for Photobooks"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-09 20:36:01 -0500
 guid: http://endonend.micro.blog/2015/06/10/why-this-is.html
 ---
