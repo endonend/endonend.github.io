@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-01 22:35:55 -0500
 guid: http://endonend.micro.blog/2018/01/02/been-spending-an.html
 ---
