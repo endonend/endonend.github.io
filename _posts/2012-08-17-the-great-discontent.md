@@ -3,6 +3,7 @@ layout: post
 title: "The Great Discontent: Seth Godin"
 microblog: false
 audio: 
+photo: 
 date: 2012-08-17 17:40:55 -0500
 guid: http://endonend.micro.blog/2012/08/17/the-great-discontent.html
 ---
