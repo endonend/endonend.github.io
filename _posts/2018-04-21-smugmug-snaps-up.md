@@ -3,6 +3,7 @@ layout: post
 title: "SmugMug snaps up Flickr photo service from Verizon&#039;s Oath"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-20 20:15:00 -0500
 guid: http://endonend.micro.blog/2018/04/21/smugmug-snaps-up.html
 ---
