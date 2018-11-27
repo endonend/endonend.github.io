@@ -3,6 +3,7 @@ layout: post
 title: "You Can’t, You Won’t, You Don’t Stop"
 microblog: false
 audio: 
+photo: 
 date: 2013-10-17 21:24:00 -0500
 guid: http://endonend.micro.blog/2013/10/18/you-cant-you.html
 ---
