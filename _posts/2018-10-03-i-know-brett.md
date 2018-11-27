@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-02 19:46:49 -0500
 guid: http://endonend.micro.blog/2018/10/03/i-know-brett.html
 ---
