@@ -3,6 +3,7 @@ layout: post
 title: "Against Productivity"
 microblog: false
 audio: 
+photo: 
 date: 2014-12-01 19:36:59 -0500
 guid: http://endonend.micro.blog/2014/12/02/against-productivity.html
 ---
