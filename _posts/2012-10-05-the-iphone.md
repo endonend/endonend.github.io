@@ -3,6 +3,7 @@ layout: post
 title: "The iPhone 5"
 microblog: false
 audio: 
+photo: http://endonend.org/wp-content/uploads/2012/10/photo.png
 date: 2012-10-05 18:09:02 -0500
 guid: http://endonend.micro.blog/2012/10/05/the-iphone.html
 ---
