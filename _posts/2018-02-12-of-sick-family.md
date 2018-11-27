@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-12 13:48:45 -0500
 guid: http://endonend.micro.blog/2018/02/12/of-sick-family.html
 ---
