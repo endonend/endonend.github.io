@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-02-16 20:33:19 -0500
 guid: http://endonend.micro.blog/2017/02/17/andrew-sullivans-delusional.html
 ---
