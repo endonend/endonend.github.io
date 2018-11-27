@@ -3,6 +3,7 @@ layout: post
 title: "Teaching Grit"
 microblog: false
 audio: 
+photo: 
 date: 2014-11-12 21:13:55 -0500
 guid: http://endonend.micro.blog/2014/11/13/teaching-grit.html
 ---
