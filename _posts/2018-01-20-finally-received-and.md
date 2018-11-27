@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.endonend.org/wp-content/uploads/2018/01/img_3484.jpg
 date: 2018-01-20 10:37:30 -0500
 guid: http://endonend.micro.blog/2018/01/20/finally-received-and.html
 ---
