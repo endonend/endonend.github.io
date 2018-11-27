@@ -3,6 +3,7 @@ layout: post
 title: "White America’s ‘Broken Heart’"
 microblog: false
 audio: 
+photo: 
 date: 2016-02-25 10:33:37 -0500
 guid: http://endonend.micro.blog/2016/02/25/white-americas-broken.html
 ---
