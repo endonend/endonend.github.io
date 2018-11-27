@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2017/260c5b4257.jpg
 date: 2017-08-24 21:48:25 -0500
 guid: http://endonend.micro.blog/2017/08/25/history-cruisin-via.html
 ---
