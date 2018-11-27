@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-04 21:13:19 -0500
 guid: http://endonend.micro.blog/2017/12/05/senate-gop-accidentally.html
 ---
