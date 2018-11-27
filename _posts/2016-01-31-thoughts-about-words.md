@@ -3,6 +3,7 @@ layout: post
 title: "Thoughts About Words"
 microblog: false
 audio: 
+photo: 
 date: 2016-01-30 19:57:45 -0500
 guid: http://endonend.micro.blog/2016/01/31/thoughts-about-words.html
 ---
