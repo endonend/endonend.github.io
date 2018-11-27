@@ -3,6 +3,7 @@ layout: post
 title: "The Myth of Read it Later"
 microblog: false
 audio: 
+photo: 
 date: 2014-11-07 22:20:07 -0500
 guid: http://endonend.micro.blog/2014/11/08/the-myth-of.html
 ---
