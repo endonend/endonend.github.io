@@ -3,6 +3,7 @@ layout: post
 title: "Find that speck"
 microblog: false
 audio: 
+photo: 
 date: 2014-08-11 23:02:43 -0500
 guid: http://endonend.micro.blog/2014/08/12/find-that-speck.html
 ---
