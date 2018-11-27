@@ -3,6 +3,7 @@ layout: post
 title: "Hop Along - Powerful Man"
 microblog: false
 audio: 
+photo: 
 date: 2015-06-10 15:23:52 -0500
 guid: http://endonend.micro.blog/2015/06/10/hop-along-powerful.html
 ---
