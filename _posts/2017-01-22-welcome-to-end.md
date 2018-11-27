@@ -3,6 +3,7 @@ layout: post
 title: "Welcome to End On End, micro edition"
 microblog: false
 audio: 
+photo: 
 date: 2017-01-21 22:02:18 -0500
 guid: http://endonend.micro.blog/2017/01/22/welcome-to-end.html
 ---
