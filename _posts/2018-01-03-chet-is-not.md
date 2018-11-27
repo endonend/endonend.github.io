@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://endonend.micro.blog/uploads/2018/78efefe28d.jpg
 date: 2018-01-03 09:43:05 -0500
 guid: http://endonend.micro.blog/2018/01/03/chet-is-not.html
 ---
