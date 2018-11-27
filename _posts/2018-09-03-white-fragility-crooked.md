@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-03 12:38:36 -0500
 guid: http://endonend.micro.blog/2018/09/03/white-fragility-crooked.html
 ---
