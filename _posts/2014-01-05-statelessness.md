@@ -3,6 +3,7 @@ layout: post
 title: "Statelessness"
 microblog: false
 audio: 
+photo: 
 date: 2014-01-04 21:45:00 -0500
 guid: http://endonend.micro.blog/2014/01/05/statelessness.html
 ---
