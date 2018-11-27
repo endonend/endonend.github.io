@@ -3,6 +3,7 @@ layout: post
 title: "“Gideon Falls” Trailer by Lemire and Sorrentino – Multiversity Comics"
 microblog: false
 audio: 
+photo: 
 date: 2018-01-09 13:41:30 -0500
 guid: http://endonend.micro.blog/2018/01/09/gideon-falls-trailer.html
 ---
