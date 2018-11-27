@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-02 21:29:54 -0500
 guid: http://endonend.micro.blog/2018/01/03/the-indieweb-movement.html
 ---
