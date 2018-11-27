@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-21 15:25:07 -0500
 guid: http://endonend.micro.blog/2018/08/21/read-elizabeth-warrens.html
 ---
