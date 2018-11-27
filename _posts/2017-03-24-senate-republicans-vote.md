@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-03-23 21:00:40 -0500
 guid: http://endonend.micro.blog/2017/03/24/senate-republicans-vote.html
 ---
