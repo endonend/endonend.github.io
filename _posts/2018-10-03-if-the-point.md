@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-02 19:26:27 -0500
 guid: http://endonend.micro.blog/2018/10/03/if-the-point.html
 ---
