@@ -3,6 +3,7 @@ layout: post
 title: "Stella &amp; Jolie"
 microblog: false
 audio: 
+photo: /universal/images-v6/configuration/no-image.png
 date: 2012-08-24 22:05:44 -0500
 guid: http://endonend.micro.blog/2012/08/25/stella-amp-jolie.html
 ---
