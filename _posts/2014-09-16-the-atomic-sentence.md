@@ -3,6 +3,7 @@ layout: post
 title: "The atomic sentence"
 microblog: false
 audio: 
+photo: 
 date: 2014-09-16 13:33:01 -0500
 guid: http://endonend.micro.blog/2014/09/16/the-atomic-sentence.html
 ---
