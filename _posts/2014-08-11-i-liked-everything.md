@@ -3,6 +3,7 @@ layout: post
 title: "I Liked Everything I Saw on Facebook for Two Days. Here’s What It Did to Me"
 microblog: false
 audio: 
+photo: 
 date: 2014-08-11 13:26:46 -0500
 guid: http://endonend.micro.blog/2014/08/11/i-liked-everything.html
 ---
