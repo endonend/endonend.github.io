@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-09 14:22:23 -0500
 guid: http://endonend.micro.blog/2018/11/09/rejoined-flickr-pro.html
 ---
