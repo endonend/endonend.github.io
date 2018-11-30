@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-30 14:13:25 -0500
 guid: http://endonend.micro.blog/2018/10/30/my-latest-comic.html
 ---
