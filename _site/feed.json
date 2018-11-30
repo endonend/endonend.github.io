@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://endonend.micro.blog/2018/11/30/finally-gave-in.html",
+	      	
+			"content_html": "<p>Finally gave in and got an Instant Pot. What recipe should I try first?</p>\n",
+			"date_published": "2018-11-29T21:09:46-05:00",
+			"url": "https://www.endonend.org/2018/11/29/finally-gave-in.html"
+		},
+		
+		{
+			"id": "http://endonend.micro.blog/2018/11/22/cousins-on-thanksgiving.html",
+	      	
+			"content_html": "<p>Cousins on Thanksgiving 🦃</p>\n\n<p><img src=\"https://www.endonend.org/uploads/2018/9a4d1286b2.jpg\" width=\"600\" height=\"498\" /></p>\n",
+			"date_published": "2018-11-22T16:22:06-05:00",
+			"url": "https://www.endonend.org/2018/11/22/cousins-on-thanksgiving.html"
+		},
+		
+		{
 			"id": "http://endonend.micro.blog/2018/11/18/saw-the-crimes.html",
 	      	
 			"content_html": "<p>Saw The Crimes of Grindelwald tonight with the family — so good!</p>\n",
@@ -190,22 +206,6 @@
 			"content_html": "<p>Three perspectives</p>\n\n<p><img src=\"https://www.endonend.org/uploads/2018/80305ab0c9.jpg\" width=\"600\" height=\"449\" /><img src=\"https://www.endonend.org/uploads/2018/3376927220.jpg\" width=\"600\" height=\"449\" /><img src=\"https://www.endonend.org/uploads/2018/fa16b875cd.jpg\" width=\"600\" height=\"449\" /></p>\n",
 			"date_published": "2018-10-25T20:24:26-04:00",
 			"url": "https://www.endonend.org/2018/10/25/three-perspectives.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/10/25/comic-collectors-while.html",
-	      	
-			"content_html": "<p>Comic collectors! While we re-factor the Relic Scout app to include more buying tools, the main focus of the site will be content to help collectors (of all types) build a quality collection on a budget. Please subscribe and pass the word! <a href=\"https://www.relicscout.com/\">www.relicscout.com</a></p>\n",
-			"date_published": "2018-10-25T09:26:58-04:00",
-			"url": "https://www.endonend.org/2018/10/25/comic-collectors-while.html"
-		},
-		
-		{
-			"id": "http://endonend.micro.blog/2018/10/25/finished-marvels-luke.html",
-	      	
-			"content_html": "<p>Finished: <a href=\"http://ishowsapp.com/share/show/304219\">Marvel’s Luke Cage</a>📺 – Hoping for a Heroes for Hire team-up!</p>\n",
-			"date_published": "2018-10-24T21:14:55-04:00",
-			"url": "https://www.endonend.org/2018/10/24/finished-marvels-luke.html"
 		}
 		
 	]
