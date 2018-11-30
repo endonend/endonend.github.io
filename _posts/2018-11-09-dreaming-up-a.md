@@ -3,6 +3,7 @@ layout: post
 title: "Dreaming up a plan for the House"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-09 15:58:57 -0500
 guid: http://endonend.micro.blog/2018/11/09/dreaming-up-a.html
 ---
