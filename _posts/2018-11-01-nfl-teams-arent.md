@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.endonend.org/uploads/2018/7e01f2bf81.jpg
 date: 2018-11-01 09:24:49 -0500
 guid: http://endonend.micro.blog/2018/11/01/nfl-teams-arent.html
 ---
