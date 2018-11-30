@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.endonend.org/uploads/2018/ce13efd903.jpg
 date: 2018-10-30 18:12:58 -0500
 guid: http://endonend.micro.blog/2018/10/30/laverne-got-a.html
 ---
