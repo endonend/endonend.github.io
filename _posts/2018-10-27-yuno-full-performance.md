@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-27 09:56:22 -0500
 guid: http://endonend.micro.blog/2018/10/27/yuno-full-performance.html
 ---
