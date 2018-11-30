@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-06 10:02:41 -0500
 guid: http://endonend.micro.blog/2018/11/06/watch-the-deadly.html
 ---
