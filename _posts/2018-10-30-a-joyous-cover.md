@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-29 19:50:23 -0500
 guid: http://endonend.micro.blog/2018/10/30/a-joyous-cover.html
 ---
