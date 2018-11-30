@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-01 18:45:18 -0500
 guid: http://endonend.micro.blog/2018/11/01/over-at-relic.html
 ---
