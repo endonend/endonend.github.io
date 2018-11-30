@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.endonend.org/uploads/2018/570819bb69.jpg
 date: 2018-11-13 16:54:41 -0500
 guid: http://endonend.micro.blog/2018/11/13/laverne-and-cocoa.html
 ---
