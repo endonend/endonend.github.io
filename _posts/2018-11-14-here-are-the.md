@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-14 10:17:22 -0500
 guid: http://endonend.micro.blog/2018/11/14/here-are-the.html
 ---
