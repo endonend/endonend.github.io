@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-25 08:26:58 -0500
 guid: http://endonend.micro.blog/2018/10/25/comic-collectors-while.html
 ---
