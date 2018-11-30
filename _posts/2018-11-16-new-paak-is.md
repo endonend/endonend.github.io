@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.endonend.org/uploads/2018/60d99a1e17.jpg
 date: 2018-11-16 14:55:07 -0500
 guid: http://endonend.micro.blog/2018/11/16/new-paak-is.html
 ---
