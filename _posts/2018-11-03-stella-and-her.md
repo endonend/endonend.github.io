@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://www.endonend.org/uploads/2018/338abd48f8.jpg
 date: 2018-11-03 16:56:46 -0500
 guid: http://endonend.micro.blog/2018/11/03/stella-and-her.html
 ---
